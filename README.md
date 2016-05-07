@@ -3,13 +3,13 @@ A collection of awesome study resources for learners of English. Please read the
 
 ## Podcasts
 
-* [ESL Podcasts](https://www.eslpod.com/) - for Anyone Who Wants to Improve Their English Speaking and Listening Skills
 * [All Ears English](http://allearsenglish.com/) - Learn Advanced Conversational American English
+* [ESL Podcasts](https://www.eslpod.com/) - for Anyone Who Wants to Improve Their English Speaking and Listening Skills
 
 ## Youtube
 
 * [Rachel's English](https://www.youtube.com/user/rachelsenglish) - American English pronunciation resource.
-* [Learn English with Ronnie](https://www.youtube.com/user/EnglishLessons4U) - Free English lessons in pronunciation, grammar, spelling.
+* [Learn English with Ronnie](https://www.youtube.com/user/EnglishLessons4U) - English lessons in pronunciation, grammar, spelling.
 
 ## Language Exchange Websites
 *Conversation Exchange Websites are a fantastic idea and you can study english with native English speakers*
@@ -17,3 +17,6 @@ A collection of awesome study resources for learners of English. Please read the
 * [iTalki](https://www.italki.com/) - Get 1-on-1 online lessons with native language teachers
 * [Verbling](https://www.verbling.com/community) - Verbling Allows You to Practice English in Video Rooms (Google Hangouts)
 * [Speaky](https://www.gospeaky.com/) - Find and Meet Native Speakers From All Around the World.
+
+## Online Dictionaries
+* [Forvo](http://forvo.com/) -  Find out How Any English Word Is Pronounced in Different Countries.
