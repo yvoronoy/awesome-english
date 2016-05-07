@@ -5,8 +5,6 @@ A collection of awesome study resources for learners of English. Please read the
 
 * [All Ears English](http://allearsenglish.com/) - Learn Advanced Conversational American English.
 * [ESL Podcasts](https://www.eslpod.com/) - for Anyone Who Wants to Improve Their English Speaking and Listening Skills.
-* [Anglo-Link](https://www.youtube.com/user/MinooAngloLink/) - Useful Grammar Lessons.
-* [Daily Dictation](https://www.youtube.com/user/dailydictation) - Daily Dictation for students who want to improve their listening comprehension skills.
 
 ## Youtube
 
@@ -14,6 +12,8 @@ A collection of awesome study resources for learners of English. Please read the
 * [Learn English with Ronnie](https://www.youtube.com/user/EnglishLessons4U) - English lessons in pronunciation, grammar, spelling.
 * [BBC English Grammar](https://www.youtube.com/playlist?list=PLcetZ6gSk96_zHuVg6Ecy2F7j4Aq4valQ) - Improve your grammar podcasts and short videos.
 * [BBC English HowTo](https://www.youtube.com/playlist?list=PLcetZ6gSk9692RVJgFx4JXwFG4mWK0XGj) - Useful English Phrases That You Can Use Immediately.
+* [Anglo-Link](https://www.youtube.com/user/MinooAngloLink/) - Useful Grammar Lessons.
+* [Daily Dictation](https://www.youtube.com/user/dailydictation) - Daily Dictation for students who want to improve their listening comprehension skills.
 
 ## Language Exchange Websites
 
