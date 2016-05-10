@@ -26,6 +26,7 @@ A collection of awesome study resources for learners of English. Please read the
 ## Online Dictionaries
 
 * [Forvo](http://forvo.com/) -  Find out How Any English Word Is Pronounced in Different Countries.
+* [Oxford Dictionaries](http://www.oxfordlearnersdictionaries.com/) - Dictionaries with Meanings, Definitions, Pronunciations and Pictures.
 
 ## Reading Resources
 
@@ -34,3 +35,8 @@ A collection of awesome study resources for learners of English. Please read the
 * [Reading Room](http://www.englishpage.com/readingroom/readingroomintro.html) - Newspapers, Magazines, Books and Libraries
 * [Reading Comprehension Exercises](http://www.usingenglish.com/comprehension/) - 3 Levels of Texts With Exercises.
 * [IMDB scripts](http://www.imsdb.com/) - Internet Movie Script Database
+
+## Live TV Channels
+* [ABC7 Eyewitness News](http://abc7.com/live/) - a TV station licensed to Los Angeles, California
+* [CBS News](http://www.cbsnews.com/live/) - CBS News is the News Division of American TV and radio network CBS.
+* [KTLA 5](http://ktla.com/on-air/live-streaming/) - TV station located in Los Angeles, California, United States. 
