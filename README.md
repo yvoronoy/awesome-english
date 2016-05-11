@@ -38,5 +38,7 @@ A collection of awesome study resources for learners of English. Please read the
 
 ## Live TV Channels
 * [ABC7 Eyewitness News](http://abc7.com/live/) - a TV station licensed to Los Angeles, California
+* [ABC News](http://abcnews.go.com/Live) - ABC News TV channel
+* [Bloomberg](http://www.bloomberg.com/live/us) - Bloomberg Bussiness TV Channel in New York
 * [CBS News](http://www.cbsnews.com/live/) - CBS News is the News Division of American TV and radio network CBS.
 * [KTLA 5](http://ktla.com/on-air/live-streaming/) - TV station located in Los Angeles, California, United States. 
