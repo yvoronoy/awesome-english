@@ -23,9 +23,12 @@ A collection of awesome study resources for learners of English. Please read the
 * [KTLA 5](http://ktla.com/on-air/live-streaming/) - TV station located in Los Angeles, California, United States.
 
 ## TV Talk Shows
-* [Jimmy Kimmel Live!](https://www.youtube.com/channel/UCa6vGFO9ty8v5KZJXQxdhaw) - is an American late-night talk show.
+* [Jimmy Kimmel Live!](https://www.youtube.com/user/JimmyKimmelLive) - is an American late-night talk show.
 * [The Wendy Williams Show](https://www.youtube.com/user/WendyWilliamsShow) - is an American syndicated infotainment talk show.
 * [The Tonight Show Starring Jimmy Fallon](https://www.youtube.com/user/latenight) -  is an American late-night talk show hosted by Jimmy Fallon on NBC.
+* [Late Night with Seth Meyers](https://www.youtube.com/user/LateNightSeth) - is an American late-night talk show hosted by Seth Meyers on NBC.
+* [The Late Late Show with James Corden](https://www.youtube.com/user/TheLateLateShow) - is an American late-night talk show hosted by James Corden on CBS.
+* [The Late Show with Stephen Colbert](https://www.youtube.com/channel/UCMtFAi84ehTSYSE9XoHefig) - is an American late-night talk show by Stephen Colbert on CBS.
 
 ## Language Exchange Websites
 
