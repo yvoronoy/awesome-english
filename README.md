@@ -15,6 +15,18 @@ A collection of awesome study resources for learners of English. Please read the
 * [Anglo-Link](https://www.youtube.com/user/MinooAngloLink/) - Useful Grammar Lessons.
 * [Daily Dictation](https://www.youtube.com/user/dailydictation) - Daily Dictation for students who want to improve their listening comprehension skills.
 
+## Live TV Channels
+* [ABC7 Eyewitness News](http://abc7.com/live/) - a TV station licensed to Los Angeles, California
+* [ABC News](http://abcnews.go.com/Live) - ABC News TV channel
+* [Bloomberg](http://www.bloomberg.com/live/us) - Bloomberg Bussiness TV Channel in New York
+* [CBS News](http://www.cbsnews.com/live/) - CBS News is the News Division of American TV and radio network CBS.
+* [KTLA 5](http://ktla.com/on-air/live-streaming/) - TV station located in Los Angeles, California, United States.
+
+## TV Talk Shows
+* [Jimmy Kimmel Live!](https://www.youtube.com/channel/UCa6vGFO9ty8v5KZJXQxdhaw) - is an American late-night talk show.
+* [The Wendy Williams Show](https://www.youtube.com/user/WendyWilliamsShow) - is an American syndicated infotainment talk show.
+* [The Tonight Show Starring Jimmy Fallon](https://www.youtube.com/user/latenight) -  is an American late-night talk show hosted by Jimmy Fallon on NBC.
+
 ## Language Exchange Websites
 
 *Conversation Exchange Websites are a fantastic idea and you can study english with native English speakers*
@@ -36,9 +48,3 @@ A collection of awesome study resources for learners of English. Please read the
 * [Reading Comprehension Exercises](http://www.usingenglish.com/comprehension/) - 3 Levels of Texts With Exercises.
 * [IMDB scripts](http://www.imsdb.com/) - Internet Movie Script Database
 
-## Live TV Channels
-* [ABC7 Eyewitness News](http://abc7.com/live/) - a TV station licensed to Los Angeles, California
-* [ABC News](http://abcnews.go.com/Live) - ABC News TV channel
-* [Bloomberg](http://www.bloomberg.com/live/us) - Bloomberg Bussiness TV Channel in New York
-* [CBS News](http://www.cbsnews.com/live/) - CBS News is the News Division of American TV and radio network CBS.
-* [KTLA 5](http://ktla.com/on-air/live-streaming/) - TV station located in Los Angeles, California, United States. 
