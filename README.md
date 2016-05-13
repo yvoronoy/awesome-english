@@ -30,6 +30,9 @@ A collection of awesome study resources for learners of English. Please read the
 * [The Late Late Show with James Corden](https://www.youtube.com/user/TheLateLateShow) - is an American late-night talk show hosted by James Corden on CBS.
 * [The Late Show with Stephen Colbert](https://www.youtube.com/channel/UCMtFAi84ehTSYSE9XoHefig) - is an American late-night talk show by Stephen Colbert on CBS.
 
+##Live Radio Stations
+* [NPR](http://www.npr.org/) - is an National American Radio with Transcripts.
+
 ## Language Exchange Websites
 
 *Conversation Exchange Websites are a fantastic idea and you can study english with native English speakers*
@@ -50,4 +53,13 @@ A collection of awesome study resources for learners of English. Please read the
 * [Reading Room](http://www.englishpage.com/readingroom/readingroomintro.html) - Newspapers, Magazines, Books and Libraries
 * [Reading Comprehension Exercises](http://www.usingenglish.com/comprehension/) - 3 Levels of Texts With Exercises.
 * [IMDB scripts](http://www.imsdb.com/) - Internet Movie Script Database
+* [Today I Found Out](http://www.todayifoundout.com/) - Daily Interesting Fact Articles from Various Authors.
+
+##Listening Skills
+* [Spotlight](http://spotlightenglish.com/) - Spotlight is a daily 15 minute radio program for learning English.
+
+##Tools
+* [Play Phrase](http://playphrase.me/) - Tools allows to Search and Play Specific Soundbites From Movies.
+* [Lyrics Training](http://lyricstraining.com/) - LyricsTraining is the new way to learn English and other languages through music and the lyrics of your favourite songs.
+
 
