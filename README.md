@@ -54,12 +54,24 @@ A collection of awesome study resources for learners of English. Please read the
 * [Reading Comprehension Exercises](http://www.usingenglish.com/comprehension/) - 3 Levels of Texts With Exercises.
 * [IMDB scripts](http://www.imsdb.com/) - Internet Movie Script Database
 * [Today I Found Out](http://www.todayifoundout.com/) - Daily Interesting Fact Articles from Various Authors.
+* [Newsy](http://www.newsy.com/) - Short News with Transcriptions.
 
 ##Listening Skills
 * [Spotlight](http://spotlightenglish.com/) - Spotlight is a daily 15 minute radio program for learning English.
 
+##Speaking Skills
+[Talk English](http://www.talkenglish.com/) - Learn English Speaking
+
+##Exercises and Tests
+* [ETS](http://englishteststore.net/) - English Tests.
+* [Ego4u](http://www.ego4u.com) - Grammar and Tests
+
 ##Tools
 * [Play Phrase](http://playphrase.me/) - Tools allows to Search and Play Specific Soundbites From Movies.
 * [Lyrics Training](http://lyricstraining.com/) - LyricsTraining is the new way to learn English and other languages through music and the lyrics of your favourite songs.
+* [Quizlet](https://quizlet.com/) - Simple Tools That Let You Study Words.
 
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
