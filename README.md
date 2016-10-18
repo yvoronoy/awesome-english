@@ -20,6 +20,7 @@ A collection of awesome study resources for learners of English. Please read the
 
 * [All Ears English](http://allearsenglish.com/) - Learn Advanced Conversational American English.
 * [ESL Podcasts](https://www.eslpod.com/) - for Anyone Who Wants to Improve Their English Speaking and Listening Skills.
+* [Culips Podcast](http://esl.culips.com/) - Learn Conversational English for Everyday Use by Native English-Speakers.
 * [Luke’s English Podcast](http://teacherluke.co.uk/) - Luke Is a Qualified English Language Teacher and Stand-Up Comedian Who Provides an Engaging and Entertaining Podcast Series.
 
 ## YouTube
