@@ -21,7 +21,7 @@ A collection of awesome study resources for learners of English. Please read the
 * [All Ears English](http://allearsenglish.com/) - Learn Advanced Conversational American English.
 * [ESL Podcasts](https://www.eslpod.com/) - for Anyone Who Wants to Improve Their English Speaking and Listening Skills.
 
-## Youtube
+## YouTube
 
 * [Rachel's English](https://www.youtube.com/user/rachelsenglish) - American English pronunciation resource.
 * [Learn English with Ronnie](https://www.youtube.com/user/EnglishLessons4U) - English lessons in pronunciation, grammar, spelling.
