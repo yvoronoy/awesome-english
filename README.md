@@ -4,7 +4,7 @@ A collection of awesome study resources for learners of English. Please read the
 ## Contents
 
 - [Podcasts](#podcasts)
-- [Youtube](#youtube)
+- [YouTube](#youtube)
 - [Live TV Channels](#live-tv-channels)
 - [TV Talk Shows](#tv-talk-shows)
 - [Live Radio Stations](#live-radio-stations)
