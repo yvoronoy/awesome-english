@@ -51,8 +51,7 @@ A collection of awesome study resources for learners of English. Please read the
 - [NPR](http://www.npr.org/) - is an National American Radio with Transcripts.
 
 ## Language Exchange Websites
-
--Conversation Exchange Websites are a fantastic idea and you can study english with native English speakers-
+Conversation Exchange Websites are a fantastic idea and you can study english with native English speakers
 
 - [iTalki](https://www.italki.com/) - Get 1-on-1 online lessons with native language teachers
 - [Verbling](https://www.verbling.com/community) - Verbling Allows You to Practice English in Video Rooms (Google Hangouts)
