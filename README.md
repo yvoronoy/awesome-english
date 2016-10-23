@@ -76,7 +76,7 @@ Conversation Exchange Websites are a fantastic idea and you can study english wi
 - [Spotlight](http://spotlightenglish.com/) - Spotlight is a daily 15 minute radio program for learning English.
 
 ##Speaking Skills
-[Talk English](http://www.talkenglish.com/) - Learn English Speaking
+- [Talk English](http://www.talkenglish.com/) - Learn English Speaking
 
 ##Exercises and Tests
 - [ETS](http://englishteststore.net/) - English Tests.
