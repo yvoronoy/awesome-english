@@ -3,7 +3,7 @@ A collection of awesome study resources for learners of English. Please read the
 
 ## Contents
 
-- Listening
+- [Listening](#listening)
  - [Podcasts](#podcasts)
  - [Live Radio Stations](#live-radio-stations)
 - Watching
@@ -20,16 +20,21 @@ A collection of awesome study resources for learners of English. Please read the
 - [Tools](#tools)
  - [Online Dictionaries](#online-dictionaries)
 
-
-
-
-## Podcasts
+## Listening
+### Podcasts
 You can listen podcasts anytime and anywhere – at your desk or while you’re on the move. Podcasts often have transcripts and it allows you to listen and read at the same time.
 
 - [All Ears English](http://allearsenglish.com/) - Learn advanced conversational american english.
 - [ESL Podcasts](https://www.eslpod.com/) - Anyone who wants to improve their english speaking and listening skills.
 - [Culips Podcast](http://esl.culips.com/) - Learn conversational english for everyday use by native english speakers.
 - [Luke’s English Podcast](http://teacherluke.co.uk/) - Luke is qualified english language teacher and stand-up comedian who provides engaging and entertaining podcast series.
+
+### Live Radio Stations
+Online radio stations is one of the best and most effective ways to improve your English listening skills, while also getting accustomed to the speed and tone of native English speakers.
+- [NPR](http://www.npr.org/) - National american radio with transcripts.
+- [Fox News Talk](http://tunein.com/radio/FOX-News-Talk-s20431/) - News New York radio station.
+- [WNYC](http://www.wnyc.org/) - Public radio stations located in New York City.
+- [BBC London](http://www.bbc.co.uk/bbclondon) - News and talks radio station from London.
 
 ## YouTube
 
@@ -54,9 +59,6 @@ You can listen podcasts anytime and anywhere – at your desk or while you’re 
 - [Late Night with Seth Meyers](https://www.youtube.com/user/LateNightSeth) - is an American late-night talk show hosted by Seth Meyers on NBC.
 - [The Late Late Show with James Corden](https://www.youtube.com/user/TheLateLateShow) - is an American late-night talk show hosted by James Corden on CBS.
 - [The Late Show with Stephen Colbert](https://www.youtube.com/channel/UCMtFAi84ehTSYSE9XoHefig) - is an American late-night talk show by Stephen Colbert on CBS.
-
-##Live Radio Stations
-- [NPR](http://www.npr.org/) - is an National American Radio with Transcripts.
 
 ## Language Exchange Websites
 Conversation Exchange Websites are a fantastic idea and you can study english with native English speakers
