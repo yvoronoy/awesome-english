@@ -3,18 +3,25 @@ A collection of awesome study resources for learners of English. Please read the
 
 ## Contents
 
-- [Podcasts](#podcasts)
-- [YouTube](#youtube)
-- [Live TV Channels](#live-tv-channels)
-- [TV Talk Shows](#tv-talk-shows)
-- [Live Radio Stations](#live-radio-stations)
-- [Language Exchange Websites](#language-exchange-websites)
-- [Online Dictionaries](#online-dictionaries)
-- [Reading Resources](#reading-resources)
-- [Listening Skills](#listening-skills)
-- [Speaking Skills](#speaking-skills)
-- [Exercises and Tests](#exercises-and-tests)
+- Listening
+ - [Podcasts](#podcasts)
+ - [Live Radio Stations](#live-radio-stations)
+- Watching
+ - [YouTube](#youtube)
+ - [Live TV Channels](#live-tv-channels)
+ - [TV Talk Shows](#tv-talk-shows)
+- Speaking
+ - [Language Exchange Websites](#language-exchange-websites)
+- Reading
+ - [Reading Resources](#reading-resources)
+- Writting
+- Grammar
+ - [Exercises and Tests](#exercises-and-tests)
 - [Tools](#tools)
+ - [Online Dictionaries](#online-dictionaries)
+
+
+
 
 ## Podcasts
 You can listen podcasts anytime and anywhere – at your desk or while you’re on the move. Podcasts often have transcripts and it allows you to listen and read at the same time.
