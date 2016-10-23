@@ -17,7 +17,7 @@ A collection of awesome study resources for learners of English. Please read the
 - [Tools](#tools)
 
 ## Podcasts
-English language podcasts are an excellent way to improve your English listening skill. You can listen to them anytime anywhere – at your desk or while you’re on the move. One benefit is that podcasts often have transcripts. This means that you can listen and read at the same tim
+You can listen podcasts anytime and anywhere – at your desk or while you’re on the move. Podcasts often have transcripts and it allows you to listen and read at the same time.
 
 - [All Ears English](http://allearsenglish.com/) - Learn advanced conversational american english.
 - [ESL Podcasts](https://www.eslpod.com/) - Anyone who wants to improve their english speaking and listening skills.
