@@ -22,7 +22,7 @@ A collection of awesome study resources for learners of English. Please read the
 
 ## Listening
 ### Podcasts
-Listen podcasts anytime and anywhere to improve your listening skill. Podcasts often have transcripts and it allows you to listen and read at the same time.
+Listen podcasts anytime and anywhere to improve your listening skill. Podcasts often have transcripts and them allow you to listen and read at the same time.
 
 - [All Ears English](http://allearsenglish.com/) - Learn advanced conversational american english.
 - [ESL Podcasts](https://www.eslpod.com/) - Anyone who wants to improve their english speaking and listening skills.
