@@ -18,14 +18,14 @@ A collection of awesome study resources for learners of English. Please read the
 
 ## Podcasts
 
-- [All Ears English](http://allearsenglish.com/) - Learn Advanced Conversational American English.
-- [ESL Podcasts](https://www.eslpod.com/) - for Anyone Who Wants to Improve Their English Speaking and Listening Skills.
-- [Culips Podcast](http://esl.culips.com/) - Learn Conversational English for Everyday Use by Native English-Speakers.
-- [Luke’s English Podcast](http://teacherluke.co.uk/) - Luke Is a Qualified English Language Teacher and Stand-Up Comedian Who Provides an Engaging and Entertaining Podcast Series.
+- [All Ears English](http://allearsenglish.com/) - Learn advanced conversational american english.
+- [ESL Podcasts](https://www.eslpod.com/) - Anyone who wants to improve their english speaking and listening skills.
+- [Culips Podcast](http://esl.culips.com/) - Learn conversational english for everyday use by native english speakers.
+- [Luke’s English Podcast](http://teacherluke.co.uk/) - Luke is qualified english language teacher and stand-up comedian who provides engaging and entertaining podcast series.
 
 ## YouTube
 
-- [Rachel's English](https://www.youtube.com/user/rachelsenglish) - American English pronunciation resource.
+- [Rachel's English](https://www.youtube.com/user/rachelsenglish) - American English pronunciation resourcee
 - [Learn English with Ronnie](https://www.youtube.com/user/EnglishLessons4U) - English lessons in pronunciation, grammar, spelling.
 - [BBC English Grammar](https://www.youtube.com/playlist?list=PLcetZ6gSk96_zHuVg6Ecy2F7j4Aq4valQ) - Improve your grammar podcasts and short videos.
 - [BBC English HowTo](https://www.youtube.com/playlist?list=PLcetZ6gSk9692RVJgFx4JXwFG4mWK0XGj) - Useful English Phrases That You Can Use Immediately.
