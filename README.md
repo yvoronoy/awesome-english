@@ -19,6 +19,7 @@ A collection of awesome study resources for learners of English. Please read the
  - [Exercises and Tests](#exercises-and-tests)
 - [Tools](#tools)
  - [Online Dictionaries](#online-dictionaries)
+- [Answers](#answers)
 
 ## Listening
 ### Podcasts
@@ -97,6 +98,12 @@ Conversation Exchange Websites are a fantastic idea and you can study english wi
 - [Lyrics Training](http://lyricstraining.com/) - LyricsTraining is the new way to learn English and other languages through music and the lyrics of your favourite songs.
 - [Quizlet](https://quizlet.com/) - Simple Tools That Let You Study Words.
 - [Grammarly](http://grammarly.com/) - Grammarly makes you a better writer by finding and correcting up to 10 times more mistakes than your Word Processor.
+
+## Answers
+- [How can I improve my English listening abilities?](https://www.quora.com/How-can-I-improve-my-English-listening-abilities)
+- [How can I learn to speak English well in non-English environment?](https://www.quora.com/How-can-I-learn-to-speak-English-well-in-non-English-environment)
+- [How can I make tangible improvements to my spoken English in one month?](https://www.quora.com/How-can-I-make-tangible-improvements-to-my-spoken-English-in-one-month)
+- [Are English speaking courses helpful?](https://www.quora.com/Are-English-speaking-courses-helpful)
 
 ## License
 
