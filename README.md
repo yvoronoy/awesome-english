@@ -6,19 +6,20 @@ A collection of awesome study resources for learners of English. Please read the
 - [Listening](#listening)
  - [Podcasts](#podcasts)
  - [Live Radio Stations](#live-radio-stations)
+ - [Websites](#websites)
 - [Watching](#watching)
  - [YouTube](#youtube)
  - [Live TV Channels](#live-tv-channels)
  - [TV Talk Shows](#tv-talk-shows)
-- Speaking
+- [Speaking](#speaking)
  - [Language Exchange Websites](#language-exchange-websites)
-- Reading
- - [Reading Resources](#reading-resources)
+ - [Speaking Lessons](#speaking-lessons)
+- [Reading](#reading)
 - Writting
 - Grammar
  - [Exercises and Tests](#exercises-and-tests)
 - [Tools](#tools)
- - [Online Dictionaries](#online-dictionaries)
+- [Online Dictionaries](#online-dictionaries)
 - [Answers](#answers)
 
 ## Listening
@@ -36,6 +37,9 @@ Online radio stations is one of the best and most effective ways to improve your
 - [Fox News Talk](http://tunein.com/radio/FOX-News-Talk-s20431/) - News New York radio station.
 - [WNYC](http://www.wnyc.org/) - Public radio stations located in New York City.
 - [BBC London](http://www.bbc.co.uk/bbclondon) - News and talks radio station from London.
+
+### Websites
+- [Spotlight](http://spotlightenglish.com/) - Spotlight is a daily 15 minute radio program for learning English.
 
 ## Watching
 ### YouTube
@@ -61,19 +65,23 @@ Online radio stations is one of the best and most effective ways to improve your
 - [The Late Late Show with James Corden](https://www.youtube.com/user/TheLateLateShow) - American late-night talk show hosted by James Corden on CBS.
 - [The Late Show with Stephen Colbert](https://www.youtube.com/channel/UCMtFAi84ehTSYSE9XoHefig) - American late-night talk show by Stephen Colbert on CBS.
 
-## Language Exchange Websites
+## Speaking
+### Language Exchange Websites
 Conversation Exchange Websites are a fantastic idea and you can study english with native English speakers
 
 - [iTalki](https://www.italki.com/) - Get 1-on-1 online lessons with native language teachers
 - [Verbling](https://www.verbling.com/community) - Verbling Allows You to Practice English in Video Rooms (Google Hangouts)
 - [Speaky](https://www.gospeaky.com/) - Find and Meet Native Speakers From All Around the World.
 
+### Speaking Lessons
+- [Talk English](http://www.talkenglish.com/) - Learn English Speaking
+
 ## Online Dictionaries
 
 - [Forvo](http://forvo.com/) -  Find out How Any English Word Is Pronounced in Different Countries.
 - [Oxford Dictionaries](http://www.oxfordlearnersdictionaries.com/) - Dictionaries with Meanings, Definitions, Pronunciations and Pictures.
 
-## Reading Resources
+## Reading
 
 - [Breaking News English](http://www.breakingnewsenglish.com/) - Breaking News Listen, Read and Write.
 - [Short Stories](http://www.short-stories.co.uk/) - Short Stories for Every Day Reading.
@@ -83,17 +91,11 @@ Conversation Exchange Websites are a fantastic idea and you can study english wi
 - [Today I Found Out](http://www.todayifoundout.com/) - Daily Interesting Fact Articles from Various Authors.
 - [Newsy](http://www.newsy.com/) - Short News with Transcriptions.
 
-##Listening Skills
-- [Spotlight](http://spotlightenglish.com/) - Spotlight is a daily 15 minute radio program for learning English.
-
-##Speaking Skills
-- [Talk English](http://www.talkenglish.com/) - Learn English Speaking
-
-##Exercises and Tests
+## Exercises and Tests
 - [ETS](http://englishteststore.net/) - English Tests.
 - [Ego4u](http://www.ego4u.com) - Grammar and Tests
 
-##Tools
+## Tools
 - [Play Phrase](http://playphrase.me/) - Tools allows to Search and Play Specific Soundbites From Movies.
 - [Lyrics Training](http://lyricstraining.com/) - LyricsTraining is the new way to learn English and other languages through music and the lyrics of your favourite songs.
 - [Quizlet](https://quizlet.com/) - Simple Tools That Let You Study Words.
