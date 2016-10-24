@@ -3,66 +3,85 @@ A collection of awesome study resources for learners of English. Please read the
 
 ## Contents
 
-- [Podcasts](#podcasts)
-- [YouTube](#youtube)
-- [Live TV Channels](#live-tv-channels)
-- [TV Talk Shows](#tv-talk-shows)
-- [Live Radio Stations](#live-radio-stations)
-- [Language Exchange Websites](#language-exchange-websites)
-- [Online Dictionaries](#online-dictionaries)
-- [Reading Resources](#reading-resources)
-- [Listening Skills](#listening-skills)
-- [Speaking Skills](#speaking-skills)
-- [Exercises and Tests](#exercises-and-tests)
+- [Listening](#listening)
+ - [Podcasts](#podcasts)
+ - [Live Radio Stations](#live-radio-stations)
+ - [Websites](#websites)
+- [Watching](#watching)
+ - [YouTube](#youtube)
+ - [Live TV Channels](#live-tv-channels)
+ - [TV Talk Shows](#tv-talk-shows)
+- [Speaking](#speaking)
+ - [Language Exchange Websites](#language-exchange-websites)
+ - [Speaking Lessons](#speaking-lessons)
+- [Reading](#reading)
+- Writting
+- Grammar
+ - [Exercises and Tests](#exercises-and-tests)
 - [Tools](#tools)
+- [Online Dictionaries](#online-dictionaries)
+- [Answers](#answers)
 
-## Podcasts
+## Listening
+### Podcasts
+Listen podcasts anytime and anywhere to improve your listening skill. Podcasts often have transcripts and them allow you to listen and read at the same time.
 
-- [All Ears English](http://allearsenglish.com/) - Learn Advanced Conversational American English.
-- [ESL Podcasts](https://www.eslpod.com/) - for Anyone Who Wants to Improve Their English Speaking and Listening Skills.
-- [Culips Podcast](http://esl.culips.com/) - Learn Conversational English for Everyday Use by Native English-Speakers.
-- [Luke’s English Podcast](http://teacherluke.co.uk/) - Luke Is a Qualified English Language Teacher and Stand-Up Comedian Who Provides an Engaging and Entertaining Podcast Series.
+- [All Ears English](http://allearsenglish.com/) - Learn advanced conversational american english.
+- [ESL Podcasts](https://www.eslpod.com/) - Anyone who wants to improve their english speaking and listening skills.
+- [Culips Podcast](http://esl.culips.com/) - Learn conversational english for everyday use by native english speakers.
+- [Luke’s English Podcast](http://teacherluke.co.uk/) - Luke is qualified english language teacher and stand-up comedian who provides engaging and entertaining podcast series.
 
-## YouTube
+### Live Radio Stations
+Online radio stations is one of the best and most effective ways to improve your English listening skills, while also getting accustomed to the speed and tone of native English speakers.
+- [NPR](http://www.npr.org/) - National american radio with transcripts.
+- [Fox News Talk](http://tunein.com/radio/FOX-News-Talk-s20431/) - News New York radio station.
+- [WNYC](http://www.wnyc.org/) - Public radio stations located in New York City.
+- [BBC London](http://www.bbc.co.uk/bbclondon) - News and talks radio station from London.
 
-- [Rachel's English](https://www.youtube.com/user/rachelsenglish) - American English pronunciation resource.
-- [Learn English with Ronnie](https://www.youtube.com/user/EnglishLessons4U) - English lessons in pronunciation, grammar, spelling.
-- [BBC English Grammar](https://www.youtube.com/playlist?list=PLcetZ6gSk96_zHuVg6Ecy2F7j4Aq4valQ) - Improve your grammar podcasts and short videos.
-- [BBC English HowTo](https://www.youtube.com/playlist?list=PLcetZ6gSk9692RVJgFx4JXwFG4mWK0XGj) - Useful English Phrases That You Can Use Immediately.
-- [Anglo-Link](https://www.youtube.com/user/MinooAngloLink/) - Useful Grammar Lessons.
-- [Daily Dictation](https://www.youtube.com/user/dailydictation) - Daily Dictation for students who want to improve their listening comprehension skills.
+### Websites
+- [Spotlight](http://spotlightenglish.com/) - Spotlight is a daily 15 minute radio program for learning English.
 
-## Live TV Channels
-- [ABC7 Eyewitness News](http://abc7.com/live/) - a TV station licensed to Los Angeles, California
-- [ABC News](http://abcnews.go.com/Live) - ABC News TV channel
-- [Bloomberg](http://www.bloomberg.com/live/us) - Bloomberg Bussiness TV Channel in New York
-- [CBS News](http://www.cbsnews.com/live/) - CBS News is the News Division of American TV and radio network CBS.
+## Watching
+### YouTube
+- [Rachel's English](https://www.youtube.com/user/rachelsenglish) - Most popular american english pronunciation videos.
+- [Learn English with Ronnie](https://www.youtube.com/user/EnglishLessons4U) - Funny english videos with Ronnie.
+- [BBC English Grammar](https://www.youtube.com/playlist?list=PLcetZ6gSk96_zHuVg6Ecy2F7j4Aq4valQ) - Short videos by BBC.
+- [BBC English HowTo](https://www.youtube.com/playlist?list=PLcetZ6gSk9692RVJgFx4JXwFG4mWK0XGj) - Useful english phrases that you can use immediately.
+- [Anglo-Link](https://www.youtube.com/user/MinooAngloLink/) - Useful grammar lessons.
+- [Daily Dictation](https://www.youtube.com/user/dailydictation) - Daily dictation for students who want to improve their listening comprehension skills.
+
+### Live TV Channels
+- [ABC7 Eyewitness News](http://abc7.com/live/) - a TV station licensed to Los Angeles, California.
+- [ABC News](http://abcnews.go.com/Live) - ABC news TV channel.
+- [Bloomberg](http://www.bloomberg.com/live/us) - Bloomberg bussiness TV channel in New York.
+- [CBS News](http://www.cbsnews.com/live/) - CBS news is the news division of American TV and radio network CBS.
 - [KTLA 5](http://ktla.com/on-air/live-streaming/) - TV station located in Los Angeles, California, United States.
 
-## TV Talk Shows
-- [Jimmy Kimmel Live!](https://www.youtube.com/user/JimmyKimmelLive) - is an American late-night talk show.
-- [The Wendy Williams Show](https://www.youtube.com/user/WendyWilliamsShow) - is an American syndicated infotainment talk show.
-- [The Tonight Show Starring Jimmy Fallon](https://www.youtube.com/user/latenight) -  is an American late-night talk show hosted by Jimmy Fallon on NBC.
-- [Late Night with Seth Meyers](https://www.youtube.com/user/LateNightSeth) - is an American late-night talk show hosted by Seth Meyers on NBC.
-- [The Late Late Show with James Corden](https://www.youtube.com/user/TheLateLateShow) - is an American late-night talk show hosted by James Corden on CBS.
-- [The Late Show with Stephen Colbert](https://www.youtube.com/channel/UCMtFAi84ehTSYSE9XoHefig) - is an American late-night talk show by Stephen Colbert on CBS.
+### TV Talk Shows
+- [Jimmy Kimmel Live!](https://www.youtube.com/user/JimmyKimmelLive) - Very popular american late-night talk show with famous people.
+- [The Wendy Williams Show](https://www.youtube.com/user/WendyWilliamsShow) - American syndicated infotainment talk show hosted by Wendy Williams.
+- [The Tonight Show Starring Jimmy Fallon](https://www.youtube.com/user/latenight) -  American late-night talk show hosted by Jimmy Fallon on NBC.
+- [Late Night with Seth Meyers](https://www.youtube.com/user/LateNightSeth) - American late-night talk show hosted by Seth Meyers on NBC.
+- [The Late Late Show with James Corden](https://www.youtube.com/user/TheLateLateShow) - American late-night talk show hosted by James Corden on CBS.
+- [The Late Show with Stephen Colbert](https://www.youtube.com/channel/UCMtFAi84ehTSYSE9XoHefig) - American late-night talk show by Stephen Colbert on CBS.
 
-##Live Radio Stations
-- [NPR](http://www.npr.org/) - is an National American Radio with Transcripts.
-
-## Language Exchange Websites
+## Speaking
+### Language Exchange Websites
 Conversation Exchange Websites are a fantastic idea and you can study english with native English speakers
 
 - [iTalki](https://www.italki.com/) - Get 1-on-1 online lessons with native language teachers
 - [Verbling](https://www.verbling.com/community) - Verbling Allows You to Practice English in Video Rooms (Google Hangouts)
 - [Speaky](https://www.gospeaky.com/) - Find and Meet Native Speakers From All Around the World.
 
+### Speaking Lessons
+- [Talk English](http://www.talkenglish.com/) - Learn English Speaking
+
 ## Online Dictionaries
 
 - [Forvo](http://forvo.com/) -  Find out How Any English Word Is Pronounced in Different Countries.
 - [Oxford Dictionaries](http://www.oxfordlearnersdictionaries.com/) - Dictionaries with Meanings, Definitions, Pronunciations and Pictures.
 
-## Reading Resources
+## Reading
 
 - [Breaking News English](http://www.breakingnewsenglish.com/) - Breaking News Listen, Read and Write.
 - [Short Stories](http://www.short-stories.co.uk/) - Short Stories for Every Day Reading.
@@ -72,22 +91,22 @@ Conversation Exchange Websites are a fantastic idea and you can study english wi
 - [Today I Found Out](http://www.todayifoundout.com/) - Daily Interesting Fact Articles from Various Authors.
 - [Newsy](http://www.newsy.com/) - Short News with Transcriptions.
 
-##Listening Skills
-- [Spotlight](http://spotlightenglish.com/) - Spotlight is a daily 15 minute radio program for learning English.
-
-##Speaking Skills
-[Talk English](http://www.talkenglish.com/) - Learn English Speaking
-
-##Exercises and Tests
+## Exercises and Tests
 - [ETS](http://englishteststore.net/) - English Tests.
 - [Ego4u](http://www.ego4u.com) - Grammar and Tests
 - [Duolingo](https://www.duolingo.com) - A free language-learning platform that includes a language-learning website and app, as well as a digital language proficiency assessment exam.
 
-##Tools
+## Tools
 - [Play Phrase](http://playphrase.me/) - Tools allows to Search and Play Specific Soundbites From Movies.
 - [Lyrics Training](http://lyricstraining.com/) - LyricsTraining is the new way to learn English and other languages through music and the lyrics of your favourite songs.
 - [Quizlet](https://quizlet.com/) - Simple Tools That Let You Study Words.
 - [Grammarly](http://grammarly.com/) - Grammarly makes you a better writer by finding and correcting up to 10 times more mistakes than your Word Processor.
+
+## Answers
+- [How can I improve my English listening abilities?](https://www.quora.com/How-can-I-improve-my-English-listening-abilities)
+- [How can I learn to speak English well in non-English environment?](https://www.quora.com/How-can-I-learn-to-speak-English-well-in-non-English-environment)
+- [How can I make tangible improvements to my spoken English in one month?](https://www.quora.com/How-can-I-make-tangible-improvements-to-my-spoken-English-in-one-month)
+- [Are English speaking courses helpful?](https://www.quora.com/Are-English-speaking-courses-helpful)
 
 ## License
 
