@@ -6,7 +6,7 @@ A collection of awesome study resources for learners of English. Please read the
 - [Listening](#listening)
  - [Podcasts](#podcasts)
  - [Live Radio Stations](#live-radio-stations)
-- Watching
+- [Watching](#watching)
  - [YouTube](#youtube)
  - [Live TV Channels](#live-tv-channels)
  - [TV Talk Shows](#tv-talk-shows)
@@ -36,29 +36,29 @@ Online radio stations is one of the best and most effective ways to improve your
 - [WNYC](http://www.wnyc.org/) - Public radio stations located in New York City.
 - [BBC London](http://www.bbc.co.uk/bbclondon) - News and talks radio station from London.
 
-## YouTube
+## Watching
+### YouTube
+- [Rachel's English](https://www.youtube.com/user/rachelsenglish) - Most popular american english pronunciation videos.
+- [Learn English with Ronnie](https://www.youtube.com/user/EnglishLessons4U) - Funny english videos with Ronnie.
+- [BBC English Grammar](https://www.youtube.com/playlist?list=PLcetZ6gSk96_zHuVg6Ecy2F7j4Aq4valQ) - Short videos by BBC.
+- [BBC English HowTo](https://www.youtube.com/playlist?list=PLcetZ6gSk9692RVJgFx4JXwFG4mWK0XGj) - Useful english phrases that you can use immediately.
+- [Anglo-Link](https://www.youtube.com/user/MinooAngloLink/) - Useful grammar lessons.
+- [Daily Dictation](https://www.youtube.com/user/dailydictation) - Daily dictation for students who want to improve their listening comprehension skills.
 
-- [Rachel's English](https://www.youtube.com/user/rachelsenglish) - American English pronunciation resourcee
-- [Learn English with Ronnie](https://www.youtube.com/user/EnglishLessons4U) - English lessons in pronunciation, grammar, spelling.
-- [BBC English Grammar](https://www.youtube.com/playlist?list=PLcetZ6gSk96_zHuVg6Ecy2F7j4Aq4valQ) - Improve your grammar podcasts and short videos.
-- [BBC English HowTo](https://www.youtube.com/playlist?list=PLcetZ6gSk9692RVJgFx4JXwFG4mWK0XGj) - Useful English Phrases That You Can Use Immediately.
-- [Anglo-Link](https://www.youtube.com/user/MinooAngloLink/) - Useful Grammar Lessons.
-- [Daily Dictation](https://www.youtube.com/user/dailydictation) - Daily Dictation for students who want to improve their listening comprehension skills.
-
-## Live TV Channels
-- [ABC7 Eyewitness News](http://abc7.com/live/) - a TV station licensed to Los Angeles, California
-- [ABC News](http://abcnews.go.com/Live) - ABC News TV channel
-- [Bloomberg](http://www.bloomberg.com/live/us) - Bloomberg Bussiness TV Channel in New York
-- [CBS News](http://www.cbsnews.com/live/) - CBS News is the News Division of American TV and radio network CBS.
+### Live TV Channels
+- [ABC7 Eyewitness News](http://abc7.com/live/) - a TV station licensed to Los Angeles, California.
+- [ABC News](http://abcnews.go.com/Live) - ABC news TV channel.
+- [Bloomberg](http://www.bloomberg.com/live/us) - Bloomberg bussiness TV channel in New York.
+- [CBS News](http://www.cbsnews.com/live/) - CBS news is the news division of American TV and radio network CBS.
 - [KTLA 5](http://ktla.com/on-air/live-streaming/) - TV station located in Los Angeles, California, United States.
 
-## TV Talk Shows
-- [Jimmy Kimmel Live!](https://www.youtube.com/user/JimmyKimmelLive) - is an American late-night talk show.
-- [The Wendy Williams Show](https://www.youtube.com/user/WendyWilliamsShow) - is an American syndicated infotainment talk show.
-- [The Tonight Show Starring Jimmy Fallon](https://www.youtube.com/user/latenight) -  is an American late-night talk show hosted by Jimmy Fallon on NBC.
-- [Late Night with Seth Meyers](https://www.youtube.com/user/LateNightSeth) - is an American late-night talk show hosted by Seth Meyers on NBC.
-- [The Late Late Show with James Corden](https://www.youtube.com/user/TheLateLateShow) - is an American late-night talk show hosted by James Corden on CBS.
-- [The Late Show with Stephen Colbert](https://www.youtube.com/channel/UCMtFAi84ehTSYSE9XoHefig) - is an American late-night talk show by Stephen Colbert on CBS.
+### TV Talk Shows
+- [Jimmy Kimmel Live!](https://www.youtube.com/user/JimmyKimmelLive) - Very popular american late-night talk show with famous people.
+- [The Wendy Williams Show](https://www.youtube.com/user/WendyWilliamsShow) - American syndicated infotainment talk show hosted by Wendy Williams.
+- [The Tonight Show Starring Jimmy Fallon](https://www.youtube.com/user/latenight) -  American late-night talk show hosted by Jimmy Fallon on NBC.
+- [Late Night with Seth Meyers](https://www.youtube.com/user/LateNightSeth) - American late-night talk show hosted by Seth Meyers on NBC.
+- [The Late Late Show with James Corden](https://www.youtube.com/user/TheLateLateShow) - American late-night talk show hosted by James Corden on CBS.
+- [The Late Show with Stephen Colbert](https://www.youtube.com/channel/UCMtFAi84ehTSYSE9XoHefig) - American late-night talk show by Stephen Colbert on CBS.
 
 ## Language Exchange Websites
 Conversation Exchange Websites are a fantastic idea and you can study english with native English speakers
