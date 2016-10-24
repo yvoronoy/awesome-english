@@ -76,11 +76,6 @@ Conversation Exchange Websites are a fantastic idea and you can study english wi
 ### Speaking Lessons
 - [Talk English](http://www.talkenglish.com/) - Learn English Speaking
 
-## Online Dictionaries
-
-- [Forvo](http://forvo.com/) -  Find out How Any English Word Is Pronounced in Different Countries.
-- [Oxford Dictionaries](http://www.oxfordlearnersdictionaries.com/) - Dictionaries with Meanings, Definitions, Pronunciations and Pictures.
-
 ## Reading
 
 - [Breaking News English](http://www.breakingnewsenglish.com/) - Breaking News Listen, Read and Write.
@@ -101,6 +96,10 @@ Conversation Exchange Websites are a fantastic idea and you can study english wi
 - [Lyrics Training](http://lyricstraining.com/) - LyricsTraining is the new way to learn English and other languages through music and the lyrics of your favourite songs.
 - [Quizlet](https://quizlet.com/) - Simple Tools That Let You Study Words.
 - [Grammarly](http://grammarly.com/) - Grammarly makes you a better writer by finding and correcting up to 10 times more mistakes than your Word Processor.
+
+## Online Dictionaries
+- [Forvo](http://forvo.com/) -  Find out How Any English Word Is Pronounced in Different Countries.
+- [Oxford Dictionaries](http://www.oxfordlearnersdictionaries.com/) - Dictionaries with Meanings, Definitions, Pronunciations and Pictures.
 
 ## Answers
 - [How can I improve my English listening abilities?](https://www.quora.com/How-can-I-improve-my-English-listening-abilities)
