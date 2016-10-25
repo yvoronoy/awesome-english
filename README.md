@@ -90,6 +90,7 @@ Conversation Exchange Websites are a fantastic idea and you can study english wi
 - [ETS](http://englishteststore.net/) - English Tests.
 - [Ego4u](http://www.ego4u.com) - Grammar and Tests
 - [Duolingo](https://www.duolingo.com) - A free language-learning platform that includes a language-learning website and app, as well as a digital language proficiency assessment exam.
+- [LingoRank](http://lingorank.com) - Test and improve your English listening skills with TED Talks.
 
 ## Tools
 - [Play Phrase](http://playphrase.me/) - Tools allows to Search and Play Specific Soundbites From Movies.
