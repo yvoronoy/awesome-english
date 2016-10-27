@@ -104,6 +104,7 @@ Conversation Exchange Websites are a fantastic idea and you can study english wi
 ## Online Dictionaries
 - [Forvo](http://forvo.com/) -  Find out How Any English Word Is Pronounced in Different Countries.
 - [Oxford Dictionaries](http://www.oxfordlearnersdictionaries.com/) - Dictionaries with Meanings, Definitions, Pronunciations and Pictures.
+- [ReversoContext](http://context.reverso.net/translation) - Translate word in context.
 
 ## Answers
 - [How can I improve my English listening abilities?](https://www.quora.com/How-can-I-improve-my-English-listening-abilities)
