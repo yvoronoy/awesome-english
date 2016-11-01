@@ -71,41 +71,43 @@ Online radio stations is one of the best and most effective ways to improve your
 
 ## Speaking
 ### Language Exchange Websites
-Conversation Exchange Websites are a fantastic idea and you can study english with native English speakers
+Conversation Exchange Websites are a fantastic idea and you can study english with native English speakers.
 
-- [iTalki](https://www.italki.com/) - Get 1-on-1 online lessons with native language teachers
-- [Verbling](https://www.verbling.com/community) - Verbling Allows You to Practice English in Video Rooms (Google Hangouts)
-- [Speaky](https://www.gospeaky.com/) - Find and Meet Native Speakers From All Around the World.
+- [iTalki](https://www.italki.com/) - Get 1-on-1 online lessons with native language teachers.
+- [Verbling](https://www.verbling.com/community) - Verbling allows you to free practice english speaking skill by Google Hangout.
+- [Speaky](https://www.gospeaky.com/) - Find and meet native speakers from all around the world.
 
 ### Speaking Lessons
-- [Talk English](http://www.talkenglish.com/) - Learn English Speaking
+- [Talk English](http://www.talkenglish.com/) - Learn english speaking.
 
 ## Reading
 
-- [Breaking News English](http://www.breakingnewsenglish.com/) - Breaking News Listen, Read and Write.
-- [Short Stories](http://www.short-stories.co.uk/) - Short Stories for Every Day Reading.
-- [Reading Room](http://www.englishpage.com/readingroom/readingroomintro.html) - Newspapers, Magazines, Books and Libraries
-- [Reading Comprehension Exercises](http://www.usingenglish.com/comprehension/) - 3 Levels of Texts With Exercises.
-- [IMDB scripts](http://www.imsdb.com/) - Internet Movie Script Database
-- [Today I Found Out](http://www.todayifoundout.com/) - Daily Interesting Fact Articles from Various Authors.
-- [Newsy](http://www.newsy.com/) - Short News with Transcriptions.
+- [Breaking News English](http://www.breakingnewsenglish.com/) - Breaking news listen, read and write.
+- [Short Stories](http://www.short-stories.co.uk/) - Short stories for every day reading.
+- [Reading Room](http://www.englishpage.com/readingroom/readingroomintro.html) - Newspapers, magazines, books and libraries.
+- [Reading Comprehension Exercises](http://www.usingenglish.com/comprehension/) - 3 Levels of texts with exercises.
+- [IMDB scripts](http://www.imsdb.com/) - Internet movie script database.
+- [Today I Found Out](http://www.todayifoundout.com/) - Daily interesting fact articles from various authors.
+- [Newsy](http://www.newsy.com/) - Short news with transcriptions.
 
 ## Exercises and Tests
-- [ETS](http://englishteststore.net/) - English Tests.
-- [Ego4u](http://www.ego4u.com) - Grammar and Tests
+
+- [ETS](http://englishteststore.net/) - English tests.
+- [Ego4u](http://www.ego4u.com) - Grammar and tests.
 - [Duolingo](https://www.duolingo.com) - A free language-learning platform that includes a language-learning website and app, as well as a digital language proficiency assessment exam.
-- [LingoRank](http://lingorank.com) - Test and improve your English listening skills with TED Talks.
+- [LingoRank](http://lingorank.com) - Test and improve your english listening skills with TED talks.
 
 ## Tools
-- [Play Phrase](http://playphrase.me/) - Tools allows to Search and Play Specific Soundbites From Movies.
-- [Lyrics Training](http://lyricstraining.com/) - LyricsTraining is the new way to learn English and other languages through music and the lyrics of your favourite songs.
-- [Quizlet](https://quizlet.com/) - Simple Tools That Let You Study Words.
-- [Grammarly](http://grammarly.com/) - Grammarly makes you a better writer by finding and correcting up to 10 times more mistakes than your Word Processor.
+
+- [Play Phrase](http://playphrase.me/) - Tools allows to search and play specific soundbites from movies.
+- [Lyrics Training](http://lyricstraining.com/) - LyricsTraining is the new way to learn english and other languages through music and the lyrics of your favourite songs.
+- [Quizlet](https://quizlet.com/) - Simple tools that let you study words.
+- [Grammarly](http://grammarly.com/) - Grammarly makes you a better writer by finding and correcting up to 10 times more mistakes than your word processor.
 - [Test your vocab](http://testyourvocab.com/) - Measure your vocabulary sizes.
 
 ## Online Dictionaries
-- [Forvo](http://forvo.com/) -  Find out How Any English Word Is Pronounced in Different Countries.
-- [Oxford Dictionaries](http://www.oxfordlearnersdictionaries.com/) - Dictionaries with Meanings, Definitions, Pronunciations and Pictures.
+- [Forvo](http://forvo.com/) -  Find out how any english word is pronounced in different countries.
+- [Oxford Dictionaries](http://www.oxfordlearnersdictionaries.com/) - Dictionaries with meanings, definitions, pronunciations and pictures.
 - [ReversoContext](http://context.reverso.net/translation) - Translate word in context.
 
 ## Answers
