@@ -53,7 +53,7 @@ Online radio stations is one of the best and most effective ways to improve your
 - [Daily Dictation](https://www.youtube.com/user/dailydictation) - Daily dictation for students who want to improve their listening comprehension skills.
 
 ### Live TV Channels
-- [ABC7 Eyewitness News](http://abc7.com/live/) - a TV station licensed to Los Angeles, California.
+- [ABC7 Eyewitness News](http://abc7.com/live/) - TV station licensed to Los Angeles, California.
 - [ABC News](http://abcnews.go.com/Live) - ABC news TV channel.
 - [Bloomberg](http://www.bloomberg.com/live/us) - Bloomberg bussiness TV channel in New York.
 - [CBS News](http://www.cbsnews.com/live/) - CBS news is the news division of American TV and radio network CBS.
@@ -92,7 +92,7 @@ Conversation Exchange Websites are a fantastic idea and you can study english wi
 
 - [ETS](http://englishteststore.net/) - English tests.
 - [Ego4u](http://www.ego4u.com) - Grammar and tests.
-- [Duolingo](https://www.duolingo.com) - A free language-learning platform that includes a language-learning website and app, as well as a digital language proficiency assessment exam.
+- [Duolingo](https://www.duolingo.com) - Free language-learning platform that includes a language-learning website and app, as well as a digital language proficiency assessment exam.
 - [LingoRank](http://lingorank.com) - Test and improve your english listening skills with TED talks.
 
 ## Tools
