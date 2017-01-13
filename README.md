@@ -15,9 +15,7 @@ A collection of awesome study resources for learners of English. Please read the
  - [Language Exchange Websites](#language-exchange-websites)
  - [Speaking Lessons](#speaking-lessons)
 - [Reading](#reading)
-- Writting
-- Grammar
- - [Exercises and Tests](#exercises-and-tests)
+- [Exercises and Tests](#exercises-and-tests)
 - [Tools](#tools)
 - [Online Dictionaries](#online-dictionaries)
 - [Answers](#answers)
