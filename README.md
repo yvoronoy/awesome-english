@@ -15,6 +15,7 @@ Please read the [contributing guidelines](contributing.md) if you wish to contri
 - [Speaking](#speaking)
   - [Language Exchange Websites](#language-exchange-websites)
   - [Speaking Lessons](#speaking-lessons)
+  - [Pronunciation](#pronunciation)
 - [Reading](#reading)
 - [Exercises and Tests](#exercises-and-tests)
 - [Tools](#tools)
@@ -78,6 +79,9 @@ Conversation Exchange Websites are a fantastic idea and you can study english wi
 
 ### Speaking Lessons
 - [Talk English](http://www.talkenglish.com/) - Learn english speaking.
+
+### Pronunciation
+ - [The Sound of English](http://thesoundofenglish.org/) - Learn how to speak clear English with a neutral British accent. Very helfull resource to improve your pronunciation.
 
 ## Reading
 
