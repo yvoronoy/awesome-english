@@ -16,6 +16,9 @@ Please read the [contributing guidelines](contributing.md) if you wish to contri
   - [Language Exchange Websites](#language-exchange-websites)
   - [Speaking Lessons](#speaking-lessons)
   - [Pronunciation](#pronunciation)
+- [Online Classes](#online-classes)
+  - [Private Classes](#private-classes)
+  - [Group Classes](#group-classes)
 - [Reading](#reading)
 - [Exercises and Tests](#exercises-and-tests)
 - [Tools](#tools)
@@ -82,6 +85,13 @@ Conversation Exchange Websites are a fantastic idea and you can study english wi
 
 ### Pronunciation
  - [The Sound of English](http://thesoundofenglish.org/) - Learn how to speak clear English with a neutral British accent. Very helfull resource to improve your pronunciation.
+ 
+## Online Classes
+### Private Classes
+ - [iTalki](https://www.italki.com/) - One of the most popular resource where you can find a teacher 1 on 1.
+ - [Verbling](https://www.verbling.com/community) - One of the most popular resource where you can find a teacher 1 on 1.
+### Group Classes
+ - [Lingoda](https://lingoda.com/) - They have group and private classes, fixed mountly payment and really convenient interface where you can schedule your classes. All teachers are native speakers.
 
 ## Reading
 
