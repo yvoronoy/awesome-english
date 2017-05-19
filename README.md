@@ -16,7 +16,7 @@ Please read the [contributing guidelines](contributing.md) if you wish to contri
   - [Language Exchange Websites](#language-exchange-websites)
   - [Speaking Lessons](#speaking-lessons)
   - [Pronunciation](#pronunciation)
-- [Online classes](#online-classes)
+- [Online Classes](#online-classes)
   - [Private Classes](#private-classes)
   - [Group Classes](#group-classes)
 - [Reading](#reading)
