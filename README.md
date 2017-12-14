@@ -37,6 +37,7 @@ Listen podcasts anytime and anywhere to improve your listening skill. Podcasts o
 - [This American Life](http://www.thisamericanlife.org/radio-archives) - One of the most popular podcast. Most of the stories are journalism, with an occasional comedy routine or essay.
 - [6 Minute English](http://www.bbc.co.uk/programmes/p02pc9tn/episodes/downloads) - Learn and practise useful English language for everyday situations with the BBC.
 - [CNN 10](http://edition.cnn.com/cnn10) - A 10-minute digital news show that explains global news to a global audience.
+- [Talk Python To Me](https://talkpython.fm/) - A podcast on Python and related technologies
 
 ### Live Radio Stations
 Online radio stations is one of the best and most effective ways to improve your English listening skills, while also getting accustomed to the speed and tone of native English speakers.
