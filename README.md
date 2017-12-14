@@ -60,7 +60,7 @@ Online radio stations is one of the best and most effective ways to improve your
 ### Live TV Channels
 - [ABC7 Eyewitness News](http://abc7.com/live/) - TV station licensed to Los Angeles, California.
 - [ABC News](http://abcnews.go.com/Live) - ABC news TV channel.
-- [Bloomberg](http://www.bloomberg.com/live/us) - Bloomberg bussiness TV channel in New York.
+- [Bloomberg](http://www.bloomberg.com/live/us) - Bloomberg business TV channel in New York.
 - [CBS News](http://www.cbsnews.com/live/) - CBS news is the news division of American TV and radio network CBS.
 - [KTLA 5](http://ktla.com/on-air/live-streaming/) - TV station located in Los Angeles, California, United States.
 
@@ -84,14 +84,14 @@ Conversation Exchange Websites are a fantastic idea and you can study english wi
 - [Talk English](http://www.talkenglish.com/) - Learn english speaking.
 
 ### Pronunciation
- - [The Sound of English](http://thesoundofenglish.org/) - Learn how to speak clear English with a neutral British accent. Very helfull resource to improve your pronunciation.
- 
+ - [The Sound of English](http://thesoundofenglish.org/) - Learn how to speak clear English with a neutral British accent. Very helpful resource to improve your pronunciation.
+
 ## Online Classes
 ### Private Classes
  - [iTalki](https://www.italki.com/) - One of the most popular resource where you can find a teacher 1 on 1.
  - [Verbling](https://www.verbling.com/community) - One of the most popular resource where you can find a teacher 1 on 1.
 ### Group Classes
- - [Lingoda](https://lingoda.com/) - They have group and private classes, fixed mountly payment and really convenient interface where you can schedule your classes. All teachers are native speakers.
+ - [Lingoda](https://lingoda.com/) - They have group and private classes, fixed monthly payment and really convenient interface where you can schedule your classes. All teachers are native speakers.
 
 ## Reading
 
