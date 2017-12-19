@@ -46,6 +46,7 @@ The collection of podcasts about technologies.
 - [The CultCast](https://www.cultofmac.com/cultcast/) - The official podcast of Cult of Mac. It's the best 30-minute Apple conversation you'll hear all week long.
 - [MageTalk](https://magetalk.com/) - This is a great show with the latest news around Magento ecosystem, community and eCommerce.
 - [Talk Python To Me](https://talkpython.fm/) - A podcast on Python and related technologies.
+- [The PHP Roundtable](https://www.phproundtable.com/) - The PHP Roundtable is a podcast of web developers discussing PHP, JavaScript, community, open source.
 
 ### Live Radio Stations
 Online radio stations is one of the best and most effective ways to improve your English listening skills, while also getting accustomed to the speed and tone of native English speakers.
