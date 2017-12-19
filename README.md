@@ -35,6 +35,9 @@ Listen podcasts anytime and anywhere to improve your listening skill. Podcasts o
 - [Luke’s English Podcast](http://teacherluke.co.uk/) - Luke is qualified english language teacher and stand-up comedian who provides engaging and entertaining podcast series.
 - [A Way with Words](http://www.waywordradio.org/category/episodes/) - Public radio program about language examined through history, culture, and family.
 - [This American Life](http://www.thisamericanlife.org/radio-archives) - One of the most popular podcast. Most of the stories are journalism, with an occasional comedy routine or essay.
+- [6 Minute English](http://www.bbc.co.uk/programmes/p02pc9tn/episodes/downloads) - Learn and practise useful English language for everyday situations with the BBC.
+- [CNN 10](http://edition.cnn.com/cnn10) - A 10-minute digital news show that explains global news to a global audience.
+- [The CultCast](https://www.cultofmac.com/cultcast/) - The official podcast of Cult of Mac. It's the best 30-minute Apple conversation you'll hear all week long.
 
 ### Live Radio Stations
 Online radio stations is one of the best and most effective ways to improve your English listening skills, while also getting accustomed to the speed and tone of native English speakers.
