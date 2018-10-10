@@ -105,6 +105,7 @@ Conversation Exchange Websites are a fantastic idea and you can study english wi
 ### Private Classes
  - [iTalki](https://www.italki.com/) - One of the most popular resource where you can find a teacher 1 on 1.
  - [Verbling](https://www.verbling.com/community) - One of the most popular resource where you can find a teacher 1 on 1.
+ - [Spoken](https://www.getspokenapp.com/) - Spoken uses artificial intelligence to make private lessons with live native speaking instructors more affordable, more convenient, and more effective!
 ### Group Classes
  - [Lingoda](https://lingoda.com/) - They have group and private classes, fixed monthly payment and really convenient interface where you can schedule your classes. All teachers are native speakers.
 
