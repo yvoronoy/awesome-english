@@ -1,5 +1,6 @@
 # Awesome English [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A collection of awesome study resources for learners of English. <br/>
+
+A collection of awesome study resources for learners of English.  
 Please read the [contributing guidelines](contributing.md) if you wish to contribute.
 
 ## Contents
@@ -29,6 +30,7 @@ Please read the [contributing guidelines](contributing.md) if you wish to contri
 ## Listening
 
 ### Podcasts
+
 Listen podcasts anytime and anywhere to improve your listening skill. Podcasts often have transcripts and them allow you to listen and read at the same time.
 
 - [All Ears English](http://allearsenglish.com/) - Learn advanced conversational american english.
@@ -41,6 +43,7 @@ Listen podcasts anytime and anywhere to improve your listening skill. Podcasts o
 - [CNN 10](http://edition.cnn.com/cnn10) - A 10-minute digital news show that explains global news to a global audience.
 
 ### Tech Podcasts
+
 The collection of podcasts about technologies.
 
 - [The CultCast](https://www.cultofmac.com/cultcast/) - The official podcast of Cult of Mac. It's the best 30-minute Apple conversation you'll hear all week long.
@@ -49,6 +52,7 @@ The collection of podcasts about technologies.
 - [The PHP Roundtable](https://www.phproundtable.com/) - The PHP Roundtable is a podcast of web developers discussing PHP, JavaScript, community, open source.
 
 ### Live Radio Stations
+
 Online radio stations is one of the best and most effective ways to improve your English listening skills, while also getting accustomed to the speed and tone of native English speakers.
 
 - [NPR](http://www.npr.org/) - National american radio with transcripts.
@@ -57,12 +61,15 @@ Online radio stations is one of the best and most effective ways to improve your
 - [BBC London](http://www.bbc.co.uk/bbclondon) - News and talks radio station from London.
 
 ### Websites
+
 - [Spotlight](http://spotlightenglish.com/) - Spotlight is a daily 15 minute radio program for learning English.
 - [ESL Lab](http://www.esl-lab.com/) - Different levels of conversations.
 - [EngVid](https://www.engvid.com/) - Free English Video Lessons.
 
 ## Watching
+
 ### YouTube
+
 - [Rachel's English](https://www.youtube.com/user/rachelsenglish) - Most popular american english pronunciation videos.
 - [Learn English with Ronnie](https://www.youtube.com/user/EnglishLessons4U) - Funny english videos with Ronnie.
 - [BBC English Grammar](https://www.youtube.com/playlist?list=PLcetZ6gSk96_zHuVg6Ecy2F7j4Aq4valQ) - Short videos by BBC.
@@ -72,6 +79,7 @@ Online radio stations is one of the best and most effective ways to improve your
 - [Learn English with Let's Talk](https://www.youtube.com/user/learnexmumbai) - On this channel different experts will tell you how to expertise in the different consequences in daily life and in which situation what type of phrases you should use.
 
 ### Live TV Channels
+
 - [ABC7 Eyewitness News](http://abc7.com/live/) - TV station licensed to Los Angeles, California.
 - [ABC News](http://abcnews.go.com/Live) - ABC news TV channel.
 - [Bloomberg](http://www.bloomberg.com/live/us) - Bloomberg business TV channel in New York.
@@ -79,6 +87,7 @@ Online radio stations is one of the best and most effective ways to improve your
 - [KTLA 5](http://ktla.com/on-air/live-streaming/) - TV station located in Los Angeles, California, United States.
 
 ### TV Talk Shows
+
 - [Jimmy Kimmel Live!](https://www.youtube.com/user/JimmyKimmelLive) - Very popular american late-night talk show with famous people.
 - [The Wendy Williams Show](https://www.youtube.com/user/WendyWilliamsShow) - American syndicated infotainment talk show hosted by Wendy Williams.
 - [The Tonight Show Starring Jimmy Fallon](https://www.youtube.com/user/latenight) -  American late-night talk show hosted by Jimmy Fallon on NBC.
@@ -88,7 +97,9 @@ Online radio stations is one of the best and most effective ways to improve your
 - [The Daily Show with Trevor Noah](https://www.youtube.com/channel/UCwWhs_6x42TyRM4Wstoq8HA) - American late-night talk show by Trevor Noah on Comedy Central
 
 ## Speaking
+
 ### Language Exchange Websites
+
 Conversation Exchange Websites are a fantastic idea and you can study english with native English speakers.
 
 - [iTalki](https://www.italki.com/) - Get 1-on-1 online lessons with native language teachers.
@@ -96,17 +107,23 @@ Conversation Exchange Websites are a fantastic idea and you can study english wi
 - [Speaky](https://www.gospeaky.com/) - Find and meet native speakers from all around the world.
 
 ### Speaking Lessons
+
 - [Talk English](http://www.talkenglish.com/) - Learn english speaking.
 
 ### Pronunciation
- - [The Sound of English](http://thesoundofenglish.org/) - Learn how to speak clear English with a neutral British accent. Very helpful resource to improve your pronunciation.
+
+- [The Sound of English](http://thesoundofenglish.org/) - Learn how to speak clear English with a neutral British accent. Very helpful resource to improve your pronunciation.
 
 ## Online Classes
+
 ### Private Classes
- - [iTalki](https://www.italki.com/) - One of the most popular resource where you can find a teacher 1 on 1.
- - [Verbling](https://www.verbling.com/community) - One of the most popular resource where you can find a teacher 1 on 1.
+
+- [iTalki](https://www.italki.com/) - One of the most popular resource where you can find a teacher 1 on 1.
+- [Verbling](https://www.verbling.com/community) - One of the most popular resource where you can find a teacher 1 on 1.
+
 ### Group Classes
- - [Lingoda](https://lingoda.com/) - They have group and private classes, fixed monthly payment and really convenient interface where you can schedule your classes. All teachers are native speakers.
+
+- [Lingoda](https://lingoda.com/) - They have group and private classes, fixed monthly payment and really convenient interface where you can schedule your classes. All teachers are native speakers.
 
 ## Reading
 
@@ -135,11 +152,13 @@ Conversation Exchange Websites are a fantastic idea and you can study english wi
 - [YouGlish](https://youglish.com/) - Improve your pronunciation
 
 ## Online Dictionaries
+
 - [Forvo](http://forvo.com/) -  Find out how any english word is pronounced in different countries.
 - [Oxford Dictionaries](http://www.oxfordlearnersdictionaries.com/) - Dictionaries with meanings, definitions, pronunciations and pictures.
 - [ReversoContext](http://context.reverso.net/translation) - Translate word in context.
 
 ## Answers
+
 - [How can I improve my English listening abilities?](https://www.quora.com/How-can-I-improve-my-English-listening-abilities)
 - [How can I learn to speak English well in non-English environment?](https://www.quora.com/How-can-I-learn-to-speak-English-well-in-non-English-environment)
 - [How can I make tangible improvements to my spoken English in one month?](https://www.quora.com/How-can-I-make-tangible-improvements-to-my-spoken-English-in-one-month)
@@ -148,4 +167,3 @@ Conversation Exchange Websites are a fantastic idea and you can study english wi
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
