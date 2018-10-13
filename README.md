@@ -3,7 +3,7 @@
 A collection of awesome study resources for learners of English.  
 Please read the [contributing guidelines](contributing.md) if you wish to contribute.
 
-## Contents
+## Contents <!-- omit in toc -->
 
 - [Listening](#listening)
   - [Podcasts](#podcasts)
@@ -26,6 +26,7 @@ Please read the [contributing guidelines](contributing.md) if you wish to contri
 - [Tools](#tools)
 - [Online Dictionaries](#online-dictionaries)
 - [Answers](#answers)
+- [License](#license)
 
 ## Listening
 
@@ -50,6 +51,7 @@ The collection of podcasts about technologies.
 - [MageTalk](https://magetalk.com/) - This is a great show with the latest news around Magento ecosystem, community and eCommerce.
 - [Talk Python To Me](https://talkpython.fm/) - A podcast on Python and related technologies.
 - [The PHP Roundtable](https://www.phproundtable.com/) - The PHP Roundtable is a podcast of web developers discussing PHP, JavaScript, community, open source.
+- [Google Cloud Platform Podcast](https://www.gcppodcast.com/) - The Google Cloud Platform Podcast, coming to you every week. Discussing everything from on Google Cloud Platform from App Engine to Big Query.
 
 ### Live Radio Stations
 
