@@ -1,8 +1,8 @@
-# Awesome English [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome English [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <!-- omit in toc -->
 A collection of awesome study resources for learners of English. <br/>
 Please read the [contributing guidelines](contributing.md) if you wish to contribute.
 
-## Contents
+## Contents <!-- omit in toc -->
 
 - [Listening](#listening)
   - [Podcasts](#podcasts)
@@ -25,6 +25,7 @@ Please read the [contributing guidelines](contributing.md) if you wish to contri
 - [Tools](#tools)
 - [Online Dictionaries](#online-dictionaries)
 - [Answers](#answers)
+- [License](#license)
 
 ## Listening
 
@@ -47,6 +48,7 @@ The collection of podcasts about technologies.
 - [MageTalk](https://magetalk.com/) - This is a great show with the latest news around Magento ecosystem, community and eCommerce.
 - [Talk Python To Me](https://talkpython.fm/) - A podcast on Python and related technologies.
 - [The PHP Roundtable](https://www.phproundtable.com/) - The PHP Roundtable is a podcast of web developers discussing PHP, JavaScript, community, open source.
+- [Google Cloud Platform Podcast](https://www.gcppodcast.com/) - The Google Cloud Platform Podcast, coming to you every week. Discussing everything from on Google Cloud Platform from App Engine to Big Query.
 
 ### Live Radio Stations
 Online radio stations is one of the best and most effective ways to improve your English listening skills, while also getting accustomed to the speed and tone of native English speakers.
