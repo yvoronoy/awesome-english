@@ -157,6 +157,7 @@ Conversation Exchange Websites are a fantastic idea and you can study english wi
 
 - [Forvo](http://forvo.com/) -  Find out how any english word is pronounced in different countries.
 - [Oxford Dictionaries](http://www.oxfordlearnersdictionaries.com/) - Dictionaries with meanings, definitions, pronunciations and pictures.
+- [Linguee](https://www.linguee.com/) - Dictionary with many examples of usage and pronunciation.
 - [ReversoContext](http://context.reverso.net/translation) - Translate word in context.
 
 ## Answers
