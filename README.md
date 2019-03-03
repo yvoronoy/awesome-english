@@ -14,6 +14,7 @@ Please read the [contributing guidelines](contributing.md) if you wish to contri
   - [YouTube](#youtube)
   - [Live TV Channels](#live-tv-channels)
   - [TV Talk Shows](#tv-talk-shows)
+  - [Tech Shows](#tech-shows)
 - [Speaking](#speaking)
   - [Language Exchange Websites](#language-exchange-websites)
   - [Speaking Lessons](#speaking-lessons)
