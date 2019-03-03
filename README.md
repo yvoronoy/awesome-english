@@ -98,6 +98,14 @@ Online radio stations is one of the best and most effective ways to improve your
 - [The Late Show with Stephen Colbert](https://www.youtube.com/channel/UCMtFAi84ehTSYSE9XoHefig) - American late-night talk show by Stephen Colbert on CBS.
 - [The Daily Show with Trevor Noah](https://www.youtube.com/channel/UCwWhs_6x42TyRM4Wstoq8HA) - American late-night talk show by Trevor Noah on Comedy Central
 
+### Tech Shows
+
+- [Bloomberg Technology](https://www.youtube.com/channel/UCrM7B7SL_g1edFOnmj-SDKg) - Bloomberg Technology focuses on the topics of technology, innovation and business.
+- [BBC Click](https://www.youtube.com/user/ClickBBC) - BBC Click is the BBC’s flagship technology programme.
+- [Sky News Swipe](https://www.youtube.com/playlist?list=PLG8IrydigQfckEQNNdxoPiQ0GtAJLP5_5) - Sky News`s tech show.
+- [FRANCE 24 Tech24](https://www.youtube.com/playlist?list=PLCUKIeZnrIUmpC0R31n7lXY__0iWEuPQ3) - Tech24 explores the digital revolution and check out the latest technological trends.
+
+
 ## Speaking
 
 ### Language Exchange Websites
