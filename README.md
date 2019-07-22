@@ -62,6 +62,18 @@ Online radio stations is one of the best and most effective ways to improve your
 - [Fox News Talk](http://tunein.com/radio/FOX-News-Talk-s20431/) - News New York radio station.
 - [WNYC](http://www.wnyc.org/) - Public radio stations located in New York City.
 - [BBC London](http://www.bbc.co.uk/bbclondon) - News and talks radio station from London.
+- [LBC - London Broadcasting Company](https://www.lbc.co.uk) - Independent news/talk radio station in London.
+- [WBAP 820AM - Dallas, Texas](http://www.wbap.com/listenlive/) - News/talk radio station in Dallas, Texas.
+- [KRLA 870AM - Los Angeles, California](https://am870theanswer.com) - News/talk radio station in Los Angeles, California.
+- [KTRH 740AM - Houston, Texas](https://ktrh.iheart.com) - News/talk radio station in Houston, Texas.
+- [KJCE 1370AM - Austin, Texas](https://talk1370.radio.com) - News/talk radio station in Austin, Texas.
+- [KRLD 1080AM - Dallas, Texas](https://krld.radio.com) - News/talk radio station in Dallas, Texas.
+- [KGO 810AM - San Francisco, California](http://www.kgoradio.com) - News/talk radio station in San Francisco, California.
+- [WOR 710AM - New York, New York](https://710wor.iheart.com) - News/talk radio station in New York, New York.
+- [Bloomberg Radio](https://www.bloomberg.com/audio) - Financial markets news radio.
+- [KOA 850AM - Denver, Colorado](https://koanewsradio.iheart.com) - News/talk radio station in Denver, Colorado.
+- [WBBM 780AM - Chicago, Illinois](https://wbbm780.radio.com) - News/talk radio station in Chicago, Illinois.
+- [KMOX 1120AM - St. Louis, Missouri](https://kmox.radio.com) - News/talk radio station in St. Louis, Missouri.
 
 ### Websites
 
