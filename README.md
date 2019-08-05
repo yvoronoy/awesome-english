@@ -157,6 +157,7 @@ Conversation Exchange Websites are a fantastic idea and you can study english wi
 - [IMDB scripts](http://www.imsdb.com/) - Internet movie script database.
 - [Today I Found Out](http://www.todayifoundout.com/) - Daily interesting fact articles from various authors.
 - [Newsy](http://www.newsy.com/) - Short news with transcriptions.
+- [Engoo](https://engoo.com/app/daily-news) - Daily news for english learners
 
 ## Exercises and Tests
 
