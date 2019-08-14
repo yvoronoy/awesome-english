@@ -48,7 +48,6 @@ Listen podcasts anytime and anywhere to improve your listening skill. Podcasts o
 
 The collection of podcasts about technologies.
 
-- [The CultCast](https://www.cultofmac.com/cultcast/) - The official podcast of Cult of Mac. It's the best 30-minute Apple conversation you'll hear all week long.
 - [MageTalk](https://magetalk.com/) - This is a great show with the latest news around Magento ecosystem, community and eCommerce.
 - [Talk Python To Me](https://talkpython.fm/) - A podcast on Python and related technologies.
 - [The PHP Roundtable](https://www.phproundtable.com/) - The PHP Roundtable is a podcast of web developers discussing PHP, JavaScript, community, open source.
