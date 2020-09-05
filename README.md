@@ -15,6 +15,11 @@ Please read the [contributing guidelines](contributing.md) if you wish to contri
   - [Live TV Channels](#live-tv-channels)
   - [TV Talk Shows](#tv-talk-shows)
   - [Tech Shows](#tech-shows)
+- [Grammar](#grammar)
+- [Learn more words](#learn-more-words)
+  - [Word lists](#word-lists)
+  - [Flashcards](#flashcards)
+  - [Online Dictionaries](#online-dictionaries)
 - [Speaking](#speaking)
   - [Language Exchange Websites](#language-exchange-websites)
   - [Speaking Lessons](#speaking-lessons)
@@ -25,7 +30,6 @@ Please read the [contributing guidelines](contributing.md) if you wish to contri
 - [Reading](#reading)
 - [Exercises and Tests](#exercises-and-tests)
 - [Tools](#tools)
-- [Online Dictionaries](#online-dictionaries)
 - [Answers](#answers)
 - [License](#license)
 
@@ -117,6 +121,29 @@ Online radio stations is one of the best and most effective ways to improve your
 - [Sky News Swipe](https://www.youtube.com/playlist?list=PLG8IrydigQfckEQNNdxoPiQ0GtAJLP5_5) - Sky News`s tech show.
 - [FRANCE 24 Tech24](https://www.youtube.com/playlist?list=PLCUKIeZnrIUmpC0R31n7lXY__0iWEuPQ3) - Tech24 explores the digital revolution and check out the latest technological trends.
 
+## Grammar
+- [Book: English Grammar in Use by Raymond Murphy](https://www.cambridge.org/us/cambridgeenglish/catalog/grammar-vocabulary-and-pronunciation/english-grammar-use-5th-edition) - The world's best selling grammar book for learners of English.
+- [Ego4u](http://www.ego4u.com) - Grammar and tests.
+ 
+## Learn more words
+
+### Word lists
+ - [Ogden's Basic English](http://ogden.basic-english.org/) - 850 simplified Language Basic English Words by Charles K. Ogden. It was released in 1930. With just 850 words everything may be said for all the purposes of everyday existence. [Simple English Wikipedia](https://simple.wikipedia.org/wiki/Basic_English) is based on these 850 basic English words.
+ - [Book: Verbal Advantage by Charles Harrington Elster](https://www.academia.edu/27879831/Verbal_Advantage_by_Charles_Harrington_Elster) - This book for advanced levels and will help you learn more words. It's highly recommended book which not just informative but also interesting and fun to read.
+ 
+### Flashcards
+- [Memrise](https://www.memrise.com/) - Flashcard platform to build vocabulary with user created lists of words.
+- [Quizlet](https://quizlet.com/) - Simple tools that let you study words.
+
+### Online Dictionaries
+
+- [Forvo](http://forvo.com/) -  Find out how any english word is pronounced in different countries.
+- [Dictionary](https://www.dictionary.com/) - The world's leading digital dictionary. It provides defenitions, spellings, audio pronunciations, example sentences and word origins.
+- [Thesaurus.com](https://www.thesaurus.com/) - The world's largest online thesaurus by Dictionary.com
+- [Oxford Dictionaries](http://www.oxfordlearnersdictionaries.com/) - Dictionaries with meanings, definitions, pronunciations and pictures.
+- [Linguee](https://www.linguee.com/) - Dictionary with many examples of usage and pronunciation.
+- [ReversoContext](http://context.reverso.net/translation) - Translate word in context.
+
 
 ## Speaking
 
@@ -125,8 +152,7 @@ Online radio stations is one of the best and most effective ways to improve your
 Conversation Exchange Websites are a fantastic idea and you can study english with native English speakers.
 
 - [iTalki](https://www.italki.com/) - Get 1-on-1 online lessons with native language teachers.
-- [Verbling](https://www.verbling.com/community) - Verbling allows you to free practice english speaking skill by Google Hangout.
-- [Speaky](https://www.gospeaky.com/) - Find and meet native speakers from all around the world.
+- [Verbling](https://www.verbling.com/) - Verbling allows you to free practice english speaking skill by Google Hangout.
 
 ### Speaking Lessons
 
@@ -173,13 +199,6 @@ Conversation Exchange Websites are a fantastic idea and you can study english wi
 - [Grammarly](http://grammarly.com/) - Grammarly makes you a better writer by finding and correcting up to 10 times more mistakes than your word processor.
 - [Test your vocab](http://testyourvocab.com/) - Measure your vocabulary sizes.
 - [YouGlish](https://youglish.com/) - Improve your pronunciation
-
-## Online Dictionaries
-
-- [Forvo](http://forvo.com/) -  Find out how any english word is pronounced in different countries.
-- [Oxford Dictionaries](http://www.oxfordlearnersdictionaries.com/) - Dictionaries with meanings, definitions, pronunciations and pictures.
-- [Linguee](https://www.linguee.com/) - Dictionary with many examples of usage and pronunciation.
-- [ReversoContext](http://context.reverso.net/translation) - Translate word in context.
 
 ## Answers
 
