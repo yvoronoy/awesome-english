@@ -9,7 +9,7 @@ Please read the [contributing guidelines](contributing.md) if you wish to contri
   - [Podcasts](#podcasts)
   - [Tech Podcasts](#tech-podcasts)
   - [Live Radio Stations](#live-radio-stations)
-  - [Websites](#websites)
+  - [Sites](#sites)
 - [Watching](#watching)
   - [YouTube](#youtube)
   - [Live TV Channels](#live-tv-channels)
@@ -21,7 +21,7 @@ Please read the [contributing guidelines](contributing.md) if you wish to contri
   - [Flashcards](#flashcards)
   - [Online Dictionaries](#online-dictionaries)
 - [Speaking](#speaking)
-  - [Language Exchange Websites](#language-exchange-websites)
+  - [Language Exchange Sites](#language-exchange-sites)
   - [Speaking Lessons](#speaking-lessons)
   - [Pronunciation](#pronunciation)
 - [Online Classes](#online-classes)
@@ -78,7 +78,7 @@ Online radio stations is one of the best and most effective ways to improve your
 - [WBBM 780AM - Chicago, Illinois](https://wbbm780.radio.com) - News/talk radio station in Chicago, Illinois.
 - [KMOX 1120AM - St. Louis, Missouri](https://kmox.radio.com) - News/talk radio station in St. Louis, Missouri.
 
-### Websites
+### Sites
 
 - [Spotlight](http://spotlightenglish.com/) - Spotlight is a daily 15 minute radio program for learning English.
 - [ESL Lab](http://www.esl-lab.com/) - Different levels of conversations.
@@ -124,13 +124,13 @@ Online radio stations is one of the best and most effective ways to improve your
 ## Grammar
 - [Book: English Grammar in Use by Raymond Murphy](https://www.cambridge.org/us/cambridgeenglish/catalog/grammar-vocabulary-and-pronunciation/english-grammar-use-5th-edition) - The world's best selling grammar book for learners of English.
 - [Ego4u](http://www.ego4u.com) - Grammar and tests.
- 
+
 ## Learn more words
 
 ### Word lists
- - [Ogden's Basic English](http://ogden.basic-english.org/) - 850 simplified Language Basic English Words by Charles K. Ogden. It was released in 1930. With just 850 words everything may be said for all the purposes of everyday existence. [Simple English Wikipedia](https://simple.wikipedia.org/wiki/Basic_English) is based on these 850 basic English words.
- - [Book: Verbal Advantage by Charles Harrington Elster](https://www.academia.edu/27879831/Verbal_Advantage_by_Charles_Harrington_Elster) - This book for advanced levels and will help you learn more words. It's highly recommended book which not just informative but also interesting and fun to read.
- 
+- [Ogden's Basic English](http://ogden.basic-english.org/) - 850 simplified Language Basic English Words by Charles K. Ogden. It was released in 1930. With just 850 words everything may be said for all the purposes of everyday existence. [Simple English Wikipedia](https://simple.wikipedia.org/wiki/Basic_English) is based on these 850 basic English words.
+- [Book: Verbal Advantage by Charles Harrington Elster](https://www.academia.edu/27879831/Verbal_Advantage_by_Charles_Harrington_Elster) - This book for advanced levels and will help you learn more words. It's highly recommended book which not just informative but also interesting and fun to read.
+
 ### Flashcards
 - [Memrise](https://www.memrise.com/) - Flashcard platform to build vocabulary with user created lists of words.
 - [Quizlet](https://quizlet.com/) - Simple tools that let you study words.
@@ -147,9 +147,9 @@ Online radio stations is one of the best and most effective ways to improve your
 
 ## Speaking
 
-### Language Exchange Websites
+### Language Exchange Sites
 
-Conversation Exchange Websites are a fantastic idea and you can study english with native English speakers.
+Conversation Exchange Sites are a fantastic idea and you can study english with native English speakers.
 
 - [iTalki](https://www.italki.com/) - Get 1-on-1 online lessons with native language teachers.
 - [Verbling](https://www.verbling.com/) - Verbling allows you to free practice english speaking skill by Google Hangout.
@@ -179,7 +179,7 @@ Conversation Exchange Websites are a fantastic idea and you can study english wi
 - [Short Stories](http://www.short-stories.co.uk/) - Short stories for every day reading.
 - [Reading Room](http://www.englishpage.com/readingroom/readingroomintro.html) - Newspapers, magazines, books and libraries.
 - [Reading Comprehension Exercises](http://www.usingenglish.com/comprehension/) - 3 Levels of texts with exercises.
-- [IMDB scripts](http://www.imsdb.com/) - Internet movie script database.
+- [IMDB scripts](http://www.imsdb.com/) - internet movie script database.
 - [Today I Found Out](http://www.todayifoundout.com/) - Daily interesting fact articles from various authors.
 - [Newsy](http://www.newsy.com/) - Short news with transcriptions.
 - [Engoo](https://engoo.com/app/daily-news) - Daily news for english learners
@@ -188,7 +188,7 @@ Conversation Exchange Websites are a fantastic idea and you can study english wi
 
 - [ETS](http://englishteststore.net/) - English tests.
 - [Ego4u](http://www.ego4u.com) - Grammar and tests.
-- [Duolingo](https://www.duolingo.com) - Free language-learning platform that includes a language-learning website and app, as well as a digital language proficiency assessment exam.
+- [Duolingo](https://www.duolingo.com) - Free language-learning platform that includes a language-learning site and app, as well as a digital language proficiency assessment exam.
 - [LingoRank](http://lingorank.com) - Test and improve your english listening skills with TED talks.
 
 ## Tools
