@@ -8,6 +8,7 @@ Please read the [contributing guidelines](contributing.md) if you wish to contri
 - [Listening](#listening)
   - [Podcasts](#podcasts)
   - [Tech Podcasts](#tech-podcasts)
+  - [Interview Podcasts](#interview-podcasts)
   - [Live Radio Stations](#live-radio-stations)
   - [Sites](#sites)
 - [Watching](#watching)
@@ -56,6 +57,15 @@ The collection of podcasts about technologies.
 - [Talk Python To Me](https://talkpython.fm/) - A podcast on Python and related technologies.
 - [The PHP Roundtable](https://www.phproundtable.com/) - The PHP Roundtable is a podcast of web developers discussing PHP, JavaScript, community, open source.
 - [Google Cloud Platform Podcast](https://www.gcppodcast.com/) - The Google Cloud Platform Podcast, coming to you every week. Discussing everything from on Google Cloud Platform from App Engine to Big Query.
+
+### Interview Podcasts
+
+Interviews are one of the best formats for podcasting and learn a real english conversations. The art of conversation is not an easy thing and can be tricky.
+
+- [Lex Fridman Podcast](https://lexfridman.com/podcast/) - Conversations about the nature of intelligence, consciousness, love, and power.
+- [Joe Rogan Experience](https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk) - The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.
+- [The Tim Ferriss Show](https://tim.blog/podcast/) - The Tim Ferriss Show is often the #1 business podcast. Each episode, I deconstruct world-class performers from eclectic areas (investing, sports, business, art, etc.) to extract the tactics, tools, and routines you can use.
+- [The Knowledge Project](https://fs.blog/knowledge-project-podcast/) - The Knowledge Project Podcast unlocks your potential. We interview world-class doers and thinkers so you can better analyze problems, seize opportunities, and master decision-making. Every episode is packed with lessons and insights that never expire.
 
 ### Live Radio Stations
 
