@@ -153,6 +153,7 @@ Online radio stations is one of the best and most effective ways to improve your
 - [Oxford Dictionaries](http://www.oxfordlearnersdictionaries.com/) - Dictionaries with meanings, definitions, pronunciations and pictures.
 - [Linguee](https://www.linguee.com/) - Dictionary with many examples of usage and pronunciation.
 - [ReversoContext](http://context.reverso.net/translation) - Translate word in context.
+- [MasterSpeak](https://masterspeak.app/en/) -  Get to know how english word is pronounced by real people and in context with Youtube videos.
 
 
 ## Speaking
