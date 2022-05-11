@@ -142,6 +142,7 @@ Online radio stations is one of the best and most effective ways to improve your
 - [Book: Verbal Advantage by Charles Harrington Elster](https://www.academia.edu/27879831/Verbal_Advantage_by_Charles_Harrington_Elster) - This book for advanced levels and will help you learn more words. It's highly recommended book which not just informative but also interesting and fun to read.
 
 ### Flashcards
+- [Anki](https://apps.ankiweb.net/) - Anki is a program which makes remembering things easy. Because it's a lot more efficient than traditional study methods, you can either greatly decrease your time spent studying, or greatly increase the amount you learn.
 - [Memrise](https://www.memrise.com/) - Flashcard platform to build vocabulary with user created lists of words.
 - [Quizlet](https://quizlet.com/) - Simple tools that let you study words.
 
