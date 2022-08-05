@@ -48,7 +48,7 @@ Listen podcasts anytime and anywhere to improve your listening skill. Podcasts o
 - [This American Life](http://www.thisamericanlife.org/radio-archives) - One of the most popular podcast. Most of the stories are journalism, with an occasional comedy routine or essay.
 - [6 Minute English](http://www.bbc.co.uk/programmes/p02pc9tn/episodes/downloads) - Learn and practise useful English language for everyday situations with the BBC.
 - [CNN 10](http://edition.cnn.com/cnn10) - A 10-minute digital news show that explains global news to a global audience.
-- [ENGLISH LEARNING FOR CURIOUS MINDS](https://www.leonardoenglish.com/podcasts) - A podcasts with episodes on history, politics, and unusual stories. Transcripts, subtitles and vocabulary available.
+- [English Learning for Curious Minds](https://www.leonardoenglish.com/podcasts) - A podcasts with episodes on history, politics, and unusual stories. Transcripts, subtitles and vocabulary available.
 
 ### Tech Podcasts
 
