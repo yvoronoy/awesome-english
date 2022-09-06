@@ -48,6 +48,7 @@ Listen podcasts anytime and anywhere to improve your listening skill. Podcasts o
 - [This American Life](http://www.thisamericanlife.org/radio-archives) - One of the most popular podcast. Most of the stories are journalism, with an occasional comedy routine or essay.
 - [6 Minute English](http://www.bbc.co.uk/programmes/p02pc9tn/episodes/downloads) - Learn and practise useful English language for everyday situations with the BBC.
 - [CNN 10](http://edition.cnn.com/cnn10) - A 10-minute digital news show that explains global news to a global audience.
+- [English Learning for Curious Minds](https://www.leonardoenglish.com/podcasts) - A podcasts with episodes on history, politics, and unusual stories. Transcripts, subtitles and vocabulary available.
 
 ### Tech Podcasts
 
@@ -118,7 +119,7 @@ Online radio stations is one of the best and most effective ways to improve your
 
 - [Jimmy Kimmel Live!](https://www.youtube.com/user/JimmyKimmelLive) - Very popular american late-night talk show with famous people.
 - [The Wendy Williams Show](https://www.youtube.com/user/WendyWilliamsShow) - American syndicated infotainment talk show hosted by Wendy Williams.
-- [The Tonight Show Starring Jimmy Fallon](https://www.youtube.com/user/latenight) -  American late-night talk show hosted by Jimmy Fallon on NBC.
+- [The Tonight Show Starring Jimmy Fallon](https://www.youtube.com/user/latenight) - American late-night talk show hosted by Jimmy Fallon on NBC.
 - [Late Night with Seth Meyers](https://www.youtube.com/user/LateNightSeth) - American late-night talk show hosted by Seth Meyers on NBC.
 - [The Late Late Show with James Corden](https://www.youtube.com/user/TheLateLateShow) - American late-night talk show hosted by James Corden on CBS.
 - [The Late Show with Stephen Colbert](https://www.youtube.com/channel/UCMtFAi84ehTSYSE9XoHefig) - American late-night talk show by Stephen Colbert on CBS.
@@ -132,29 +133,31 @@ Online radio stations is one of the best and most effective ways to improve your
 - [FRANCE 24 Tech24](https://www.youtube.com/playlist?list=PLCUKIeZnrIUmpC0R31n7lXY__0iWEuPQ3) - Tech24 explores the digital revolution and check out the latest technological trends.
 
 ## Grammar
+
 - [Book: English Grammar in Use by Raymond Murphy](https://www.cambridge.org/us/cambridgeenglish/catalog/grammar-vocabulary-and-pronunciation/english-grammar-use-5th-edition) - The world's best selling grammar book for learners of English.
 - [Ego4u](http://www.ego4u.com) - Grammar and tests.
 
 ## Learn more words
 
 ### Word lists
+
 - [Ogden's Basic English](http://ogden.basic-english.org/) - 850 simplified Language Basic English Words by Charles K. Ogden. It was released in 1930. With just 850 words everything may be said for all the purposes of everyday existence. [Simple English Wikipedia](https://simple.wikipedia.org/wiki/Basic_English) is based on these 850 basic English words.
 - [Book: Verbal Advantage by Charles Harrington Elster](https://www.academia.edu/27879831/Verbal_Advantage_by_Charles_Harrington_Elster) - This book for advanced levels and will help you learn more words. It's highly recommended book which not just informative but also interesting and fun to read.
 
 ### Flashcards
+
 - [Anki](https://apps.ankiweb.net/) - Anki is a program which makes remembering things easy. Because it's a lot more efficient than traditional study methods, you can either greatly decrease your time spent studying, or greatly increase the amount you learn.
 - [Memrise](https://www.memrise.com/) - Flashcard platform to build vocabulary with user created lists of words.
 - [Quizlet](https://quizlet.com/) - Simple tools that let you study words.
 
 ### Online Dictionaries
 
-- [Forvo](http://forvo.com/) -  Find out how any english word is pronounced in different countries.
+- [Forvo](http://forvo.com/) - Find out how any english word is pronounced in different countries.
 - [Dictionary](https://www.dictionary.com/) - The world's leading digital dictionary. It provides defenitions, spellings, audio pronunciations, example sentences and word origins.
 - [Thesaurus.com](https://www.thesaurus.com/) - The world's largest online thesaurus by Dictionary.com
 - [Oxford Dictionaries](http://www.oxfordlearnersdictionaries.com/) - Dictionaries with meanings, definitions, pronunciations and pictures.
 - [Linguee](https://www.linguee.com/) - Dictionary with many examples of usage and pronunciation.
 - [ReversoContext](http://context.reverso.net/translation) - Translate word in context.
-
 
 ## Speaking
 
