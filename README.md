@@ -149,6 +149,7 @@ Online radio stations is one of the best and most effective ways to improve your
 - [Anki](https://apps.ankiweb.net/) - Anki is a program which makes remembering things easy. Because it's a lot more efficient than traditional study methods, you can either greatly decrease your time spent studying, or greatly increase the amount you learn.
 - [Memrise](https://www.memrise.com/) - Flashcard platform to build vocabulary with user created lists of words.
 - [Quizlet](https://quizlet.com/) - Simple tools that let you study words.
+- [Wordup] (https://www.wordupapp.co/) - English has over 200,000 words. You'll never learn them all. But imagine if a magical app told you exactly which words matter in YOUR LIFE, and helped you learn them to perfection!
 
 ### Online Dictionaries
 
