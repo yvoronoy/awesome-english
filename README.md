@@ -181,7 +181,7 @@ Conversation Exchange Sites are a fantastic idea and you can study english with 
 ### Private Classes
 
 - [iTalki](https://www.italki.com/) - One of the most popular resource where you can find a teacher 1 on 1.
-- [Verbling](https://www.verbling.com/community) - One of the most popular resource where you can find a teacher 1 on 1.
+- [Verbling](https://www.verbling.com/) - One of the most popular resource where you can find a teacher 1 on 1.
 
 ### Group Classes
 
