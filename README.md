@@ -106,6 +106,8 @@ Online radio stations is one of the best and most effective ways to improve your
 - [Anglo-Link](https://www.youtube.com/user/MinooAngloLink/) - Useful grammar lessons.
 - [Daily Dictation](https://www.youtube.com/user/dailydictation) - Daily dictation for students who want to improve their listening comprehension skills.
 - [Learn English with Let's Talk](https://www.youtube.com/user/learnexmumbai) - On this channel different experts will tell you how to expertise in the different consequences in daily life and in which situation what type of phrases you should use.
+- [Learn English With TV Series](https://www.youtube.com/@LearnEnglishWithTVSeries) - A truly enjoyable and effortless method to enhance listening comprehension and grasp native speakers through TV shows, movies, and talk shows.
+- [RealLife English](https://www.youtube.com/@RealLifeEnglish1) - Videos discussing various learning methods and the mindset required to embark on your English learning journey.
 
 ### Live TV Channels
 
