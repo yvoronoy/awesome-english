@@ -143,7 +143,7 @@ Online radio stations is one of the best and most effective ways to improve your
 
 ### Word lists
 
-- [Ogden's Basic English](http://ogden.basic-english.org/) - 850 simplified Language Basic English Words by Charles K. Ogden. It was released in 1930. With just 850 words everything may be said for all the purposes of everyday existence. [Simple English Wikipedia](https://simple.wikipedia.org/wiki/Basic_English) is based on these 850 basic English words.
+- [Ogden's Basic English](https://zbenglish.net/sites/basic/basiceng.html) - 850 simplified Language Basic English Words by Charles K. Ogden. It was released in 1930. With just 850 words everything may be said for all the purposes of everyday existence. [Simple English Wikipedia](https://simple.wikipedia.org/wiki/Basic_English) is based on these 850 basic English words.
 - [Book: Verbal Advantage by Charles Harrington Elster](https://www.academia.edu/27879831/Verbal_Advantage_by_Charles_Harrington_Elster) - This book for advanced levels and will help you learn more words. It's highly recommended book which not just informative but also interesting and fun to read.
 
 ### Flashcards
