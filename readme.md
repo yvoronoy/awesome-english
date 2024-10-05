@@ -5,10 +5,10 @@ focused on practicing the core skills — listening, speaking, reading, and writ
 Includes resources for grammar, vocabulary, and media to enhance your English studies.
 This list is for:
 
- - ESL Learners at all levels
- - Self-study enthusiasts seeking structured practice
- - Educators looking for student resources
- - Professionals improving English for work, study, or travel
+- ESL Learners at all levels
+- Self-study enthusiasts seeking structured practice
+- Educators looking for student resources
+- Professionals improving English for work, study, or travel
 
 
 ## Contents
