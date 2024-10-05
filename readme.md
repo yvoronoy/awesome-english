@@ -1,9 +1,19 @@
-# Awesome English [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome English [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A collection of awesome study resources for learners of English.  
-Please read the [contributing guidelines](contributing.md) if you wish to contribute.
+A curated collection of high-quality resources for learning the English language.
+It is organized to help you practice the four core skills — listening, speaking, reading, and writing.
+In addition, it offers a variety of resources and materials to simplify your study process and improve your English,
+covering everything from grammar and vocabulary to media like TV, radio, and more.
 
-## Contents <!-- omit in toc -->
+This list is for:
+
+ - ESL Learners: English as a Second Language learners at any level.
+ - Self-Learners: Individuals studying English independently, looking for structured practice.
+ - Educators: Teachers seeking organized, practical resources for their students.
+ - Professionals: Non-native speakers looking to improve their English for work, study, or travel.
+
+
+## Contents
 
 - [Listening](#listening)
   - [Podcasts](#podcasts)
@@ -32,7 +42,6 @@ Please read the [contributing guidelines](contributing.md) if you wish to contri
 - [Exercises and Tests](#exercises-and-tests)
 - [Tools](#tools)
 - [Answers](#answers)
-- [License](#license)
 
 ## Listening
 
@@ -224,6 +233,10 @@ Conversation Exchange Sites are a fantastic idea and you can study english with 
 - [How can I learn to speak English well in non-English environment?](https://www.quora.com/How-can-I-learn-to-speak-English-well-in-non-English-environment)
 - [How can I make tangible improvements to my spoken English in one month?](https://www.quora.com/How-can-I-make-tangible-improvements-to-my-spoken-English-in-one-month)
 - [Are English speaking courses helpful?](https://www.quora.com/Are-English-speaking-courses-helpful)
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 ## License
 
