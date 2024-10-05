@@ -1,9 +1,9 @@
 # Awesome English [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated collection of high-quality resources for learning the English language.
-It is organized to help you practice the four core skills — listening, speaking, reading, and writing.
-In addition, it offers a variety of resources and materials to simplify your study process and improve your English,
-covering everything from grammar and vocabulary to media like TV, radio, and more.
+A curated collection of high-quality resources for learning English,
+organized around the four core skills — listening, speaking, reading, and writing.
+It also includes tools to streamline your studies and improve your English, 
+from grammar and vocabulary to media like TV and radio.
 
 This list is for:
 
