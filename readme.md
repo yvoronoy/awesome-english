@@ -1,16 +1,14 @@
 # Awesome English [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated collection of high-quality resources for learning English,
-organized around the four core skills — listening, speaking, reading, and writing.
-It also includes tools to streamline your studies and improve your English, 
-from grammar and vocabulary to media like TV and radio.
-
+focused on practicing the core skills — listening, speaking, reading, and writing.
+Includes resources for grammar, vocabulary, and media to enhance your English studies.
 This list is for:
 
- - ESL Learners: English as a Second Language learners at any level.
- - Self-Learners: Individuals studying English independently, looking for structured practice.
- - Educators: Teachers seeking organized, practical resources for their students.
- - Professionals: Non-native speakers looking to improve their English for work, study, or travel.
+ - ESL Learners at all levels
+ - Self-study enthusiasts seeking structured practice
+ - Educators looking for student resources
+ - Professionals improving English for work, study, or travel
 
 
 ## Contents
