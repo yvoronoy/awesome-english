@@ -20,7 +20,6 @@ This list is for:
   - [Live Radio Stations](#live-radio-stations)
   - [Sites](#sites)
 - [Speaking](#speaking)
-  - [Language Exchange Sites](#language-exchange-sites)
   - [Speaking Lessons](#speaking-lessons)
   - [Pronunciation](#pronunciation)
 - [Watching](#watching)
@@ -106,13 +105,6 @@ Online radio stations is one of the best and most effective ways to improve your
 
 ## Speaking
 
-### Language Exchange Sites
-
-Conversation Exchange Sites are a fantastic idea and you can study english with native English speakers.
-
-- [iTalki](https://www.italki.com/) - Get 1-on-1 online lessons with native language teachers.
-- [Verbling](https://www.verbling.com/) - Verbling allows you to free practice english speaking skill by Google Hangout.
-
 ### Speaking Lessons
 
 - [Talk English](http://www.talkenglish.com/) - Learn english speaking.
@@ -154,11 +146,13 @@ Conversation Exchange Sites are a fantastic idea and you can study english with 
 - [The Daily Show with Trevor Noah](https://www.youtube.com/channel/UCwWhs_6x42TyRM4Wstoq8HA) - American late-night talk show by Trevor Noah on Comedy Central
 
 ### Tech Shows
-
+- [Marques Brownlee MKBHD](https://www.youtube.com/user/marquesbrownlee) - A channel offering in-depth tech reviews and discussions, presented in clear, understandable English, focusing on consumer electronics and emerging technology trends.
+- [Linus Tech Tips](https://www.youtube.com/user/LinusTechTips) - A channel that provides tech reviews, build guides, and technology discussions, using straightforward language accessible to a wide audience.
+- [Unbox Therapy](https://www.youtube.com/user/unboxtherapy) - A channel showcasing unboxing and reviews of the latest gadgets, using conversational and clear English, making it approachable for a wide audience.
+- [TechLinked](https://www.youtube.com/channel/UCeeFfhMcJa1kjtfZAGskOCA) - A channel offering bite-sized tech news and updates, presented with humor and clarity, making it easy to follow for learners of English.
 - [Bloomberg Technology](https://www.youtube.com/channel/UCrM7B7SL_g1edFOnmj-SDKg) - Bloomberg Technology focuses on the topics of technology, innovation and business.
 - [BBC Click](https://www.youtube.com/user/ClickBBC) - BBC Click is the BBC's flagship technology programme.
 - [Sky News Swipe](https://www.youtube.com/playlist?list=PLG8IrydigQfckEQNNdxoPiQ0GtAJLP5_5) - Sky News`s tech show.
-- [FRANCE 24 Tech24](https://www.youtube.com/playlist?list=PLCUKIeZnrIUmpC0R31n7lXY__0iWEuPQ3) - Tech24 explores the digital revolution and check out the latest technological trends.
 
 ## Reading
 
