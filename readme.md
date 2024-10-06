@@ -93,11 +93,11 @@ The list includes language exchange platforms, apps for pronunciation, forums.
 
 - [Tandem](https://www.tandem.net/) - Language exchange app connecting users with native speakers for text, voice, and video chats.
 - [HelloTalk](https://www.hellotalk.com/) - App that links you with native speakers for language exchange through text and voice messages. Focuses on building conversational skills.
-- [Reddit’s r/Language_Exchange](https://www.reddit.com/r/language_exchange/) - Reddit community where users can find language exchange partners to practice speaking with.
+- [Reddit's r/Language_Exchange](https://www.reddit.com/r/language_exchange/) - Reddit community where users can find language exchange partners to practice speaking with.
 - [Discord Language Learning Servers](https://discord.com/) - Communities on Discord where you can join voice chats for real-time language speaking practice.
 - [Elsa Speak](https://www.elsaspeak.com/) - AI-driven app that helps improve pronunciation by offering detailed feedback on speaking.
 - [TalkEnglish](https://www.talkenglish.com/) - Site with speaking exercises and conversation topics to improve fluency through practice.
-- [Rachel’s English](https://www.youtube.com/user/rachelsenglish) - YouTube channel focusing on pronunciation and clear speaking in American English.
+- [Rachel's English](https://www.youtube.com/user/rachelsenglish) - YouTube channel focusing on pronunciation and clear speaking in American English.
 
 ## Watching
 
@@ -106,7 +106,6 @@ The list includes language exchange platforms, apps for pronunciation, forums.
 
 Watching YouTube helps learn English by providing exposure to authentic language, visual context, diverse content, subtitles, and opportunities for interactive learning.
 
-- [Rachel's English](https://www.youtube.com/user/rachelsenglish) - Most popular american english pronunciation videos.
 - [Learn English with Ronnie](https://www.youtube.com/user/EnglishLessons4U) - Funny english videos with Ronnie.
 - [BBC English Grammar](https://www.youtube.com/playlist?list=PLcetZ6gSk96_zHuVg6Ecy2F7j4Aq4valQ) - Short videos by BBC.
 - [BBC English HowTo](https://www.youtube.com/playlist?list=PLcetZ6gSk9692RVJgFx4JXwFG4mWK0XGj) - Useful english phrases that you can use immediately.
