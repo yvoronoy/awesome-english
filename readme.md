@@ -28,18 +28,19 @@ This list is for:
   - [Live TV Channels](#live-tv-channels)
   - [TV Talk Shows](#tv-talk-shows)
   - [Tech Shows](#tech-shows)
+- [Reading](#reading)
+- [Writing](#writing)
 - [Grammar](#grammar)
-- [Learn more words](#learn-more-words)
+- [Vocabulary](#vocabulary)
   - [Word lists](#word-lists)
   - [Flashcards](#flashcards)
   - [Online Dictionaries](#online-dictionaries)
+- [Tools](#tools)
+- [Exercises and Tests](#exercises-and-tests)
 - [Online Classes](#online-classes)
   - [Private Classes](#private-classes)
   - [Group Classes](#group-classes)
-- [Reading](#reading)
-- [Exercises and Tests](#exercises-and-tests)
-- [Tools](#tools)
-- [Answers](#answers)
+- [FAQ or Common Questions](#faq-or-common-questions)
 
 ## Listening
 
@@ -119,29 +120,6 @@ Conversation Exchange Sites are a fantastic idea and you can study english with 
 
 - [The Sound of English](http://thesoundofenglish.org/) - Learn how to speak clear English with a neutral British accent. Very helpful resource to improve your pronunciation.
 
-## Reading
-
-- [Breaking News English](http://www.breakingnewsenglish.com/) - Breaking news listen, read and write.
-- [Short Stories](http://www.short-stories.co.uk/) - Short stories for every day reading.
-- [Reading Room](http://www.englishpage.com/readingroom/readingroomintro.html) - Newspapers, magazines, books and libraries.
-- [Reading Comprehension Exercises](http://www.usingenglish.com/comprehension/) - 3 Levels of texts with exercises.
-- [IMDB scripts](http://www.imsdb.com/) - internet movie script database.
-- [Today I Found Out](http://www.todayifoundout.com/) - Daily interesting fact articles from various authors.
-- [Newsy](http://www.newsy.com/) - Short news with transcriptions.
-- [Engoo](https://engoo.com/app/daily-news) - Daily news for english learners.
-
-## Writing
-**Tip:** Practicing writing every day, even for just a few minutes, will help you improve faster. 
-Utilize ChatGPT to improve your writing by getting instant feedback on grammar, structure, style, and vocabulary, along with prompts and personalized suggestions for various writing tasks.
-
-- [750 Words](https://750words.com/) - Encourages daily private writing by providing stats and gamification mechanics.
-- [Write & Improve by Cambridge](https://writeandimprove.com/) - Offers daily writing tasks at various levels.
-- [ThoughtCo's ESL Writing Exercises](https://www.thoughtco.com/esl-writing-skills-4133091) - Offers various writing prompts and exercises.
-- [ChatGPT by OpenAI](https://chat.openai.com/) - Engage in text-based conversations, ask for writing prompts, get grammar explanations, and receive feedback on your writing.
-- [Claude by Anthropic](https://www.anthropic.com/index/introducing-claude) - An AI assistant designed to be helpful, safe, and reliable. You can use Claude for engaging conversations, writing feedback, and practicing English.
-- [Grammarly](https://www.grammarly.com/) - A writing assistant that checks grammar, spelling, and style.
-- [Hemingway Editor](http://www.hemingwayapp.com/) - Helps simplify and clarify your writing.
-
 ## Watching
 
 ### YouTube
@@ -181,12 +159,35 @@ Utilize ChatGPT to improve your writing by getting instant feedback on grammar, 
 - [Sky News Swipe](https://www.youtube.com/playlist?list=PLG8IrydigQfckEQNNdxoPiQ0GtAJLP5_5) - Sky News`s tech show.
 - [FRANCE 24 Tech24](https://www.youtube.com/playlist?list=PLCUKIeZnrIUmpC0R31n7lXY__0iWEuPQ3) - Tech24 explores the digital revolution and check out the latest technological trends.
 
+## Reading
+
+- [Breaking News English](http://www.breakingnewsenglish.com/) - Breaking news listen, read and write.
+- [Short Stories](http://www.short-stories.co.uk/) - Short stories for every day reading.
+- [Reading Room](http://www.englishpage.com/readingroom/readingroomintro.html) - Newspapers, magazines, books and libraries.
+- [Reading Comprehension Exercises](http://www.usingenglish.com/comprehension/) - 3 Levels of texts with exercises.
+- [IMDB scripts](http://www.imsdb.com/) - internet movie script database.
+- [Today I Found Out](http://www.todayifoundout.com/) - Daily interesting fact articles from various authors.
+- [Newsy](http://www.newsy.com/) - Short news with transcriptions.
+- [Engoo](https://engoo.com/app/daily-news) - Daily news for english learners.
+
+## Writing
+**Tip:** Practicing writing every day, even for just a few minutes, will help you improve faster. 
+Utilize ChatGPT to improve your writing by getting instant feedback on grammar, structure, style, and vocabulary, along with prompts and personalized suggestions for various writing tasks.
+
+- [750 Words](https://750words.com/) - Encourages daily private writing by providing stats and gamification mechanics.
+- [Write & Improve by Cambridge](https://writeandimprove.com/) - Offers daily writing tasks at various levels.
+- [ThoughtCo's ESL Writing Exercises](https://www.thoughtco.com/esl-writing-skills-4133091) - Offers various writing prompts and exercises.
+- [ChatGPT by OpenAI](https://chat.openai.com/) - Engage in text-based conversations, ask for writing prompts, get grammar explanations, and receive feedback on your writing.
+- [Claude by Anthropic](https://www.anthropic.com/index/introducing-claude) - An AI assistant designed to be helpful, safe, and reliable. You can use Claude for engaging conversations, writing feedback, and practicing English.
+- [Grammarly](https://www.grammarly.com/) - A writing assistant that checks grammar, spelling, and style.
+- [Hemingway Editor](http://www.hemingwayapp.com/) - Helps simplify and clarify your writing.
+
 ## Grammar
 
 - [Book: English Grammar in Use by Raymond Murphy](https://www.cambridge.org/us/cambridgeenglish/catalog/grammar-vocabulary-and-pronunciation/english-grammar-use-5th-edition) - The world's best selling grammar book for learners of English.
 - [Ego4u](http://www.ego4u.com) - Grammar and tests.
 
-## Learn more words
+## Vocabulary
 
 ### Word lists
 
@@ -208,24 +209,6 @@ Utilize ChatGPT to improve your writing by getting instant feedback on grammar, 
 - [Linguee](https://www.linguee.com/) - Dictionary with many examples of usage and pronunciation.
 - [ReversoContext](http://context.reverso.net/translation) - Translate word in context.
 
-## Online Classes
-
-### Private Classes
-
-- [iTalki](https://www.italki.com/) - One of the most popular resource where you can find a teacher 1 on 1.
-- [Verbling](https://www.verbling.com/) - One of the most popular resource where you can find a teacher 1 on 1.
-
-### Group Classes
-
-- [Lingoda](https://lingoda.com/) - They have group and private classes, fixed monthly payment and really convenient interface where you can schedule your classes. All teachers are native speakers.
-
-## Exercises and Tests
-
-- [ETS](http://englishteststore.net/) - English tests.
-- [Ego4u](http://www.ego4u.com) - Grammar and tests.
-- [Duolingo](https://www.duolingo.com) - Free language-learning platform that includes a language-learning site and app, as well as a digital language proficiency assessment exam.
-- [LingoRank](http://lingorank.com) - Test and improve your english listening skills with TED talks.
-
 ## Tools
 
 - [Play Phrase](http://playphrase.me/) - Tools allows to search and play specific soundbites from movies.
@@ -237,7 +220,25 @@ Utilize ChatGPT to improve your writing by getting instant feedback on grammar, 
 - [visuwords](https://visuwords.com/) - to visualize words and its related lexicon
 - [Write & Improve](https://writeandimprove.com/) - FREE tool that helps every learner to improve their English writing.
 
-## Answers
+## Exercises and Tests
+
+- [ETS](http://englishteststore.net/) - English tests.
+- [Ego4u](http://www.ego4u.com) - Grammar and tests.
+- [Duolingo](https://www.duolingo.com) - Free language-learning platform that includes a language-learning site and app, as well as a digital language proficiency assessment exam.
+- [LingoRank](http://lingorank.com) - Test and improve your english listening skills with TED talks.
+
+## Online Classes
+
+### Private Classes
+
+- [iTalki](https://www.italki.com/) - One of the most popular resource where you can find a teacher 1 on 1.
+- [Verbling](https://www.verbling.com/) - One of the most popular resource where you can find a teacher 1 on 1.
+
+### Group Classes
+
+- [Lingoda](https://lingoda.com/) - They have group and private classes, fixed monthly payment and really convenient interface where you can schedule your classes. All teachers are native speakers.
+
+## FAQ or Common Questions
 
 - [How can I improve my English listening abilities?](https://www.quora.com/How-can-I-improve-my-English-listening-abilities)
 - [How can I learn to speak English well in non-English environment?](https://www.quora.com/How-can-I-learn-to-speak-English-well-in-non-English-environment)
