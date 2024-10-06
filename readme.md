@@ -167,9 +167,9 @@ Reading is a core skill for learning English, as it builds vocabulary, enhances 
 
 These books vary in complexity and genre, allowing learners to choose according to their interests and reading levels while improving their English skills effectively.
 
-- [Harry Potter Series](https://www.goodreads.com/book/show/6.Harry_Potter_and_the_Philosopher_s_Stone) - Harry Potter is a great choice for English learners because the series features a gradual increase in complexity from one book to another, allowing readers to develop their language skills progressively.
+- [Harry Potter Series](https://www.goodreads.com/book/show/862041.Harry_Potter_Series_Box_Set) - Harry Potter is a great choice for English learners because the series features a gradual increase in complexity from one book to another, allowing readers to develop their language skills progressively.
 - [Pride and Prejudice](https://www.goodreads.com/book/show/1885.Pride_and_Prejudice) - Although the vocabulary can be challenging, this classic novel offers rich insights into English literature and culture, making it a rewarding read for advanced learners.
-- [Animal Farm](https://www.goodreads.com/book/show/17044890-animal-farm) - A short allegorical novella that uses simple language to convey complex themes about power and society. It's an excellent choice for learners looking to expand their vocabulary while engaging with significant ideas.
+- [Animal Farm](https://www.goodreads.com/book/show/170448.Animal_Farm) - A short allegorical novella that uses simple language to convey complex themes about power and society. It's an excellent choice for learners looking to expand their vocabulary while engaging with significant ideas.
 
 ## Writing
 **Tip:** Practicing writing every day, even for just a few minutes, will help you improve faster.
