@@ -14,31 +14,15 @@ This list is for:
 ## Contents
 
 - [Listening](#listening)
-  - [Podcasts](#podcasts)
-  - [Tech Podcasts](#tech-podcasts)
-  - [Interview Podcasts](#interview-podcasts)
-  - [Live Radio Stations](#live-radio-stations)
-  - [Sites](#sites)
 - [Speaking](#speaking)
-  - [Speaking Lessons](#speaking-lessons)
-  - [Pronunciation](#pronunciation)
 - [Watching](#watching)
-  - [YouTube](#youtube)
-  - [Live TV Channels](#live-tv-channels)
-  - [TV Talk Shows](#tv-talk-shows)
-  - [Tech Shows](#tech-shows)
 - [Reading](#reading)
 - [Writing](#writing)
 - [Grammar](#grammar)
 - [Vocabulary](#vocabulary)
-  - [Word lists](#word-lists)
-  - [Flashcards](#flashcards)
-  - [Online Dictionaries](#online-dictionaries)
 - [Tools](#tools)
 - [Exercises and Tests](#exercises-and-tests)
 - [Online Classes](#online-classes)
-  - [Private Classes](#private-classes)
-  - [Group Classes](#group-classes)
 - [FAQ or Common Questions](#faq-or-common-questions)
 - [Contribute](#contribute)
 
@@ -46,39 +30,39 @@ This list is for:
 
 ### Podcasts
 
-Listen podcasts anytime and anywhere to improve your listening skill. Podcasts often have transcripts and them allow you to listen and read at the same time.
+Podcasts provide an engaging medium to enhance listening skills through diverse topics and formats. Many include transcripts, enabling simultaneous listening and reading, which aids comprehension.
 
-- [All Ears English](http://allearsenglish.com/) - Learn advanced conversational american english.
-- [ESL Podcasts](https://www.eslpod.com/) - Anyone who wants to improve their english speaking and listening skills.
-- [Culips Podcast](http://esl.culips.com/) - Learn conversational english for everyday use by native english speakers.
-- [Luke's English Podcast](http://teacherluke.co.uk/) - Luke is qualified english language teacher and stand-up comedian who provides engaging and entertaining podcast series.
-- [A Way with Words](http://www.waywordradio.org/category/episodes/) - Public radio program about language examined through history, culture, and family.
-- [This American Life](http://www.thisamericanlife.org/radio-archives) - One of the most popular podcast. Most of the stories are journalism, with an occasional comedy routine or essay.
-- [6 Minute English](http://www.bbc.co.uk/programmes/p02pc9tn/episodes/downloads) - Learn and practise useful English language for everyday situations with the BBC.
-- [CNN 10](http://edition.cnn.com/cnn10) - A 10-minute digital news show that explains global news to a global audience.
-- [English Learning for Curious Minds](https://www.leonardoenglish.com/podcasts) - A podcasts with episodes on history, politics, and unusual stories. Transcripts, subtitles and vocabulary available.
+- [All Ears English](http://allearsenglish.com/) - Learn advanced conversational American English.
+- [ESL Podcasts](https://www.eslpod.com/) - Ideal for those looking to improve English speaking and listening skills.
+- [Culips Podcast](http://esl.culips.com/) - Focuses on conversational English for everyday use by native speakers.
+- [Luke's English Podcast](http://teacherluke.co.uk/) - Hosted by a qualified language teacher and stand-up comedian, providing an engaging podcast series.
+- [A Way with Words](http://www.waywordradio.org/category/episodes/) - Explores language through history, culture, and family on a public radio program.
+- [This American Life](http://www.thisamericanlife.org/radio-archives) - A popular podcast featuring journalism, comedy routines, and essays.
+- [6 Minute English](http://www.bbc.co.uk/programmes/p02pc9tn/episodes/downloads) - Teaches useful English language for everyday situations with the BBC.
+- [CNN 10](http://edition.cnn.com/cnn10) - A 10-minute digital news show explaining global news to a worldwide audience.
+- [English Learning for Curious Minds](https://www.leonardoenglish.com/podcasts) - Features episodes on history, politics, and unusual stories, complete with transcripts and vocabulary aids.
 
 ### Tech Podcasts
 
-The collection of podcasts about technologies.
+Tech podcasts improve English skills and keep you updated on technology. They introduce new vocabulary and industry terms, enhancing comprehension and listening.
 
-- [MageTalk](https://magetalk.com/) - This is a great show with the latest news around Magento ecosystem, community and eCommerce.
-- [Talk Python To Me](https://talkpython.fm/) - A podcast on Python and related technologies.
-- [The PHP Roundtable](https://www.phproundtable.com/) - The PHP Roundtable is a podcast of web developers discussing PHP, JavaScript, community, open source.
-- [Google Cloud Platform Podcast](https://www.gcppodcast.com/) - The Google Cloud Platform Podcast, coming to you every week. Discussing everything from on Google Cloud Platform from App Engine to Big Query.
+- [MageTalk](https://magetalk.com/) - Great show with the latest news in the Magento ecosystem, community, and eCommerce.
+- [Talk Python To Me](https://talkpython.fm/) - Podcast on Python and related technologies.
+- [The PHP Roundtable](https://www.phproundtable.com/) - Podcast of web developers discussing PHP, JavaScript, community, and open source.
+- [Google Cloud Platform Podcast](https://www.gcppodcast.com/) - Weekly discussions covering various topics on Google Cloud Platform, from App Engine to Big Query.
 
 ### Interview Podcasts
 
-Interviews are one of the best formats for podcasting and learn a real english conversations. The art of conversation is not an easy thing and can be tricky.
+Interviews are great for learning real English conversations and mastering communication skills.
 
 - [Lex Fridman Podcast](https://lexfridman.com/podcast/) - Conversations about the nature of intelligence, consciousness, love, and power.
-- [Joe Rogan Experience](https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk) - The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.
-- [The Tim Ferriss Show](https://tim.blog/podcast/) - The Tim Ferriss Show is often the #1 business podcast. Each episode, I deconstruct world-class performers from eclectic areas (investing, sports, business, art, etc.) to extract the tactics, tools, and routines you can use.
-- [The Knowledge Project](https://fs.blog/knowledge-project-podcast/) - The Knowledge Project Podcast unlocks your potential. We interview world-class doers and thinkers so you can better analyze problems, seize opportunities, and master decision-making. Every episode is packed with lessons and insights that never expire.
+- [Joe Rogan Experience](https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk) - Official podcast of comedian Joe Rogan featuring moments from episodes.
+- [The Tim Ferriss Show](https://tim.blog/podcast/) - Deconstructing world-class performers to extract actionable tactics, tools, and routines.
+- [The Knowledge Project](https://fs.blog/knowledge-project-podcast/) - Interviews with world-class doers and thinkers, packed with lessons and insights for better decision-making.
 
 ### Live Radio Stations
 
-Online radio stations is one of the best and most effective ways to improve your English listening skills, while also getting accustomed to the speed and tone of native English speakers.
+Online radio stations are a great way to improve your English listening skills and get used to the speed and tone of native speakers.
 
 - [NPR](http://www.npr.org/) - National american radio with transcripts.
 - [Fox News Talk](http://tunein.com/radio/FOX-News-Talk-s20431/) - News New York radio station.
@@ -105,19 +89,23 @@ Online radio stations is one of the best and most effective ways to improve your
 
 ## Speaking
 
-### Speaking Lessons
+The list includes language exchange platforms, apps for pronunciation, forums.
 
-- [Talk English](http://www.talkenglish.com/) - Learn english speaking.
-
-### Pronunciation
-
-- [The Sound of English](http://thesoundofenglish.org/) - Learn how to speak clear English with a neutral British accent. Very helpful resource to improve your pronunciation.
+- [Tandem](https://www.tandem.net/) - Language exchange app connecting users with native speakers for text, voice, and video chats.
+- [HelloTalk](https://www.hellotalk.com/) - App that links you with native speakers for language exchange through text and voice messages. Focuses on building conversational skills.
+- [Reddit's r/Language_Exchange](https://www.reddit.com/r/language_exchange/) - Reddit community where users can find language exchange partners to practice speaking with.
+- [Discord Language Learning Servers](https://discord.com/) - Communities on Discord where you can join voice chats for real-time language speaking practice.
+- [Elsa Speak](https://www.elsaspeak.com/) - AI-driven app that helps improve pronunciation by offering detailed feedback on speaking.
+- [TalkEnglish](https://www.talkenglish.com/) - Site with speaking exercises and conversation topics to improve fluency through practice.
+- [Rachel's English](https://www.youtube.com/user/rachelsenglish) - YouTube channel focusing on pronunciation and clear speaking in American English.
 
 ## Watching
 
 ### YouTube
 
-- [Rachel's English](https://www.youtube.com/user/rachelsenglish) - Most popular american english pronunciation videos.
+
+Watching YouTube helps learn English by providing exposure to authentic language, visual context, diverse content, subtitles, and opportunities for interactive learning.
+
 - [Learn English with Ronnie](https://www.youtube.com/user/EnglishLessons4U) - Funny english videos with Ronnie.
 - [BBC English Grammar](https://www.youtube.com/playlist?list=PLcetZ6gSk96_zHuVg6Ecy2F7j4Aq4valQ) - Short videos by BBC.
 - [BBC English HowTo](https://www.youtube.com/playlist?list=PLcetZ6gSk9692RVJgFx4JXwFG4mWK0XGj) - Useful english phrases that you can use immediately.
@@ -129,6 +117,8 @@ Online radio stations is one of the best and most effective ways to improve your
 
 ### Live TV Channels
 
+Watching live TV helps learn English by exposing viewers to real-time conversations, diverse accents, cultural context, and immediate vocabulary application, and you can watch TV in the background for deeper immersion into the language.
+
 - [ABC7 Eyewitness News](http://abc7.com/live/) - TV station licensed to Los Angeles, California.
 - [ABC News](http://abcnews.go.com/Live) - ABC news TV channel.
 - [Bloomberg](http://www.bloomberg.com/live/us) - Bloomberg business TV channel in New York.
@@ -136,6 +126,8 @@ Online radio stations is one of the best and most effective ways to improve your
 - [KTLA 5](http://ktla.com/on-air/live-streaming/) - TV station located in Los Angeles, California, United States.
 
 ### TV Talk Shows
+
+TV talk shows help learn English by providing exposure to conversational language, diverse accents, and cultural references, while engaging viewers with entertaining discussions that enhance listening skills and vocabulary.
 
 - [Jimmy Kimmel Live!](https://www.youtube.com/user/JimmyKimmelLive) - Very popular american late-night talk show with famous people.
 - [The Wendy Williams Show](https://www.youtube.com/user/WendyWilliamsShow) - American syndicated infotainment talk show hosted by Wendy Williams.
@@ -146,6 +138,9 @@ Online radio stations is one of the best and most effective ways to improve your
 - [The Daily Show with Trevor Noah](https://www.youtube.com/channel/UCwWhs_6x42TyRM4Wstoq8HA) - American late-night talk show by Trevor Noah on Comedy Central.
 
 ### Tech Shows
+
+Tech shows help learn English by offering insights into industry-specific vocabulary, concepts, and trends while featuring expert discussions that enhance comprehension and listening skills in a relevant context.
+
 - [Marques Brownlee MKBHD](https://www.youtube.com/user/marquesbrownlee) - A channel offering in-depth tech reviews and discussions, presented in clear, understandable English, focusing on consumer electronics and emerging technology trends.
 - [Linus Tech Tips](https://www.youtube.com/user/LinusTechTips) - A channel that provides tech reviews, build guides, and technology discussions, using straightforward language accessible to a wide audience.
 - [Unbox Therapy](https://www.youtube.com/user/unboxtherapy) - A channel showcasing unboxing and reviews of the latest gadgets, using conversational and clear English, making it approachable for a wide audience.
@@ -155,6 +150,8 @@ Online radio stations is one of the best and most effective ways to improve your
 - [Sky News Swipe](https://www.youtube.com/playlist?list=PLG8IrydigQfckEQNNdxoPiQ0GtAJLP5_5) - Sky News`s tech show.
 
 ## Reading
+
+Reading is a core skill for learning English, as it builds vocabulary, enhances grammar, and improves comprehension, providing exposure to diverse writing styles and contexts that are essential for mastering the language.
 
 - [Breaking News English](http://www.breakingnewsenglish.com/) - Breaking news listen, read and write.
 - [Short Stories](http://www.short-stories.co.uk/) - Short stories for every day reading.
