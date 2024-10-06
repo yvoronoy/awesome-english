@@ -171,8 +171,8 @@ Conversation Exchange Sites are a fantastic idea and you can study english with 
 - [Engoo](https://engoo.com/app/daily-news) - Daily news for english learners.
 
 ## Writing
-**Tip:** Practicing writing every day, even for just a few minutes, will help you improve faster. 
-Utilize ChatGPT to improve your writing by getting instant feedback on grammar, structure, style, and vocabulary, along with prompts and personalized suggestions for various writing tasks.
+**Tip:** Practicing writing every day, even for just a few minutes, will help you improve faster.
+Utilize ChatGPT to improve your writing by getting instant feedback on grammar, structure, style, and vocabulary, along with prompts and personalized suggestions.
 
 - [750 Words](https://750words.com/) - Encourages daily private writing by providing stats and gamification mechanics.
 - [Write & Improve by Cambridge](https://writeandimprove.com/) - Offers daily writing tasks at various levels.
