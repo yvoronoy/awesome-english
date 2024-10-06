@@ -151,6 +151,7 @@ Tech shows help learn English by offering insights into industry-specific vocabu
 
 ## Reading
 
+### News
 Reading is a core skill for learning English, as it builds vocabulary, enhances grammar, and improves comprehension, providing exposure to diverse writing styles and contexts that are essential for mastering the language.
 
 - [Breaking News English](http://www.breakingnewsenglish.com/) - Breaking news listen, read and write.
@@ -161,6 +162,14 @@ Reading is a core skill for learning English, as it builds vocabulary, enhances 
 - [Today I Found Out](http://www.todayifoundout.com/) - Daily interesting fact articles from various authors.
 - [Newsy](http://www.newsy.com/) - Short news with transcriptions.
 - [Engoo](https://engoo.com/app/daily-news) - Daily news for english learners.
+
+### Books
+
+These books vary in complexity and genre, allowing learners to choose according to their interests and reading levels while improving their English skills effectively.
+
+- [Harry Potter Series](https://www.goodreads.com/book/show/862041.Harry_Potter_Series_Box_Set) - Harry Potter is a great choice for English learners because the series features a gradual increase in complexity from one book to another, allowing readers to develop their language skills progressively.
+- [Pride and Prejudice](https://www.goodreads.com/book/show/1885.Pride_and_Prejudice) - Although the vocabulary can be challenging, this classic novel offers rich insights into English literature and culture, making it a rewarding read for advanced learners.
+- [Animal Farm](https://www.goodreads.com/book/show/170448.Animal_Farm) - A short allegorical novella that uses simple language to convey complex themes about power and society.
 
 ## Writing
 **Tip:** Practicing writing every day, even for just a few minutes, will help you improve faster.
@@ -177,6 +186,8 @@ Utilize ChatGPT to improve your writing by getting instant feedback on grammar, 
 
 - [Book: English Grammar in Use by Raymond Murphy](https://www.cambridge.org/us/cambridgeenglish/catalog/grammar-vocabulary-and-pronunciation/english-grammar-use-5th-edition) - The world's best selling grammar book for learners of English.
 - [Ego4u](http://www.ego4u.com) - Grammar and tests.
+- [My English Pages](https://www.myenglishpages.com/grammar/) - Online grammar reference guide.
+- [English Club](https://www.englishclub.com/grammar/) - Another online grammar reference guide.
 
 ## Vocabulary
 
@@ -217,21 +228,21 @@ Utilize ChatGPT to improve your writing by getting instant feedback on grammar, 
 
 ## Online Classes
 
-### Private Classes
-
-- [iTalki](https://www.italki.com/) - One of the most popular resource where you can find a teacher 1 on 1.
-- [Verbling](https://www.verbling.com/) - One of the most popular resource where you can find a teacher 1 on 1.
-
-### Group Classes
-
-- [Lingoda](https://lingoda.com/) - They have group and private classes, fixed monthly payment and really convenient interface where you can schedule your classes. All teachers are native speakers.
+- [Preply](https://preply.com) - Connects students with tutors for personalized lessons. Great for finding skilled tutors and tailoring learning to individual needs.
+- [iTalki](https://www.italki.com/) - A popular platform for finding one-on-one language tutors.
+- [Verbling](https://www.verbling.com/) - A well-known resource for connecting with one-on-one language teachers.
+- [Lingoda](https://lingoda.com/) - Offers group and private classes with native-speaking teachers, a fixed monthly fee, and an easy-to-use scheduling system.
 
 ## FAQ or Common Questions
 
-- [How can I improve my English listening abilities?](https://www.quora.com/How-can-I-improve-my-English-listening-abilities)
-- [How can I learn to speak English well in non-English environment?](https://www.quora.com/How-can-I-learn-to-speak-English-well-in-non-English-environment)
-- [How can I make tangible improvements to my spoken English in one month?](https://www.quora.com/How-can-I-make-tangible-improvements-to-my-spoken-English-in-one-month)
-- [Are English speaking courses helpful?](https://www.quora.com/Are-English-speaking-courses-helpful)
+This section features popular Reddit and Quora posts addressing common language learning challenges.
+
+- [How one user learned 10,000 words](https://www.reddit.com/r/Korean/comments/fb1q5r/it_took_me_three_years_but_i_just_passed_10000/) - A user's journey to mastering 10,000 Korean words over three years.
+- [How to learn a language](https://www.reddit.com/r/languagelearning/comments/7fzma6/for_all_future_languagelearners_who_may_visit/) - Effective methods for future language learners.
+- [How can I improve my English listening skills?](https://www.quora.com/How-can-I-improve-my-English-listening-abilities) - Tips for enhancing understanding of spoken English.
+- [How can I learn to speak English well in a non-English environment?](https://www.quora.com/How-can-I-learn-to-speak-English-well-in-non-English-environment) - Strategies for practicing English outside of English-speaking contexts.
+- [How can I make significant improvements to my spoken English in one month?](https://www.quora.com/How-can-I-make-tangible-improvements-to-my-spoken-English-in-one-month) - Actionable steps for quick progress in spoken English.
+- [Are English-speaking courses helpful?](https://www.quora.com/Are-English-speaking-courses-helpful) - Discussion on the effectiveness of English-speaking courses.
 
 ## Contribute
 
