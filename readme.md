@@ -143,7 +143,7 @@ Online radio stations is one of the best and most effective ways to improve your
 - [Late Night with Seth Meyers](https://www.youtube.com/user/LateNightSeth) - American late-night talk show hosted by Seth Meyers on NBC.
 - [The Late Late Show with James Corden](https://www.youtube.com/user/TheLateLateShow) - American late-night talk show hosted by James Corden on CBS.
 - [The Late Show with Stephen Colbert](https://www.youtube.com/channel/UCMtFAi84ehTSYSE9XoHefig) - American late-night talk show by Stephen Colbert on CBS.
-- [The Daily Show with Trevor Noah](https://www.youtube.com/channel/UCwWhs_6x42TyRM4Wstoq8HA) - American late-night talk show by Trevor Noah on Comedy Central
+- [The Daily Show with Trevor Noah](https://www.youtube.com/channel/UCwWhs_6x42TyRM4Wstoq8HA) - American late-night talk show by Trevor Noah on Comedy Central.
 
 ### Tech Shows
 - [Marques Brownlee MKBHD](https://www.youtube.com/user/marquesbrownlee) - A channel offering in-depth tech reviews and discussions, presented in clear, understandable English, focusing on consumer electronics and emerging technology trends.
@@ -160,7 +160,7 @@ Online radio stations is one of the best and most effective ways to improve your
 - [Short Stories](http://www.short-stories.co.uk/) - Short stories for every day reading.
 - [Reading Room](http://www.englishpage.com/readingroom/readingroomintro.html) - Newspapers, magazines, books and libraries.
 - [Reading Comprehension Exercises](http://www.usingenglish.com/comprehension/) - 3 Levels of texts with exercises.
-- [IMDB scripts](http://www.imsdb.com/) - internet movie script database.
+- [IMDB scripts](http://www.imsdb.com/) - Internet movie script database.
 - [Today I Found Out](http://www.todayifoundout.com/) - Daily interesting fact articles from various authors.
 - [Newsy](http://www.newsy.com/) - Short news with transcriptions.
 - [Engoo](https://engoo.com/app/daily-news) - Daily news for english learners.
@@ -174,7 +174,6 @@ Utilize ChatGPT to improve your writing by getting instant feedback on grammar, 
 - [ThoughtCo's ESL Writing Exercises](https://www.thoughtco.com/esl-writing-skills-4133091) - Offers various writing prompts and exercises.
 - [ChatGPT by OpenAI](https://chat.openai.com/) - Engage in text-based conversations, ask for writing prompts, get grammar explanations, and receive feedback on your writing.
 - [Claude by Anthropic](https://www.anthropic.com/index/introducing-claude) - An AI assistant designed to be helpful, safe, and reliable. You can use Claude for engaging conversations, writing feedback, and practicing English.
-- [Grammarly](https://www.grammarly.com/) - A writing assistant that checks grammar, spelling, and style.
 - [Hemingway Editor](http://www.hemingwayapp.com/) - Helps simplify and clarify your writing.
 
 ## Grammar
@@ -199,7 +198,7 @@ Utilize ChatGPT to improve your writing by getting instant feedback on grammar, 
 
 - [Forvo](http://forvo.com/) - Find out how any english word is pronounced in different countries.
 - [Dictionary](https://www.dictionary.com/) - The world's leading digital dictionary. It provides defenitions, spellings, audio pronunciations, example sentences and word origins.
-- [Thesaurus.com](https://www.thesaurus.com/) - The world's largest online thesaurus by Dictionary.com
+- [Thesaurus.com](https://www.thesaurus.com/) - The world's largest online thesaurus by Dictionary.com.
 - [Oxford Dictionaries](http://www.oxfordlearnersdictionaries.com/) - Dictionaries with meanings, definitions, pronunciations and pictures.
 - [Linguee](https://www.linguee.com/) - Dictionary with many examples of usage and pronunciation.
 - [ReversoContext](http://context.reverso.net/translation) - Translate word in context.
@@ -208,17 +207,14 @@ Utilize ChatGPT to improve your writing by getting instant feedback on grammar, 
 
 - [Play Phrase](http://playphrase.me/) - Tools allows to search and play specific soundbites from movies.
 - [Lyrics Training](http://lyricstraining.com/) - LyricsTraining is the new way to learn english and other languages through music and the lyrics of your favourite songs.
-- [Quizlet](https://quizlet.com/) - Simple tools that let you study words.
 - [Grammarly](http://grammarly.com/) - Grammarly makes you a better writer by finding and correcting up to 10 times more mistakes than your word processor.
 - [Test your vocab](http://testyourvocab.com/) - Measure your vocabulary sizes.
-- [YouGlish](https://youglish.com/) - Improve your pronunciation
-- [visuwords](https://visuwords.com/) - to visualize words and its related lexicon
-- [Write & Improve](https://writeandimprove.com/) - FREE tool that helps every learner to improve their English writing.
+- [YouGlish](https://youglish.com/) - Improve your pronunciation.
+- [visuwords](https://visuwords.com/) - to visualize words and its related lexicon.
 
 ## Exercises and Tests
 
 - [ETS](http://englishteststore.net/) - English tests.
-- [Ego4u](http://www.ego4u.com) - Grammar and tests.
 - [Duolingo](https://www.duolingo.com) - Free language-learning platform that includes a language-learning site and app, as well as a digital language proficiency assessment exam.
 - [LingoRank](http://lingorank.com) - Test and improve your english listening skills with TED talks.
 
