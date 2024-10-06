@@ -46,7 +46,7 @@ Podcasts provide an engaging medium to enhance listening skills through diverse 
 
 Tech podcasts improve English skills and keep you updated on technology. They introduce new vocabulary and industry terms, enhancing comprehension and listening.
 
-- [MageTalk](https://magetalk.com/) - Great show with the latest news in the Magento ecosystem, community, and eCommerce.
+- [Hard Fork by The New York Times](https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT) - Each week, journalists Kevin Roose and Casey Newton explore and make sense of the latest in the rapidly changing world of tech.
 - [Talk Python To Me](https://talkpython.fm/) - Podcast on Python and related technologies.
 - [The PHP Roundtable](https://www.phproundtable.com/) - Podcast of web developers discussing PHP, JavaScript, community, and open source.
 - [Google Cloud Platform Podcast](https://www.gcppodcast.com/) - Weekly discussions covering various topics on Google Cloud Platform, from App Engine to Big Query.
