@@ -217,14 +217,10 @@ Utilize ChatGPT to improve your writing by getting instant feedback on grammar, 
 
 ## Online Classes
 
-### Private Classes
-
-- [iTalki](https://www.italki.com/) - One of the most popular resource where you can find a teacher 1 on 1.
-- [Verbling](https://www.verbling.com/) - One of the most popular resource where you can find a teacher 1 on 1.
-
-### Group Classes
-
-- [Lingoda](https://lingoda.com/) - They have group and private classes, fixed monthly payment and really convenient interface where you can schedule your classes. All teachers are native speakers.
+- [Preply](https://preply.com) - Connects students with tutors for personalized lessons. Great for finding skilled tutors and tailoring learning to individual needs.
+- [iTalki](https://www.italki.com/) - A popular platform for finding one-on-one language tutors.
+- [Verbling](https://www.verbling.com/) - A well-known resource for connecting with one-on-one language teachers.
+- [Lingoda](https://lingoda.com/) - Offers group and private classes with native-speaking teachers, a fixed monthly fee, and an easy-to-use scheduling system.
 
 ## FAQ or Common Questions
 
