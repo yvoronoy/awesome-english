@@ -96,7 +96,7 @@ The list includes language exchange platforms, apps for pronunciation, forums.
 - [Reddit’s r/Language_Exchange](https://www.reddit.com/r/language_exchange/) - Reddit community where users can find language exchange partners to practice speaking with.
 - [Discord Language Learning Servers](https://discord.com/) - Communities on Discord where you can join voice chats for real-time language speaking practice.
 - [Elsa Speak](https://www.elsaspeak.com/) - AI-driven app that helps improve pronunciation by offering detailed feedback on speaking.
-- [TalkEnglish](https://www.talkenglish.com/) - Website with speaking exercises and conversation topics to improve fluency through practice.
+- [TalkEnglish](https://www.talkenglish.com/) - Site with speaking exercises and conversation topics to improve fluency through practice.
 - [Rachel’s English](https://www.youtube.com/user/rachelsenglish) - YouTube channel focusing on pronunciation and clear speaking in American English.
 
 ## Watching
