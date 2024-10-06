@@ -224,10 +224,14 @@ Utilize ChatGPT to improve your writing by getting instant feedback on grammar, 
 
 ## FAQ or Common Questions
 
-- [How can I improve my English listening abilities?](https://www.quora.com/How-can-I-improve-my-English-listening-abilities)
-- [How can I learn to speak English well in non-English environment?](https://www.quora.com/How-can-I-learn-to-speak-English-well-in-non-English-environment)
-- [How can I make tangible improvements to my spoken English in one month?](https://www.quora.com/How-can-I-make-tangible-improvements-to-my-spoken-English-in-one-month)
-- [Are English speaking courses helpful?](https://www.quora.com/Are-English-speaking-courses-helpful)
+This section features popular Reddit and Quora posts addressing common language learning challenges.
+
+- [How one user learned 10,000 words](https://www.reddit.com/r/Korean/comments/fb1q5r/it_took_me_three_years_but_i_just_passed_10000/) – A user's journey to mastering 10,000 Korean words over three years.
+- [How to learn a language](https://www.reddit.com/r/languagelearning/comments/7fzma6/for_all_future_languagelearners_who_may_visit/) – Effective methods for future language learners.
+- [How can I improve my English listening skills?](https://www.quora.com/How-can-I-improve-my-English-listening-abilities) – Tips for enhancing understanding of spoken English.
+- [How can I learn to speak English well in a non-English environment?](https://www.quora.com/How-can-I-learn-to-speak-English-well-in-non-English-environment) – Strategies for practicing English outside of English-speaking contexts.
+- [How can I make significant improvements to my spoken English in one month?](https://www.quora.com/How-can-I-make-tangible-improvements-to-my-spoken-English-in-one-month) – Actionable steps for quick progress in spoken English.
+- [Are English-speaking courses helpful?](https://www.quora.com/Are-English-speaking-courses-helpful) – Discussion on the effectiveness of English-speaking courses.
 
 ## Contribute
 
