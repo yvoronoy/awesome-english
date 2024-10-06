@@ -151,6 +151,7 @@ Tech shows help learn English by offering insights into industry-specific vocabu
 
 ## Reading
 
+### News
 Reading is a core skill for learning English, as it builds vocabulary, enhances grammar, and improves comprehension, providing exposure to diverse writing styles and contexts that are essential for mastering the language.
 
 - [Breaking News English](http://www.breakingnewsenglish.com/) - Breaking news listen, read and write.
@@ -161,6 +162,14 @@ Reading is a core skill for learning English, as it builds vocabulary, enhances 
 - [Today I Found Out](http://www.todayifoundout.com/) - Daily interesting fact articles from various authors.
 - [Newsy](http://www.newsy.com/) - Short news with transcriptions.
 - [Engoo](https://engoo.com/app/daily-news) - Daily news for english learners.
+
+### Books
+
+These books vary in complexity and genre, allowing learners to choose according to their interests and reading levels while improving their English skills effectively.
+
+- [Harry Potter Series](https://www.goodreads.com/book/show/6.Harry_Potter_and_the_Philosopher_s_Stone) - Harry Potter is a great choice for English learners because the series features a gradual increase in complexity from one book to another, allowing readers to develop their language skills progressively.
+- [Pride and Prejudice](https://www.goodreads.com/book/show/1885.Pride_and_Prejudice) - Although the vocabulary can be challenging, this classic novel offers rich insights into English literature and culture, making it a rewarding read for advanced learners.
+- [Animal Farm](https://www.goodreads.com/book/show/17044890-animal-farm) - A short allegorical novella that uses simple language to convey complex themes about power and society. It's an excellent choice for learners looking to expand their vocabulary while engaging with significant ideas.
 
 ## Writing
 **Tip:** Practicing writing every day, even for just a few minutes, will help you improve faster.
