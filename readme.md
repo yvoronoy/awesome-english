@@ -210,7 +210,7 @@ Utilize ChatGPT to improve your writing by getting instant feedback on grammar, 
 - [Grammarly](http://grammarly.com/) - Grammarly makes you a better writer by finding and correcting up to 10 times more mistakes than your word processor.
 - [Test your vocab](http://testyourvocab.com/) - Measure your vocabulary sizes.
 - [YouGlish](https://youglish.com/) - Improve your pronunciation.
-- [visuwords](https://visuwords.com/) - to visualize words and its related lexicon.
+- [Visuwords](https://visuwords.com/) - To visualize words and its related lexicon.
 
 ## Exercises and Tests
 
