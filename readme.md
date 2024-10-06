@@ -91,10 +91,10 @@ Online radio stations are a great way to improve your English listening skills a
 
 The list includes language exchange platforms, apps for pronunciation, forums.
 
-- [Tandem](https://www.tandem.net/) - language exchange app connecting users with native speakers for text, voice, and video chats.
-- [HelloTalk](https://www.hellotalk.com/) - app that links you with native speakers for language exchange through text and voice messages. Focuses on building conversational skills.
+- [Tandem](https://www.tandem.net/) - Language exchange app connecting users with native speakers for text, voice, and video chats.
+- [HelloTalk](https://www.hellotalk.com/) - App that links you with native speakers for language exchange through text and voice messages. Focuses on building conversational skills.
 - [Reddit’s r/Language_Exchange](https://www.reddit.com/r/language_exchange/) - Reddit community where users can find language exchange partners to practice speaking with.
-- [Discord Language Learning Servers](https://discord.com/) - communities on Discord where you can join voice chats for real-time language speaking practice.
+- [Discord Language Learning Servers](https://discord.com/) - Communities on Discord where you can join voice chats for real-time language speaking practice.
 - [Elsa Speak](https://www.elsaspeak.com/) - AI-driven app that helps improve pronunciation by offering detailed feedback on speaking.
 - [TalkEnglish](https://www.talkenglish.com/) - Website with speaking exercises and conversation topics to improve fluency through practice.
 - [Rachel’s English](https://www.youtube.com/user/rachelsenglish) - YouTube channel focusing on pronunciation and clear speaking in American English.
