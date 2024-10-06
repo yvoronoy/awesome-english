@@ -219,6 +219,7 @@ Utilize ChatGPT to improve your writing by getting instant feedback on grammar, 
 
 ### Private Classes
 
+- [Preply](https://preply.com) - Connects students with tutors for personalized lessons.
 - [iTalki](https://www.italki.com/) - One of the most popular resource where you can find a teacher 1 on 1.
 - [Verbling](https://www.verbling.com/) - One of the most popular resource where you can find a teacher 1 on 1.
 
