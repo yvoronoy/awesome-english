@@ -1,9 +1,17 @@
-# Awesome English [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome English [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A collection of awesome study resources for learners of English.  
-Please read the [contributing guidelines](contributing.md) if you wish to contribute.
+A curated collection of high-quality resources for learning English,
+focused on practicing the core skills — listening, speaking, reading, and writing.
+Includes resources for grammar, vocabulary, and media to enhance your English studies.
+This list is for:
 
-## Contents <!-- omit in toc -->
+- ESL Learners at all levels
+- Self-study enthusiasts seeking structured practice
+- Educators looking for student resources
+- Professionals improving English for work, study, or travel
+
+
+## Contents
 
 - [Listening](#listening)
   - [Podcasts](#podcasts)
@@ -11,28 +19,28 @@ Please read the [contributing guidelines](contributing.md) if you wish to contri
   - [Interview Podcasts](#interview-podcasts)
   - [Live Radio Stations](#live-radio-stations)
   - [Sites](#sites)
+- [Speaking](#speaking)
+  - [Speaking Lessons](#speaking-lessons)
+  - [Pronunciation](#pronunciation)
 - [Watching](#watching)
   - [YouTube](#youtube)
   - [Live TV Channels](#live-tv-channels)
   - [TV Talk Shows](#tv-talk-shows)
   - [Tech Shows](#tech-shows)
+- [Reading](#reading)
+- [Writing](#writing)
 - [Grammar](#grammar)
-- [Learn more words](#learn-more-words)
+- [Vocabulary](#vocabulary)
   - [Word lists](#word-lists)
   - [Flashcards](#flashcards)
   - [Online Dictionaries](#online-dictionaries)
-- [Speaking](#speaking)
-  - [Language Exchange Sites](#language-exchange-sites)
-  - [Speaking Lessons](#speaking-lessons)
-  - [Pronunciation](#pronunciation)
+- [Tools](#tools)
+- [Exercises and Tests](#exercises-and-tests)
 - [Online Classes](#online-classes)
   - [Private Classes](#private-classes)
   - [Group Classes](#group-classes)
-- [Reading](#reading)
-- [Exercises and Tests](#exercises-and-tests)
-- [Tools](#tools)
-- [Answers](#answers)
-- [License](#license)
+- [FAQ or Common Questions](#faq-or-common-questions)
+- [Contribute](#contribute)
 
 ## Listening
 
@@ -43,7 +51,7 @@ Listen podcasts anytime and anywhere to improve your listening skill. Podcasts o
 - [All Ears English](http://allearsenglish.com/) - Learn advanced conversational american english.
 - [ESL Podcasts](https://www.eslpod.com/) - Anyone who wants to improve their english speaking and listening skills.
 - [Culips Podcast](http://esl.culips.com/) - Learn conversational english for everyday use by native english speakers.
-- [Luke’s English Podcast](http://teacherluke.co.uk/) - Luke is qualified english language teacher and stand-up comedian who provides engaging and entertaining podcast series.
+- [Luke's English Podcast](http://teacherluke.co.uk/) - Luke is qualified english language teacher and stand-up comedian who provides engaging and entertaining podcast series.
 - [A Way with Words](http://www.waywordradio.org/category/episodes/) - Public radio program about language examined through history, culture, and family.
 - [This American Life](http://www.thisamericanlife.org/radio-archives) - One of the most popular podcast. Most of the stories are journalism, with an occasional comedy routine or essay.
 - [6 Minute English](http://www.bbc.co.uk/programmes/p02pc9tn/episodes/downloads) - Learn and practise useful English language for everyday situations with the BBC.
@@ -95,6 +103,16 @@ Online radio stations is one of the best and most effective ways to improve your
 - [ESL Lab](http://www.esl-lab.com/) - Different levels of conversations.
 - [EngVid](https://www.engvid.com/) - Free English Video Lessons.
 
+## Speaking
+
+### Speaking Lessons
+
+- [Talk English](http://www.talkenglish.com/) - Learn english speaking.
+
+### Pronunciation
+
+- [The Sound of English](http://thesoundofenglish.org/) - Learn how to speak clear English with a neutral British accent. Very helpful resource to improve your pronunciation.
+
 ## Watching
 
 ### YouTube
@@ -125,21 +143,45 @@ Online radio stations is one of the best and most effective ways to improve your
 - [Late Night with Seth Meyers](https://www.youtube.com/user/LateNightSeth) - American late-night talk show hosted by Seth Meyers on NBC.
 - [The Late Late Show with James Corden](https://www.youtube.com/user/TheLateLateShow) - American late-night talk show hosted by James Corden on CBS.
 - [The Late Show with Stephen Colbert](https://www.youtube.com/channel/UCMtFAi84ehTSYSE9XoHefig) - American late-night talk show by Stephen Colbert on CBS.
-- [The Daily Show with Trevor Noah](https://www.youtube.com/channel/UCwWhs_6x42TyRM4Wstoq8HA) - American late-night talk show by Trevor Noah on Comedy Central
+- [The Daily Show with Trevor Noah](https://www.youtube.com/channel/UCwWhs_6x42TyRM4Wstoq8HA) - American late-night talk show by Trevor Noah on Comedy Central.
 
 ### Tech Shows
-
+- [Marques Brownlee MKBHD](https://www.youtube.com/user/marquesbrownlee) - A channel offering in-depth tech reviews and discussions, presented in clear, understandable English, focusing on consumer electronics and emerging technology trends.
+- [Linus Tech Tips](https://www.youtube.com/user/LinusTechTips) - A channel that provides tech reviews, build guides, and technology discussions, using straightforward language accessible to a wide audience.
+- [Unbox Therapy](https://www.youtube.com/user/unboxtherapy) - A channel showcasing unboxing and reviews of the latest gadgets, using conversational and clear English, making it approachable for a wide audience.
+- [TechLinked](https://www.youtube.com/channel/UCeeFfhMcJa1kjtfZAGskOCA) - A channel offering bite-sized tech news and updates, presented with humor and clarity, making it easy to follow for learners of English.
 - [Bloomberg Technology](https://www.youtube.com/channel/UCrM7B7SL_g1edFOnmj-SDKg) - Bloomberg Technology focuses on the topics of technology, innovation and business.
-- [BBC Click](https://www.youtube.com/user/ClickBBC) - BBC Click is the BBC’s flagship technology programme.
+- [BBC Click](https://www.youtube.com/user/ClickBBC) - BBC Click is the BBC's flagship technology programme.
 - [Sky News Swipe](https://www.youtube.com/playlist?list=PLG8IrydigQfckEQNNdxoPiQ0GtAJLP5_5) - Sky News`s tech show.
-- [FRANCE 24 Tech24](https://www.youtube.com/playlist?list=PLCUKIeZnrIUmpC0R31n7lXY__0iWEuPQ3) - Tech24 explores the digital revolution and check out the latest technological trends.
+
+## Reading
+
+- [Breaking News English](http://www.breakingnewsenglish.com/) - Breaking news listen, read and write.
+- [Short Stories](http://www.short-stories.co.uk/) - Short stories for every day reading.
+- [Reading Room](http://www.englishpage.com/readingroom/readingroomintro.html) - Newspapers, magazines, books and libraries.
+- [Reading Comprehension Exercises](http://www.usingenglish.com/comprehension/) - 3 Levels of texts with exercises.
+- [IMDB scripts](http://www.imsdb.com/) - The internet movie script database.
+- [Today I Found Out](http://www.todayifoundout.com/) - Daily interesting fact articles from various authors.
+- [Newsy](http://www.newsy.com/) - Short news with transcriptions.
+- [Engoo](https://engoo.com/app/daily-news) - Daily news for english learners.
+
+## Writing
+**Tip:** Practicing writing every day, even for just a few minutes, will help you improve faster.
+Utilize ChatGPT to improve your writing by getting instant feedback on grammar, structure, style, and vocabulary, along with prompts and personalized suggestions.
+
+- [750 Words](https://750words.com/) - Encourages daily private writing by providing stats and gamification mechanics.
+- [Write & Improve by Cambridge](https://writeandimprove.com/) - Offers daily writing tasks at various levels.
+- [ThoughtCo's ESL Writing Exercises](https://www.thoughtco.com/esl-writing-skills-4133091) - Offers various writing prompts and exercises.
+- [ChatGPT by OpenAI](https://chat.openai.com/) - Engage in text-based conversations, ask for writing prompts, get grammar explanations, and receive feedback on your writing.
+- [Claude by Anthropic](https://www.anthropic.com/index/introducing-claude) - An AI assistant designed to be helpful, safe, and reliable. You can use Claude for engaging conversations, writing feedback, and practicing English.
+- [Hemingway Editor](http://www.hemingwayapp.com/) - Helps simplify and clarify your writing.
 
 ## Grammar
 
 - [Book: English Grammar in Use by Raymond Murphy](https://www.cambridge.org/us/cambridgeenglish/catalog/grammar-vocabulary-and-pronunciation/english-grammar-use-5th-edition) - The world's best selling grammar book for learners of English.
 - [Ego4u](http://www.ego4u.com) - Grammar and tests.
 
-## Learn more words
+## Vocabulary
 
 ### Word lists
 
@@ -156,27 +198,25 @@ Online radio stations is one of the best and most effective ways to improve your
 
 - [Forvo](http://forvo.com/) - Find out how any english word is pronounced in different countries.
 - [Dictionary](https://www.dictionary.com/) - The world's leading digital dictionary. It provides defenitions, spellings, audio pronunciations, example sentences and word origins.
-- [Thesaurus.com](https://www.thesaurus.com/) - The world's largest online thesaurus by Dictionary.com
+- [Thesaurus.com](https://www.thesaurus.com/) - The world's largest online thesaurus by Dictionary.com.
 - [Oxford Dictionaries](http://www.oxfordlearnersdictionaries.com/) - Dictionaries with meanings, definitions, pronunciations and pictures.
 - [Linguee](https://www.linguee.com/) - Dictionary with many examples of usage and pronunciation.
 - [ReversoContext](http://context.reverso.net/translation) - Translate word in context.
 
-## Speaking
+## Tools
 
-### Language Exchange Sites
+- [Play Phrase](http://playphrase.me/) - Tools allows to search and play specific soundbites from movies.
+- [Lyrics Training](http://lyricstraining.com/) - LyricsTraining is the new way to learn english and other languages through music and the lyrics of your favourite songs.
+- [Grammarly](http://grammarly.com/) - Grammarly makes you a better writer by finding and correcting up to 10 times more mistakes than your word processor.
+- [Test your vocab](http://testyourvocab.com/) - Measure your vocabulary sizes.
+- [YouGlish](https://youglish.com/) - Improve your pronunciation.
+- [Visuwords](https://visuwords.com/) - To visualize words and its related lexicon.
 
-Conversation Exchange Sites are a fantastic idea and you can study english with native English speakers.
+## Exercises and Tests
 
-- [iTalki](https://www.italki.com/) - Get 1-on-1 online lessons with native language teachers.
-- [Verbling](https://www.verbling.com/) - Verbling allows you to free practice english speaking skill by Google Hangout.
-
-### Speaking Lessons
-
-- [Talk English](http://www.talkenglish.com/) - Learn english speaking.
-
-### Pronunciation
-
-- [The Sound of English](http://thesoundofenglish.org/) - Learn how to speak clear English with a neutral British accent. Very helpful resource to improve your pronunciation.
+- [ETS](http://englishteststore.net/) - English tests.
+- [Duolingo](https://www.duolingo.com) - Free language-learning platform that includes a language-learning site and app, as well as a digital language proficiency assessment exam.
+- [LingoRank](http://lingorank.com) - Test and improve your english listening skills with TED talks.
 
 ## Online Classes
 
@@ -189,42 +229,14 @@ Conversation Exchange Sites are a fantastic idea and you can study english with 
 
 - [Lingoda](https://lingoda.com/) - They have group and private classes, fixed monthly payment and really convenient interface where you can schedule your classes. All teachers are native speakers.
 
-## Reading
-
-- [Breaking News English](http://www.breakingnewsenglish.com/) - Breaking news listen, read and write.
-- [Short Stories](http://www.short-stories.co.uk/) - Short stories for every day reading.
-- [Reading Room](http://www.englishpage.com/readingroom/readingroomintro.html) - Newspapers, magazines, books and libraries.
-- [Reading Comprehension Exercises](http://www.usingenglish.com/comprehension/) - 3 Levels of texts with exercises.
-- [IMDB scripts](http://www.imsdb.com/) - internet movie script database.
-- [Today I Found Out](http://www.todayifoundout.com/) - Daily interesting fact articles from various authors.
-- [Newsy](http://www.newsy.com/) - Short news with transcriptions.
-- [Engoo](https://engoo.com/app/daily-news) - Daily news for english learners
-
-## Exercises and Tests
-
-- [ETS](http://englishteststore.net/) - English tests.
-- [Ego4u](http://www.ego4u.com) - Grammar and tests.
-- [Duolingo](https://www.duolingo.com) - Free language-learning platform that includes a language-learning site and app, as well as a digital language proficiency assessment exam.
-- [LingoRank](http://lingorank.com) - Test and improve your english listening skills with TED talks.
-
-## Tools
-
-- [Play Phrase](http://playphrase.me/) - Tools allows to search and play specific soundbites from movies.
-- [Lyrics Training](http://lyricstraining.com/) - LyricsTraining is the new way to learn english and other languages through music and the lyrics of your favourite songs.
-- [Quizlet](https://quizlet.com/) - Simple tools that let you study words.
-- [Grammarly](http://grammarly.com/) - Grammarly makes you a better writer by finding and correcting up to 10 times more mistakes than your word processor.
-- [Test your vocab](http://testyourvocab.com/) - Measure your vocabulary sizes.
-- [YouGlish](https://youglish.com/) - Improve your pronunciation
-- [visuwords](https://visuwords.com/) - to visualize words and its related lexicon
-- [Write & Improve](https://writeandimprove.com/) - FREE tool that helps every learner to improve their English writing.
-
-## Answers
+## FAQ or Common Questions
 
 - [How can I improve my English listening abilities?](https://www.quora.com/How-can-I-improve-my-English-listening-abilities)
 - [How can I learn to speak English well in non-English environment?](https://www.quora.com/How-can-I-learn-to-speak-English-well-in-non-English-environment)
 - [How can I make tangible improvements to my spoken English in one month?](https://www.quora.com/How-can-I-make-tangible-improvements-to-my-spoken-English-in-one-month)
 - [Are English speaking courses helpful?](https://www.quora.com/Are-English-speaking-courses-helpful)
 
-## License
+## Contribute
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
