@@ -19,6 +19,10 @@ This list is for:
   - [Interview Podcasts](#interview-podcasts)
   - [Live Radio Stations](#live-radio-stations)
   - [Sites](#sites)
+- [Speaking](#speaking)
+  - [Language Exchange Sites](#language-exchange-sites)
+  - [Speaking Lessons](#speaking-lessons)
+  - [Pronunciation](#pronunciation)
 - [Watching](#watching)
   - [YouTube](#youtube)
   - [Live TV Channels](#live-tv-channels)
@@ -29,10 +33,6 @@ This list is for:
   - [Word lists](#word-lists)
   - [Flashcards](#flashcards)
   - [Online Dictionaries](#online-dictionaries)
-- [Speaking](#speaking)
-  - [Language Exchange Sites](#language-exchange-sites)
-  - [Speaking Lessons](#speaking-lessons)
-  - [Pronunciation](#pronunciation)
 - [Online Classes](#online-classes)
   - [Private Classes](#private-classes)
   - [Group Classes](#group-classes)
@@ -102,6 +102,46 @@ Online radio stations is one of the best and most effective ways to improve your
 - [ESL Lab](http://www.esl-lab.com/) - Different levels of conversations.
 - [EngVid](https://www.engvid.com/) - Free English Video Lessons.
 
+## Speaking
+
+### Language Exchange Sites
+
+Conversation Exchange Sites are a fantastic idea and you can study english with native English speakers.
+
+- [iTalki](https://www.italki.com/) - Get 1-on-1 online lessons with native language teachers.
+- [Verbling](https://www.verbling.com/) - Verbling allows you to free practice english speaking skill by Google Hangout.
+
+### Speaking Lessons
+
+- [Talk English](http://www.talkenglish.com/) - Learn english speaking.
+
+### Pronunciation
+
+- [The Sound of English](http://thesoundofenglish.org/) - Learn how to speak clear English with a neutral British accent. Very helpful resource to improve your pronunciation.
+
+## Reading
+
+- [Breaking News English](http://www.breakingnewsenglish.com/) - Breaking news listen, read and write.
+- [Short Stories](http://www.short-stories.co.uk/) - Short stories for every day reading.
+- [Reading Room](http://www.englishpage.com/readingroom/readingroomintro.html) - Newspapers, magazines, books and libraries.
+- [Reading Comprehension Exercises](http://www.usingenglish.com/comprehension/) - 3 Levels of texts with exercises.
+- [IMDB scripts](http://www.imsdb.com/) - internet movie script database.
+- [Today I Found Out](http://www.todayifoundout.com/) - Daily interesting fact articles from various authors.
+- [Newsy](http://www.newsy.com/) - Short news with transcriptions.
+- [Engoo](https://engoo.com/app/daily-news) - Daily news for english learners.
+
+## Writing
+**Tip:** Practicing writing every day, even for just a few minutes, will help you improve faster. 
+Utilize ChatGPT to improve your writing by getting instant feedback on grammar, structure, style, and vocabulary, along with prompts and personalized suggestions for various writing tasks.
+
+- [750 Words](https://750words.com/) - Encourages daily private writing by providing stats and gamification mechanics.
+- [Write & Improve by Cambridge](https://writeandimprove.com/) - Offers daily writing tasks at various levels.
+- [ThoughtCo's ESL Writing Exercises](https://www.thoughtco.com/esl-writing-skills-4133091) - Offers various writing prompts and exercises.
+- [ChatGPT by OpenAI](https://chat.openai.com/) - Engage in text-based conversations, ask for writing prompts, get grammar explanations, and receive feedback on your writing.
+- [Claude by Anthropic](https://www.anthropic.com/index/introducing-claude) - An AI assistant designed to be helpful, safe, and reliable. You can use Claude for engaging conversations, writing feedback, and practicing English.
+- [Grammarly](https://www.grammarly.com/) - A writing assistant that checks grammar, spelling, and style.
+- [Hemingway Editor](http://www.hemingwayapp.com/) - Helps simplify and clarify your writing.
+
 ## Watching
 
 ### YouTube
@@ -168,23 +208,6 @@ Online radio stations is one of the best and most effective ways to improve your
 - [Linguee](https://www.linguee.com/) - Dictionary with many examples of usage and pronunciation.
 - [ReversoContext](http://context.reverso.net/translation) - Translate word in context.
 
-## Speaking
-
-### Language Exchange Sites
-
-Conversation Exchange Sites are a fantastic idea and you can study english with native English speakers.
-
-- [iTalki](https://www.italki.com/) - Get 1-on-1 online lessons with native language teachers.
-- [Verbling](https://www.verbling.com/) - Verbling allows you to free practice english speaking skill by Google Hangout.
-
-### Speaking Lessons
-
-- [Talk English](http://www.talkenglish.com/) - Learn english speaking.
-
-### Pronunciation
-
-- [The Sound of English](http://thesoundofenglish.org/) - Learn how to speak clear English with a neutral British accent. Very helpful resource to improve your pronunciation.
-
 ## Online Classes
 
 ### Private Classes
@@ -195,17 +218,6 @@ Conversation Exchange Sites are a fantastic idea and you can study english with 
 ### Group Classes
 
 - [Lingoda](https://lingoda.com/) - They have group and private classes, fixed monthly payment and really convenient interface where you can schedule your classes. All teachers are native speakers.
-
-## Reading
-
-- [Breaking News English](http://www.breakingnewsenglish.com/) - Breaking news listen, read and write.
-- [Short Stories](http://www.short-stories.co.uk/) - Short stories for every day reading.
-- [Reading Room](http://www.englishpage.com/readingroom/readingroomintro.html) - Newspapers, magazines, books and libraries.
-- [Reading Comprehension Exercises](http://www.usingenglish.com/comprehension/) - 3 Levels of texts with exercises.
-- [IMDB scripts](http://www.imsdb.com/) - internet movie script database.
-- [Today I Found Out](http://www.todayifoundout.com/) - Daily interesting fact articles from various authors.
-- [Newsy](http://www.newsy.com/) - Short news with transcriptions.
-- [Engoo](https://engoo.com/app/daily-news) - Daily news for english learners
 
 ## Exercises and Tests
 
