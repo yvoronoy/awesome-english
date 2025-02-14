@@ -219,6 +219,7 @@ Utilize ChatGPT to improve your writing by getting instant feedback on grammar, 
 - [Test your vocab](http://testyourvocab.com/) - Measure your vocabulary sizes.
 - [YouGlish](https://youglish.com/) - Improve your pronunciation.
 - [Visuwords](https://visuwords.com/) - To visualize words and its related lexicon.
+- [Visual Dictionary](https://visudict.com) - Learn vocabulary with pictures.
 
 ## Exercises and Tests
 
