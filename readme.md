@@ -310,12 +310,40 @@ Answers to frequently asked questions about English learning, curated from popul
 ### Learning Strategies 📚
 - [How one user learned 10,000 words](https://www.reddit.com/r/Korean/comments/fb1q5r/it_took_me_three_years_but_i_just_passed_10000/) - A detailed journey of vocabulary acquisition over three years.
 - [How to learn a language](https://www.reddit.com/r/languagelearning/comments/7fzma6/for_all_future_languagelearners_who_may_visit/) - Comprehensive guide for language learning beginners.
+- [Top 10 Language Learning Insights](https://www.reddit.com/r/languagelearning/comments/c6f0dw/as_someone_with_61_%C2%BD_years_of_experience_in/) - Valuable insights from someone with over 6 years of language learning experience.
+- [The Input Hypothesis Explained](https://www.reddit.com/r/languagelearning/comments/fledoy/the_input_hypothesis_summarized_a_theory_of_sla/) - Summary of Krashen's influential theory about language acquisition through comprehensible input.
+
+### Immersion Techniques 🌊
+- [What Immersion Actually Is](https://www.reddit.com/r/languagelearning/comments/l8n6qe/what_immersion_actually_is_and_why_it_makes_a/) - Explains the concept of immersion and why it makes such a difference.
+- [Refold Method](https://refold.la/) - A complete roadmap for achieving fluency through immersion-based learning.
+- [Immersion While Living Abroad vs At Home](https://www.reddit.com/r/languagelearning/comments/pqg83y/the_difference_between_immersion_at_home_and/) - Comparison of immersion strategies based on your environment.
+
+### Breaking Through Plateaus 📈
+- [Breaking Through Intermediate Plateau](https://www.reddit.com/r/languagelearning/comments/lf3g01/how_to_break_past_intermediate_plateau/) - Strategies for advancing from intermediate to advanced proficiency.
+- [B2-C1 Journey](https://www.reddit.com/r/languagelearning/comments/ncagfv/how_i_got_from_b2_to_c1_in_a_language_advice_on/) - First-hand account of progress from upper-intermediate to advanced level.
+- [Vocabulary Acquisition Beyond Basics](https://www.reddit.com/r/languagelearning/comments/seilqw/any_techniques_or_strategies_for_vocab/) - Methods for learning more sophisticated vocabulary.
+
+### Practical Speaking Practice 🗣️
+- [Getting Over Speaking Anxiety](https://www.reddit.com/r/languagelearning/comments/ncmk27/how_did_you_guys_get_over_the_anxiety_of_speaking/) - Tips for overcoming nervousness when speaking a new language.
+- [Finding Conversation Partners](https://www.reddit.com/r/languagelearning/comments/i2yprn/the_absolute_best_way_to_find_language_practice/) - Alternative methods for finding people to practice with beyond language exchange apps.
+- [Shadowing Technique](https://www.reddit.com/r/languagelearning/comments/m4jo60/i_tried_shadowing_for_60_days_my_results_and_tips/) - Experience report and guide on the powerful shadowing technique.
+
+### Effective Study Methods ⏱️
+- [Spaced Repetition Ultimate Guide](https://www.reddit.com/r/languagelearning/comments/ic50y8/the_ultimate_guide_to_using_spaced_repetition_for/) - Comprehensive explanation of optimizing spaced repetition systems.
+- [The 20-Hour Rule Instead of Daily Study](https://www.reddit.com/r/languagelearning/comments/n9wy98/learning_for_20_hours_is_better_than_studying/) - Why focused blocks of study can be more effective than daily short sessions.
+- [The Pomodoro Technique for Language Learning](https://www.reddit.com/r/languagelearning/comments/g5u3jw/i_studied_chinese_for_6_months_doing_2_pomodoros/) - How to apply the Pomodoro technique to language studies.
 
 ### Skill Development 🎯
 - [How can I improve my English listening skills?](https://www.quora.com/How-can-I-improve-my-English-listening-abilities) - Expert advice on enhancing listening comprehension.
 - [How can I learn to speak English well in a non-English environment?](https://www.quora.com/How-can-I-learn-to-speak-English-well-in-non-English-environment) - Practical tips for learning English without immersion.
 - [How can I make significant improvements to my spoken English in one month?](https://www.quora.com/How-can-I-make-tangible-improvements-to-my-spoken-English-in-one-month) - Short-term strategies for rapid speaking improvement.
 - [Are English-speaking courses helpful?](https://www.quora.com/Are-English-speaking-courses-helpful) - Analysis of the effectiveness of formal English courses.
+- [The "Watch 1,000 Hours" Challenge](https://www.reddit.com/r/languagelearning/comments/q32tei/the_ultimate_listening_comprehensive_guide_or_how/) - A detailed guide on improving listening comprehension through extensive input.
+
+### Measuring Progress 📊
+- [What Does B1/B2/C1 Actually Mean?](https://www.reddit.com/r/languagelearning/comments/9uasrt/what_does_being_b1b2c1_in_a_language_actually/) - Real-world explanation of CEFR proficiency levels.
+- [Self-Assessment Methods](https://www.reddit.com/r/languagelearning/comments/fr96xt/how_to_roughly_estimate_your_level_in_a_foreign/) - How to gauge your own language level without formal testing.
+- [Journaling Your Progress](https://www.reddit.com/r/languagelearning/comments/q29wlm/keeping_a_language_learning_journal/) - Benefits and methods of tracking your language learning journey.
 
 ## Contribute 🤝
 
