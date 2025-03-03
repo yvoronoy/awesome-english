@@ -12,7 +12,7 @@ This list is for:
 
 ## Contents
 
-- [Top Picks](#-top-picks-)
+- [Top Picks](#top-picks)
 - [Listening](#listening)
 - [Speaking](#speaking)
 - [Watching](#watching)
