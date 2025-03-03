@@ -12,7 +12,9 @@ This list is for:
 
 ## Contents
 
+<!--lint disable awesome-list-item-->
 - [Top Picks](#-top-picks-)
+<!--lint enable awesome-list-item-->
 - [Listening](#listening)
 - [Speaking](#speaking)
 - [Watching](#watching)
