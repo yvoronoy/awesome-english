@@ -1,4 +1,4 @@
-# Awesome English [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome English 2025 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated collection of high-quality resources for learning English,
 focused on practicing the core skills — listening, speaking, reading, and writing.
@@ -40,6 +40,8 @@ Podcasts provide an engaging medium to enhance listening skills through diverse 
 - [All Ears English](https://allearsenglish.com/) - Learn advanced conversational American English.
 - [Culips Podcast](https://esl.culips.com/) - Focuses on conversational English for everyday use by native speakers.
 - [Luke's English Podcast](https://teacherluke.co.uk/) - Hosted by a qualified language teacher and stand-up comedian, providing an engaging podcast series.
+- [CNN 10](http://edition.cnn.com/cnn10) - A 10-minute digital news show explaining global news 
+to a worldwide audience.
 
 #### Advanced Level 🎓
 - [A Way with Words](https://www.waywordradio.org/category/episodes/) - Explores language through history, culture, and family on a public radio program.
