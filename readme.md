@@ -68,10 +68,19 @@ Interview podcasts help develop advanced listening skills through natural conver
 #### Thought Leadership 🧠
 - [Lex Fridman Podcast](https://lexfridman.com/podcast/) - Deep conversations about intelligence, consciousness, love, and power.
 - [The Knowledge Project](https://fs.blog/knowledge-project-podcast/) - Interviews with world-class doers and thinkers, packed with lessons and insights.
+- [The Ezra Klein Show](https://podcasts.apple.com/us/podcast/the-ezra-klein-show/id1548604447) - In-depth conversations about ideas with leading thinkers across politics, society, and culture. Excellent for advanced learners interested in complex topics.
 
-#### General Interest 🌟
+#### General Interest & Entertainment 🌟
 - [The Tim Ferriss Show](https://tim.blog/podcast/) - Deconstructing world-class performers to extract actionable tactics and routines.
 - [Joe Rogan Experience](https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk) - Wide-ranging conversations with diverse guests, perfect for extended listening practice.
+- [Fresh Air with Terry Gross](https://www.npr.org/programs/fresh-air/) - One of America's most respected interview programs featuring in-depth conversations with figures from arts, culture, and politics. Terry Gross is renowned for her clear speaking style and thoughtful questioning.
+- [Armchair Expert with Dax Shepard](https://armchairexpertpod.com/) - Conversational, long-form interviews exploring human experiences with celebrities, experts, and thought leaders in an authentic, accessible format.
+- [WTF with Marc Maron](https://www.wtfpod.com/) - A pioneering interview podcast with over 1,000 episodes featuring deep, revealing conversations primarily with entertainers, comedians, and cultural figures.
+- [Conan O'Brien Needs A Friend](https://www.earwolf.com/show/conan-obrien/) - The popular comedian interviews celebrities and interesting personalities in a casual, humorous format that showcases natural conversational English.
+- [SmartLess](https://www.smartless.com/) - Hosted by Jason Bateman, Will Arnett, and Sean Hayes, featuring surprise guests and conversational interviews with a comedic tone that demonstrates natural banter and humor.
+
+#### Business & Innovation 💼
+- [How I Built This with Guy Raz](https://www.npr.org/series/490248027/how-i-built-this) - Entrepreneurs and innovators tell the stories behind their companies, providing excellent exposure to business English and narrative storytelling.
 
 ### Live Radio Stations 📻
 
