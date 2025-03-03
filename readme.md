@@ -12,9 +12,7 @@ This list is for:
 
 ## Contents
 
-<!--lint disable awesome-list-item-->
 - [Top Picks](#-top-picks-)
-<!--lint enable awesome-list-item-->
 - [Listening](#listening)
 - [Speaking](#speaking)
 - [Watching](#watching)
@@ -28,15 +26,13 @@ This list is for:
 - [FAQ or Common Questions](#faq-or-common-questions)
 - [Contribute](#contribute)
 
-<!--lint disable awesome-list-item-->
-## ⭐ Top Picks ⭐
+## Top Picks
 
 - [Anki](#flashcard-apps) - It really helped me expand my vocabulary. I just review cards for about 10 minutes each day, and somehow the words stick in my memory. It's like having a superpower to memorize!
 - [Hard Fork by The New York Times](#general-tech-) - I listen to this on weekends. The hosts talk about tech stuff in a casual way that's easy to follow.
 - [NPR](#national-broadcasters-) - Great for my daily commute.
 - [English Grammar in Use (Murphy)](#learning-resources-) - I found Blue Murphy's Grammar in Use to be an excellent resource for learning grammar.
 - [Harry Potter Series](#books) - It's a great choice for English learners because the series features a gradual increase in complexity from one book to another.
-<!--lint enable awesome-list-item-->
 
 ## Listening
 
