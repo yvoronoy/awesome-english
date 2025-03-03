@@ -17,14 +17,14 @@ This list is for:
 - [Speaking](#speaking)
 - [Watching](#watching)
 - [Reading](#reading)
-- [Writing ✍️](#writing-)
-- [Grammar 📚](#grammar-)
-- [Vocabulary 📝](#vocabulary-)
-- [Tools 🛠️](#tools-%EF%B8%8F)
-- [Exercises and Tests 📝](#exercises-and-tests-)
-- [Online Classes 👩‍🏫](#online-classes-)
-- [FAQ or Common Questions ❓](#faq-or-common-questions-)
-- [Contribute 🤝](#contribute-)
+- [Writing](#writing)
+- [Grammar](#grammar)
+- [Vocabulary](#vocabulary)
+- [Tools](#tools)
+- [Exercises and Tests](#exercises-and-tests)
+- [Online Classes](#online-classes)
+- [FAQ or Common Questions](#faq-or-common-questions)
+- [Contribute](#contribute)
 
 ## Listening
 
@@ -199,7 +199,7 @@ These books vary in complexity and genre, allowing learners to choose according 
 - [Pride and Prejudice](https://www.goodreads.com/book/show/1885.Pride_and_Prejudice) - Although the vocabulary can be challenging, this classic novel offers rich insights into English literature and culture, making it a rewarding read for advanced learners.
 - [Animal Farm](https://www.goodreads.com/book/show/170448.Animal_Farm) - A short allegorical novella that uses simple language to convey complex themes about power and society.
 
-## Writing ✍️
+## Writing
 
 Writing is a fundamental skill in English learning that helps reinforce vocabulary, grammar, and expression. Regular practice is essential for improvement.
 
@@ -223,7 +223,7 @@ Writing is a fundamental skill in English learning that helps reinforce vocabula
 - Keep a journal in English to track your progress
 - Join writing communities or find a writing partner for feedback
 
-## Grammar 📚
+## Grammar
 
 Understanding grammar is essential for mastering English. These resources provide structured learning and practice opportunities.
 
@@ -233,7 +233,7 @@ Understanding grammar is essential for mastering English. These resources provid
 - [My English Pages](https://www.myenglishpages.com/grammar/) - Detailed grammar reference guide with examples and exercises.
 - [English Club](https://www.englishclub.com/grammar/) - Clear explanations of English grammar rules with practice activities.
 
-## Vocabulary 📝
+## Vocabulary
 
 Building a strong vocabulary is crucial for effective communication. These resources help expand your word knowledge systematically.
 
@@ -255,7 +255,7 @@ Building a strong vocabulary is crucial for effective communication. These resou
 - [Linguee](https://www.linguee.com/) - Context-rich dictionary with real-world usage examples.
 - [ReversoContext](https://context.reverso.net/translation) - See words and phrases used in authentic contexts.
 
-## Tools 🛠️
+## Tools
 
 These tools enhance your English learning experience with interactive features and practical applications.
 
@@ -269,7 +269,7 @@ These tools enhance your English learning experience with interactive features a
 ### Assessment Tools 📊
 - [Test Your Vocab](http://testyourvocab.com/) - Estimate your English vocabulary size.
 
-## Exercises and Tests 📝
+## Exercises and Tests
 
 Regular practice and assessment help track your progress and identify areas for improvement.
 
@@ -290,7 +290,7 @@ Regular practice and assessment help track your progress and identify areas for 
 - Reading: Timed reading comprehension exercises
 - Writing: Essay writing practice with feedback
 
-## Online Classes 👩‍🏫
+## Online Classes
 
 Find the right learning environment with these online platforms offering various teaching styles and formats.
 
@@ -303,7 +303,7 @@ Find the right learning environment with these online platforms offering various
 - [Lingoda](https://lingoda.com/) - Live group classes with native speakers, flexible scheduling, and structured curriculum.
 - [English Central](https://www.englishcentral.com/) - Video-based English lessons with pronunciation feedback.
 
-## FAQ or Common Questions ❓
+## FAQ or Common Questions
 
 Answers to frequently asked questions about English learning, curated from popular discussion forums.
 
@@ -345,7 +345,7 @@ Answers to frequently asked questions about English learning, curated from popul
 - [Self-Assessment Methods](https://www.reddit.com/r/languagelearning/comments/fr96xt/how_to_roughly_estimate_your_level_in_a_foreign/) - How to gauge your own language level without formal testing.
 - [Journaling Your Progress](https://www.reddit.com/r/languagelearning/comments/q29wlm/keeping_a_language_learning_journal/) - Benefits and methods of tracking your language learning journey.
 
-## Contribute 🤝
+## Contribute
 
 Help improve this list! Read the [contribution guidelines](contributing.md) first.
 
