@@ -50,13 +50,9 @@ Large Language Models (LLMs) can be powerful tools to supplement your English le
 ### Practical Applications
 - Interactive Dialogue & Role-Play: Engage in text or voice conversations; simulate specific scenarios (job interviews, client meetings, daily tasks) or ask the AI to adopt different personas for varied practice.
 - Targeted Writing Feedback & Enhancement: Paste your written English (emails, essays) to get specific feedback on grammar, clarity, and tone; request rephrasing options or help brainstorming structure.
-- Contextual Vocabulary Acquisition: Learn new words/idioms by asking for definitions, example sentences in various contexts, synonyms/antonyms, or themed vocabulary lists (e.g., "business phrasal verbs").
 - Applied Grammar Exploration: Illustrate grammar rules by requesting example sentences for specific structures; use for quick error checking in your own sentences (verify complex AI explanations with trusted sources).
 - Reading Comprehension Assistance: Simplify complex texts by requesting summaries, level-appropriate explanations of difficult parts, or extraction of key information like main arguments or jargon definitions.
 - Custom Pronunciation Practice Texts: Generate sentences, short dialogues, or tongue twisters focusing on challenging English sounds (e.g., 'th' sound, 'r' vs. 'l') for targeted oral repetition.
-- Personalized Learning Material Generation: Create custom study aids from your input, such as flashcard content from a text, cloze (fill-in-the-blank) exercises, or example dialogues using target vocabulary.
-- Simulated Standardized Test Preparation: Generate unique practice prompts for exam writing/speaking sections (TOEFL, IELTS); submit practice essays for feedback on structure, argumentation, and language use.
-- Decoding Cultural & Contextual Nuances: Understand idioms, slang, jokes, or cultural references from English media by asking for explanations of their meaning and typical usage context.
 - Personalized Study Plan & Goal Setting: Outline a weekly study schedule or break down large learning objectives into manageable steps, tailored to your specific goals and current proficiency level.
 
 ## Listening
