@@ -29,10 +29,10 @@ This list is for:
 
 ## Top Picks
 <!--lint disable awesome-list-item-->
-- [Anki](https://apps.ankiweb.net/) - Effective flashcard app for vocabulary expansion through daily review.
-- [Hard Fork by The New York Times](https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT) - Weekly exploration of the latest in the rapidly changing world of tech.
-- [NPR](https://www.npr.org/) - National Public Radio with transcripts available, ideal for daily listening.
-- [English Grammar in Use (Murphy)](https://www.cambridge.org/us/cambridgeenglish/catalog/grammar-vocabulary-and-pronunciation/english-grammar-use-5th-edition) - Best-selling grammar book for learners of English.
+- [Anki][anki-url] - Effective flashcard app for vocabulary expansion through daily review.
+- [Hard Fork by The New York Times][hard-fork-url] - Weekly exploration of the latest in the rapidly changing world of tech.
+- [NPR][npr-url] - National Public Radio with transcripts available, ideal for daily listening.
+- [English Grammar in Use (Murphy)][murphy-grammar-url] - Best-selling grammar book for learners of English.
 - [Harry Potter Series](#books) - Popular book series with gradually increasing language complexity, suitable for learners.
 - [ChatGPT](#recommended-llms) - Versatile AI for conversational practice, writing help, and vocabulary exploration.
 <!--lint disable awesome-list-item-->
@@ -85,7 +85,7 @@ Podcasts provide an engaging medium to enhance listening skills through diverse 
 Tech podcasts improve English skills while keeping you updated on technology. They introduce new vocabulary and industry terms, enhancing comprehension and listening.
 
 #### General Tech 🖥️
-- [Hard Fork by The New York Times](https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT) - Weekly exploration of the latest in the rapidly changing world of tech.
+- [Hard Fork by The New York Times][hard-fork-url] - Weekly exploration of the latest in the rapidly changing world of tech.
 - [Bloomberg Technology](https://www.youtube.com/channel/UCrM7B7SL_g1edFOnmj-SDKg) - In-depth coverage of technology industry news and innovations.
 
 #### Developer Focused 👨‍💻
@@ -119,7 +119,7 @@ Interview podcasts help develop advanced listening skills through natural conver
 Online radio stations provide real-time exposure to native English speakers, helping you adapt to different accents, speech patterns, and current events discussions.
 
 #### National Broadcasters 🌍
-- [NPR](https://www.npr.org/) - National Public Radio with transcripts available.
+- [NPR][npr-url] - National Public Radio with transcripts available.
 - [BBC London](https://www.bbc.co.uk/bbclondon) - News and talk radio station from London.
 - [Bloomberg Radio](https://www.bloomberg.com/audio) - Financial markets and business news radio.
 
@@ -257,7 +257,7 @@ Writing is a fundamental skill in English learning that helps reinforce vocabula
 Understanding grammar is essential for mastering English. These resources provide structured learning and practice opportunities.
 
 ### Learning Resources 📖
-- [Book: English Grammar in Use by Raymond Murphy](https://www.cambridge.org/us/cambridgeenglish/catalog/grammar-vocabulary-and-pronunciation/english-grammar-use-5th-edition) - Best-selling grammar book for learners of English.
+- [Book: English Grammar in Use by Raymond Murphy][murphy-grammar-url] - Best-selling grammar book for learners of English.
 - [Ego4u](https://www.ego4u.com) - Comprehensive grammar lessons and interactive tests.
 - [My English Pages](https://www.myenglishpages.com/grammar/) - Detailed grammar reference guide with examples and exercises.
 - [English Club](https://www.englishclub.com/grammar/) - Clear explanations of English grammar rules with practice activities.
@@ -272,7 +272,7 @@ Building a strong vocabulary is crucial for effective communication. These resou
 
 ### Study Tools 🎯
 #### Flashcard Apps
-- [Anki](https://apps.ankiweb.net/) - Flashcard app using spaced repetition for efficient vocabulary memorization.
+- [Anki][anki-url] - Flashcard app using spaced repetition for efficient vocabulary memorization.
 - [Memrise](https://www.memrise.com/) - User-created vocabulary lists with mnemonics and spaced repetition.
 - [Quizlet](https://quizlet.com/) - Create and study flashcard sets with various learning modes.
 
@@ -348,4 +348,9 @@ Answers to frequently asked questions about English learning, curated from popul
 Help improve this list! Read the [contribution guidelines](contributing.md) first.
 
 This awesome list is maintained with ❤️ for the English learning community.
+
+[anki-url]: https://apps.ankiweb.net/
+[hard-fork-url]: https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT
+[npr-url]: https://www.npr.org/
+[murphy-grammar-url]: https://www.cambridge.org/us/cambridgeenglish/catalog/grammar-vocabulary-and-pronunciation/english-grammar-use-5th-edition
 
