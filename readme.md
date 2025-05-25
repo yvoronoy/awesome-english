@@ -13,6 +13,7 @@ This list is for:
 ## Contents
 
 - [Top Picks](#top-picks)
+- [AI-Powered English Learning](#ai-powered-english-learning)
 - [Listening](#listening)
 - [Speaking](#speaking)
 - [Watching](#watching)
@@ -28,12 +29,36 @@ This list is for:
 
 ## Top Picks
 <!--lint disable awesome-list-item-->
-- [Anki](#flashcard-apps) - Effective flashcard app for vocabulary expansion through daily review.
-- [Hard Fork by The New York Times](#general-tech-%EF%B8%8F) - Each week, journalists Kevin Roose and Casey Newton explore and make sense of the latest in the rapidly changing world of tech.
-- [NPR](#national-broadcasters-) - National Public Radio with transcripts available, ideal for daily listening.
-- [English Grammar in Use (Murphy)](#learning-resources-) - Best-selling grammar book for learners of English.
+- [Anki](https://apps.ankiweb.net/) - Effective flashcard app for vocabulary expansion through daily review.
+- [Hard Fork by The New York Times](https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT) - Weekly exploration of the latest in the rapidly changing world of tech.
+- [NPR](https://www.npr.org/) - National Public Radio with transcripts available, ideal for daily listening.
+- [English Grammar in Use (Murphy)](https://www.cambridge.org/us/cambridgeenglish/catalog/grammar-vocabulary-and-pronunciation/english-grammar-use-5th-edition) - Best-selling grammar book for learners of English.
 - [Harry Potter Series](#books) - Popular book series with gradually increasing language complexity, suitable for learners.
+- [ChatGPT](#recommended-llms) - Versatile AI for conversational practice, writing help, and vocabulary exploration.
 <!--lint disable awesome-list-item-->
+
+## AI-Powered English Learning
+
+Large Language Models (LLMs) can be powerful tools to supplement your English learning. Below are some recommended LLMs and practical ways to integrate them into your study routine.
+
+### Recommended LLMs
+- [ChatGPT by OpenAI](https://chat.openai.com/) - Widely-used conversational AI for interactive practice, writing assistance, and content generation.
+- [Gemini by Google](https://gemini.google.com/) - Multimodal AI from Google, useful for conversation, text understanding, and generating diverse content.
+- [Claude by Anthropic](https://www.anthropic.com/index/introducing-claude) - AI assistant designed for helpful conversations, text analysis, and supporting writing tasks.
+- [Grok AI](https://grok.com/) - Conversational AI that can help with understanding current topics and generating text for language practice.
+
+### Practical Applications
+- Interactive Dialogue & Role-Play: Engage in text or voice conversations; simulate specific scenarios (job interviews, client meetings, daily tasks) or ask the AI to adopt different personas for varied practice.
+- Targeted Writing Feedback & Enhancement: Paste your written English (emails, essays) to get specific feedback on grammar, clarity, and tone; request rephrasing options or help brainstorming structure.
+- Contextual Vocabulary Acquisition: Learn new words/idioms by asking for definitions, example sentences in various contexts, synonyms/antonyms, or themed vocabulary lists (e.g., "business phrasal verbs").
+- Applied Grammar Exploration: Illustrate grammar rules by requesting example sentences for specific structures; use for quick error checking in your own sentences (verify complex AI explanations with trusted sources).
+- Reading Comprehension Assistance: Simplify complex texts by requesting summaries, level-appropriate explanations of difficult parts, or extraction of key information like main arguments or jargon definitions.
+- Custom Pronunciation Practice Texts: Generate sentences, short dialogues, or tongue twisters focusing on challenging English sounds (e.g., 'th' sound, 'r' vs. 'l') for targeted oral repetition.
+- Personalized Learning Material Generation: Create custom study aids from your input, such as flashcard content from a text, cloze (fill-in-the-blank) exercises, or example dialogues using target vocabulary.
+- Simulated Standardized Test Preparation: Generate unique practice prompts for exam writing/speaking sections (TOEFL, IELTS); submit practice essays for feedback on structure, argumentation, and language use.
+- Decoding Cultural & Contextual Nuances: Understand idioms, slang, jokes, or cultural references from English media by asking for explanations of their meaning and typical usage context.
+- Personalized Study Plan & Goal Setting: Outline a weekly study schedule or break down large learning objectives into manageable steps, tailored to your specific goals and current proficiency level.
+
 ## Listening
 
 ### Podcasts 🎧
@@ -217,8 +242,6 @@ Writing is a fundamental skill in English learning that helps reinforce vocabula
 - [ThoughtCo's ESL Writing Exercises](https://www.thoughtco.com/esl-writing-skills-4133091) - Provides various writing prompts and structured exercises.
 
 #### AI Writing Assistants 🤖
-- [ChatGPT by OpenAI](https://chat.openai.com/) - Interactive AI for writing feedback, grammar explanations, and conversation practice.
-- [Claude by Anthropic](https://www.anthropic.com/index/introducing-claude) - AI assistant for writing feedback and English practice through natural conversation.
 - [Hemingway Editor](http://www.hemingwayapp.com/) - Helps simplify and clarify your writing by identifying complex sentences and common errors.
 
 ### Writing Tips 💡
