@@ -13,12 +13,12 @@ This list is for:
 ## Contents
 
 - [Top Picks](#top-picks)
-- [AI-Powered English Learning](#ai-powered-english-learning)
 - [Listening](#listening)
 - [Speaking](#speaking)
 - [Watching](#watching)
 - [Reading](#reading)
 - [Writing](#writing)
+- [AI-Powered English Learning](#ai-powered-english-learning)
 - [Grammar](#grammar)
 - [Vocabulary](#vocabulary)
 - [Tools](#tools)
@@ -36,24 +36,6 @@ This list is for:
 - [Harry Potter Series](#books) - Popular book series with gradually increasing language complexity, suitable for learners.
 - [ChatGPT](#recommended-llms) - Versatile AI for conversational practice, writing help, and vocabulary exploration.
 <!--lint disable awesome-list-item-->
-
-## AI-Powered English Learning
-
-Large Language Models (LLMs) can be powerful tools to supplement your English learning. Below are some recommended LLMs and practical ways to integrate them into your study routine.
-
-### Recommended LLMs
-- [ChatGPT by OpenAI](https://chat.openai.com/) - Widely-used conversational AI for interactive practice, writing assistance, and content generation.
-- [Gemini by Google](https://gemini.google.com/) - Multimodal AI from Google, useful for conversation, text understanding, and generating diverse content.
-- [Claude by Anthropic](https://www.anthropic.com/index/introducing-claude) - AI assistant designed for helpful conversations, text analysis, and supporting writing tasks.
-- [Grok AI](https://grok.com/) - Conversational AI that can help with understanding current topics and generating text for language practice.
-
-### Practical Applications
-- Interactive Dialogue & Role-Play: Engage in text or voice conversations; simulate specific scenarios (job interviews, client meetings, daily tasks) or ask the AI to adopt different personas for varied practice.
-- Targeted Writing Feedback & Enhancement: Paste your written English (emails, essays) to get specific feedback on grammar, clarity, and tone; request rephrasing options or help brainstorming structure.
-- Applied Grammar Exploration: Illustrate grammar rules by requesting example sentences for specific structures; use for quick error checking in your own sentences (verify complex AI explanations with trusted sources).
-- Reading Comprehension Assistance: Simplify complex texts by requesting summaries, level-appropriate explanations of difficult parts, or extraction of key information like main arguments or jargon definitions.
-- Custom Pronunciation Practice Texts: Generate sentences, short dialogues, or tongue twisters focusing on challenging English sounds (e.g., 'th' sound, 'r' vs. 'l') for targeted oral repetition.
-- Personalized Study Plan & Goal Setting: Outline a weekly study schedule or break down large learning objectives into manageable steps, tailored to your specific goals and current proficiency level.
 
 ## Listening
 
@@ -247,6 +229,24 @@ Writing is a fundamental skill in English learning that helps reinforce vocabula
 - Use AI tools for immediate feedback, but don't rely on them exclusively
 - Keep a journal in English to track your progress
 - Join writing communities or find a writing partner for feedback
+
+## AI-Powered English Learning
+
+Large Language Models (LLMs) can be powerful tools to supplement your English learning. Below are some recommended LLMs and practical ways to integrate them into your study routine.
+
+### Recommended LLMs
+- [ChatGPT by OpenAI](https://chat.openai.com/) - Widely-used conversational AI for interactive practice, writing assistance, and content generation.
+- [Gemini by Google](https://gemini.google.com/) - Multimodal AI from Google, useful for conversation, text understanding, and generating diverse content.
+- [Claude by Anthropic](https://www.anthropic.com/index/introducing-claude) - AI assistant designed for helpful conversations, text analysis, and supporting writing tasks.
+- [Grok AI](https://grok.com/) - Conversational AI that can help with understanding current topics and generating text for language practice.
+
+### Practical Applications
+- Interactive Dialogue & Role-Play: Engage in text or voice conversations; simulate specific scenarios (job interviews, client meetings, daily tasks) or ask the AI to adopt different personas for varied practice.
+- Targeted Writing Feedback & Enhancement: Paste your written English (emails, essays) to get specific feedback on grammar, clarity, and tone; request rephrasing options or help brainstorming structure.
+- Applied Grammar Exploration: Illustrate grammar rules by requesting example sentences for specific structures; use for quick error checking in your own sentences (verify complex AI explanations with trusted sources).
+- Reading Comprehension Assistance: Simplify complex texts by requesting summaries, level-appropriate explanations of difficult parts, or extraction of key information like main arguments or jargon definitions.
+- Custom Pronunciation Practice Texts: Generate sentences, short dialogues, or tongue twisters focusing on challenging English sounds (e.g., 'th' sound, 'r' vs. 'l') for targeted oral repetition.
+- Personalized Study Plan & Goal Setting: Outline a weekly study schedule or break down large learning objectives into manageable steps, tailored to your specific goals and current proficiency level.
 
 ## Grammar
 
