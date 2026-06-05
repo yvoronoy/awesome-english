@@ -290,6 +290,7 @@ These tools enhance your English learning experience with interactive features a
 - [Play Phrase](https://playphrase.me/) - Search and play specific phrases from movies to learn natural usage.
 - [Lyrics Training](https://lyricstraining.com/) - Learn English through music and song lyrics with interactive exercises.
 - [Grammarly](https://grammarly.com/) - Writing assistant for checking grammar, spelling, and style in real-time.
+- [BeLikeNative](https://belikenative.com) - L1-aware grammar and style checker that helps non-native speakers write natural English. Available as a Chrome extension.
 - [YouGlish](https://youglish.com/) - Learn word pronunciation from real-world videos.
 - [Visuwords](https://visuwords.com/) - Visual dictionary showing word relationships and connections.
 
