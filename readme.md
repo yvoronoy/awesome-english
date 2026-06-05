@@ -279,6 +279,7 @@ Building a strong vocabulary is crucial for effective communication. These resou
 - [Oxford Learner's Dictionaries](https://www.oxfordlearnersdictionaries.com/) - Learner-friendly definitions with clear examples and pronunciations.
 - [Linguee](https://www.linguee.com/) - Context-rich dictionary with real-world usage examples.
 - [ReversoContext](https://context.reverso.net/translation) - See words and phrases used in authentic contexts.
+- [Word Orb](https://wordorb.ai) - 162,253 English words with IPA pronunciation, etymology, part of speech, and 601,143 translations across 47 languages. Free anonymous tier, HTTPS, CORS enabled — also usable as a programmatic dictionary API.
 
 ## Tools
 
@@ -302,6 +303,7 @@ Regular practice and assessment help track your progress and identify areas for 
 - [English Test Store](http://englishteststore.net/) - Comprehensive collection of English proficiency tests.
 - [Duolingo](https://www.duolingo.com) - Gamified language learning platform with daily exercises and progress tracking.
 - [LingoRank](http://lingorank.com) - Improve listening comprehension through TED talks with interactive exercises.
+- [The Daily Lesson](https://thedailylesson.com/) - 365 daily 5-minute English lessons across 4 tracks (learn / grow / teach / trivia) with an AI teacher (Kelly). Runs a live vocabulary-retention pilot with Cohen's d measurement at [/pilot](https://thedailylesson.com/pilot). Free 7-day trial.
 
 ### Test Preparation Resources 📚
 #### General English Tests
