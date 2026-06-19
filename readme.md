@@ -273,6 +273,7 @@ Building a strong vocabulary is crucial for effective communication. These resou
 - [Memrise](https://www.memrise.com/) - User-created vocabulary lists with mnemonics and spaced repetition.
 - [Quizlet](https://quizlet.com/) - Create and study flashcard sets with various learning modes.
 - [KaChiKa](https://kachika.app/) - Snap a photo of any object to extract English vocabulary in real-life context, with FSRS-based flashcards.
+- [Sink In](https://pomisoft.dev/sink-in) - Phrasal verbs as a system. The app has animated illustrations and flashcards
 
 #### Dictionary Resources 📚
 - [Forvo](https://forvo.com/) - Native speaker pronunciations of words from different English-speaking regions.
