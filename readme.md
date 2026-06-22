@@ -313,7 +313,8 @@ Regular practice and assessment help track your progress and identify areas for 
 - [Cambridge English](https://www.cambridgeenglish.org/test-your-english/) - Official practice tests for various Cambridge English qualifications.
 - [IELTS Practice](https://www.ielts.org/usa/ielts-for-test-takers/ielts-practice-test) - Free IELTS practice materials.
 - [TOEFL Resources](https://www.ets.org/toefl/test-takers/ibt/prepare) - Official TOEFL iBT preparation resources.
-- **2026 China Gaokao English Exam** (https://ordinarymantrying.com/tools/gaokao-2026-english-exam.html) - "Real 2026 Chinese national college entrance exam English reading section. 20 questions from the actual paper sat by 12.6 million students, with instant scoring. No login required."
+- **2026 China Gaokao English Exam** (https://ordinarymantrying.com/tools/gaokao-2026-english-exam.html) - Real 2026 Chinese national college entrance exam English reading section. 20 questions from the actual paper sat by 12.6 million students, with instant scoring. No login required.
+- **Ordinary Man Trying** (https://ordinarymantrying.com) - A blog written in plain, clear English by someone living in China. Good authentic reading material about real-life experiences — useful for ESL learners who want to practice with natural, non-textbook English.
 
 #### Skill-Specific Practice
 - Listening: Daily dictation exercises and audio comprehension tests
