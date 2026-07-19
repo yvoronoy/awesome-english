@@ -305,6 +305,7 @@ Regular practice and assessment help track your progress and identify areas for 
 ### Practice Platforms 🎯
 - [English Test Store](http://englishteststore.net/) - Comprehensive collection of English proficiency tests.
 - [Duolingo](https://www.duolingo.com) - Gamified language learning platform with daily exercises and progress tracking.
+- [Lingua-e](https://www.lingua-e.com/es/a1?utm_source=github) - English learning app for developers with interactive exercises covering daily standups, code reviews, pull requests, and technical interviews.
 - [LingoRank](http://lingorank.com) - Improve listening comprehension through TED talks with interactive exercises.
 - [The Daily Lesson](https://thedailylesson.com/) - 365 daily 5-minute English lessons across 4 tracks (learn / grow / teach / trivia) with an AI teacher (Kelly). Runs a live vocabulary-retention pilot with Cohen's d measurement at [/pilot](https://thedailylesson.com/pilot). Free 7-day trial.
 
