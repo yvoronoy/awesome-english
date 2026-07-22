@@ -312,6 +312,7 @@ Regular practice and assessment help track your progress and identify areas for 
 #### General English Tests
 - [Cambridge English](https://www.cambridgeenglish.org/test-your-english/) - Official practice tests for various Cambridge English qualifications.
 - [IELTS Practice](https://www.ielts.org/usa/ielts-for-test-takers/ielts-practice-test) - Free IELTS practice materials.
+- [ParrotTalk](https://www.parrottalk.app) - Free IELTS practice with full mock tests for Listening, Reading, Writing and Speaking, plus AI scoring and band feedback.
 - [TOEFL Resources](https://www.ets.org/toefl/test-takers/ibt/prepare) - Official TOEFL iBT preparation resources.
 
 #### Skill-Specific Practice
