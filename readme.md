@@ -218,6 +218,7 @@ Writing is a fundamental skill in English learning that helps reinforce vocabula
 #### Practice Platforms
 - [750 Words](https://750words.com/) - Encourages daily private writing through gamification and statistics tracking.
 - [Write & Improve by Cambridge](https://writeandimprove.com/) - Offers daily writing tasks with automated feedback at various proficiency levels.
+- [IELTS Writing Checker](https://ieltswritingchecker.org/) - IELTS Task 1 and Task 2 scores and feedback.
 - [ThoughtCo's ESL Writing Exercises](https://www.thoughtco.com/esl-writing-skills-4133091) - Provides various writing prompts and structured exercises.
 
 #### AI Writing Assistants 🤖
