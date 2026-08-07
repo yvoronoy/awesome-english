@@ -138,6 +138,7 @@ The list includes language exchange platforms, apps for pronunciation, forums.
 - [Elsa Speak](https://www.elsaspeak.com/) - AI-driven app for improving pronunciation by offering detailed feedback on speaking.
 - [TalkEnglish](https://www.talkenglish.com/) - Site with speaking exercises and conversation topics to improve fluency through practice.
 - [Rachel's English](https://www.youtube.com/user/rachelsenglish) - YouTube channel focusing on pronunciation and clear speaking in American English.
+- [Unprompted Topic Generator](https://unpromptedtopicgenerator.com/impromptu-speech-topics) - Free, no-signup prompts for impromptu speaking practice with a built-in timer.
 
 ## Watching
 
@@ -354,4 +355,3 @@ This awesome list is maintained with ❤️ for the English learning community.
 [hard-fork-url]: https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT
 [npr-url]: https://www.npr.org/
 [murphy-grammar-url]: https://www.cambridge.org/us/cambridgeenglish/catalog/grammar-vocabulary-and-pronunciation/english-grammar-use-5th-edition
-
