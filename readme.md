@@ -273,6 +273,7 @@ Building a strong vocabulary is crucial for effective communication. These resou
 - [Memrise](https://www.memrise.com/) - User-created vocabulary lists with mnemonics and spaced repetition.
 - [Quizlet](https://quizlet.com/) - Create and study flashcard sets with various learning modes.
 - [KaChiKa](https://kachika.app/) - Snap a photo of any object to extract English vocabulary in real-life context, with FSRS-based flashcards.
+- [Recordar Palabras](https://recordarpalabras.com/en) - Save English vocabulary you encounter, add definitions, and review it with spaced repetition on the web or iPhone; the core flow is free and AI definitions are optional.
 
 #### Dictionary Resources 📚
 - [Forvo](https://forvo.com/) - Native speaker pronunciations of words from different English-speaking regions.
