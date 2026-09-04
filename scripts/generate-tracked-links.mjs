@@ -4,10 +4,15 @@
 // view can also be tracked in Umami — github.com strips JS, but GitHub Pages
 // serves these redirect pages as plain HTML that tracks then forwards.
 //
+// Slugs are readable (derived from the resource's title, e.g. "6-minute-english")
+// so Umami's Pages/Events reports are identifiable at a glance, instead of an
+// opaque hash.
+//
 // Safe to re-run: already-tracked links and heading/badge links are left
-// alone, and slugs are stable across runs via scripts/link-map.json.
+// alone, and slugs are stable across runs via scripts/link-map.json (keyed
+// by the original URL, so a later title edit won't change the slug/URL).
 
-import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs';
+import { readFileSync, writeFileSync, mkdirSync, existsSync, rmSync } from 'node:fs';
 import { createHash } from 'node:crypto';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -20,17 +25,35 @@ const TRACK_BASE = 'https://yvoronoy.github.io/awesome-english/go/';
 const UMAMI_WEBSITE_ID = '650f3ef1-f91e-4185-af3e-3f74823f6b76';
 
 const map = existsSync(MAP_PATH) ? JSON.parse(readFileSync(MAP_PATH, 'utf8')) : {};
+const usedSlugs = new Set(Object.values(map).map((e) => e.slug));
 
-function slugFor(url) {
-  if (map[url]) return map[url];
-  let slug = createHash('sha1').update(url).digest('hex').slice(0, 8);
-  const used = new Set(Object.values(map));
-  let len = 8;
-  while (used.has(slug)) {
-    len += 2;
-    slug = createHash('sha1').update(url).digest('hex').slice(0, len);
+function slugify(text) {
+  let s = text
+    .toLowerCase()
+    .replace(/&/g, ' and ')
+    .replace(/'/g, '')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
+  if (s.length > 60) {
+    const cut = s.slice(0, 60);
+    const lastDash = cut.lastIndexOf('-');
+    s = (lastDash > 20 ? cut.slice(0, lastDash) : cut).replace(/-+$/g, '');
   }
-  map[url] = slug;
+  if (!s) s = createHash('sha1').update(text).digest('hex').slice(0, 8);
+  return s;
+}
+
+function slugFor(url, title) {
+  if (map[url]) return map[url].slug;
+  let base = slugify(title);
+  let slug = base;
+  let n = 2;
+  while (usedSlugs.has(slug)) {
+    slug = `${base}-${n}`;
+    n++;
+  }
+  usedSlugs.add(slug);
+  map[url] = { slug, title };
   return slug;
 }
 
@@ -41,8 +64,9 @@ function escapeHtml(s) {
 let readme = readFileSync(README_PATH, 'utf8');
 const lines = readme.split('\n');
 
-const inlineLinkRe = /\]\((https?:\/\/[^\s)]+)\)/g;
-const refDefRe = /^(\[[a-z0-9-]+\]:\s*)(https?:\/\/\S+)(\s*)$/i;
+const inlineLinkRe = /\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g;
+const refDefRe = /^(\[([a-z0-9-]+)\]:\s*)(https?:\/\/\S+)(\s*)$/i;
+const refUsageRe = (label) => new RegExp(`\\[([^\\]]+)\\]\\[${label}\\]`, 'i');
 
 let rewritten = 0;
 
@@ -52,16 +76,20 @@ const newLines = lines.map((line) => {
 
   const refMatch = line.match(refDefRe);
   if (refMatch) {
-    const [, prefix, url, suffix] = refMatch;
+    const [, prefix, label, url, suffix] = refMatch;
     if (url.startsWith(TRACK_BASE)) return line;
     rewritten++;
-    return `${prefix}${TRACK_BASE}${slugFor(url)}/${suffix}`;
+    // Prefer the actual display text used as [Text][label] in the body
+    // (proper casing) over deriving a title from the label itself.
+    const usageMatch = readme.match(refUsageRe(label));
+    const title = usageMatch ? usageMatch[1] : label.replace(/-url$/i, '').replace(/-/g, ' ');
+    return `${prefix}${TRACK_BASE}${slugFor(url, title)}/${suffix}`;
   }
 
-  return line.replace(inlineLinkRe, (full, url) => {
+  return line.replace(inlineLinkRe, (full, text, url) => {
     if (url.startsWith(TRACK_BASE)) return full;
     rewritten++;
-    return `](${TRACK_BASE}${slugFor(url)}/)`;
+    return `[${text}](${TRACK_BASE}${slugFor(url, text)}/)`;
   });
 });
 
@@ -69,27 +97,30 @@ readme = newLines.join('\n');
 writeFileSync(README_PATH, readme);
 writeFileSync(MAP_PATH, JSON.stringify(map, null, 2) + '\n');
 
+rmSync(GO_DIR, { recursive: true, force: true });
 mkdirSync(GO_DIR, { recursive: true });
 
-for (const [url, slug] of Object.entries(map)) {
+for (const [url, { slug, title }] of Object.entries(map)) {
   const dir = join(GO_DIR, slug);
   mkdirSync(dir, { recursive: true });
   const safeUrl = escapeHtml(url);
+  const safeTitle = escapeHtml(title);
   const html = `<!doctype html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>Redirecting…</title>
+<title>${safeTitle}</title>
 <meta name="robots" content="noindex,nofollow">
 <meta http-equiv="refresh" content="1; url=${safeUrl}">
 <script defer src="https://cloud.umami.is/script.js" data-website-id="${UMAMI_WEBSITE_ID}"></script>
 <style>body{font:16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;max-width:32rem;margin:4rem auto;padding:0 1rem;color:#24292f}</style>
 </head>
 <body>
-<p>Redirecting to <a id="target" href="${safeUrl}">${safeUrl}</a>&hellip;</p>
+<p>Redirecting to <a id="target" href="${safeUrl}">${safeTitle}</a>&hellip;</p>
 <script>
 (function () {
   var target = ${JSON.stringify(url)};
+  var title = ${JSON.stringify(title)};
   var source = document.referrer.indexOf('github.com') !== -1
     ? 'readme-github'
     : (document.referrer.indexOf('yvoronoy.github.io') !== -1 ? 'readme-pages' : 'direct');
@@ -102,7 +133,7 @@ for (const [url, slug] of Object.entries(map)) {
   var fallbackTimer = setTimeout(go, 350);
   function track() {
     try {
-      if (window.umami) window.umami.track('outbound', { url: target, source: source });
+      if (window.umami) window.umami.track('outbound', { url: target, title: title, source: source });
     } finally {
       clearTimeout(fallbackTimer);
       go();
