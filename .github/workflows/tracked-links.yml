@@ -1,0 +1,42 @@
+name: Generate tracked links
+
+# Keeps readme.md links routed through /go/<slug>/ redirect pages so clicks
+# made on github.com (which strips JS) can still be tracked in Umami.
+# Runs scripts/generate-tracked-links.mjs, which is a no-op unless someone
+# added a new raw link since the last run.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - readme.md
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Generate tracked links
+        run: node scripts/generate-tracked-links.mjs
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add readme.md go scripts/link-map.json
+          if git diff --cached --quiet; then
+            echo "No new links to track."
+            exit 0
+          fi
+          git commit -m "chore: generate tracked redirect links [skip ci]"
+          git push

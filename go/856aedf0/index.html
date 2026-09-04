@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Redirecting…</title>
+<meta name="robots" content="noindex,nofollow">
+<meta http-equiv="refresh" content="1; url=https://www.engvid.com/">
+<script defer src="https://cloud.umami.is/script.js" data-website-id="650f3ef1-f91e-4185-af3e-3f74823f6b76"></script>
+<style>body{font:16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;max-width:32rem;margin:4rem auto;padding:0 1rem;color:#24292f}</style>
+</head>
+<body>
+<p>Redirecting to <a id="target" href="https://www.engvid.com/">https://www.engvid.com/</a>&hellip;</p>
+<script>
+(function () {
+  var target = "https://www.engvid.com/";
+  var source = document.referrer.indexOf('github.com') !== -1
+    ? 'readme-github'
+    : (document.referrer.indexOf('yvoronoy.github.io') !== -1 ? 'readme-pages' : 'direct');
+  var redirected = false;
+  function go() {
+    if (redirected) return;
+    redirected = true;
+    location.replace(target);
+  }
+  var fallbackTimer = setTimeout(go, 350);
+  function track() {
+    try {
+      if (window.umami) window.umami.track('outbound', { url: target, source: source });
+    } finally {
+      clearTimeout(fallbackTimer);
+      go();
+    }
+  }
+  if (window.umami) {
+    track();
+  } else {
+    var tries = 0;
+    var iv = setInterval(function () {
+      tries++;
+      if (window.umami || tries > 6) {
+        clearInterval(iv);
+        track();
+      }
+    }, 50);
+  }
+})();
+</script>
+</body>
+</html>
