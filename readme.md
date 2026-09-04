@@ -273,6 +273,7 @@ Building a strong vocabulary is crucial for effective communication. These resou
 - [Memrise](https://yvoronoy.github.io/awesome-english/go/memrise/) - User-created vocabulary lists with mnemonics and spaced repetition.
 - [Quizlet](https://yvoronoy.github.io/awesome-english/go/quizlet/) - Create and study flashcard sets with various learning modes.
 - [KaChiKa](https://yvoronoy.github.io/awesome-english/go/kachika/) - Snap a photo of any object to extract English vocabulary in real-life context, with FSRS-based flashcards.
+- [Sink In](https://yvoronoy.github.io/awesome-english/go/sink-in/) - Phrasal verbs as a system. The app has animated illustrations and flashcards
 
 #### Dictionary Resources 📚
 - [Forvo](https://yvoronoy.github.io/awesome-english/go/forvo/) - Native speaker pronunciations of words from different English-speaking regions.

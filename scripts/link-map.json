@@ -562,5 +562,9 @@
   "https://pronounce.renlab.ai/": {
     "slug": "pronounce",
     "title": "Pronounce"
+  },
+  "https://pomisoft.dev/sink-in": {
+    "slug": "sink-in",
+    "title": "Sink In"
   }
 }
