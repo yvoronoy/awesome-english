@@ -1,0 +1,11 @@
+<!-- Umami analytics: pageviews + outbound-link click tracking -->
+<script defer src="https://cloud.umami.is/script.js" data-website-id="650f3ef1-f91e-4185-af3e-3f74823f6b76"></script>
+<script>
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest && e.target.closest('a');
+    if (!a || !a.href) return;
+    if (/^https?:/i.test(a.href) && a.host !== location.host && window.umami) {
+      window.umami.track('outbound', { url: a.href, text: (a.textContent || '').trim().slice(0, 80) });
+    }
+  }, true);
+</script>
