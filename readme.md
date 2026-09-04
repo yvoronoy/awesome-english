@@ -282,6 +282,7 @@ Building a strong vocabulary is crucial for effective communication. These resou
 - [Linguee](https://yvoronoy.github.io/awesome-english/go/linguee/) - Context-rich dictionary with real-world usage examples.
 - [ReversoContext](https://yvoronoy.github.io/awesome-english/go/reversocontext/) - See words and phrases used in authentic contexts.
 - [Word Orb](https://yvoronoy.github.io/awesome-english/go/word-orb/) - 162,253 English words with IPA pronunciation, etymology, part of speech, and 601,143 translations across 47 languages. Free anonymous tier, HTTPS, CORS enabled — also usable as a programmatic dictionary API.
+- [Pronounce](https://yvoronoy.github.io/awesome-english/go/pronounce/) - Pronunciation dictionary for tech and developer jargon (kubectl, nginx, GIF, JSON) — 1,650+ entries with IPA, audio, and source citations, plus a quiz mode. Free, no install; useful for non-native engineers.
 
 ## Tools
 

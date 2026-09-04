@@ -558,5 +558,9 @@
   "https://www.cambridge.org/us/cambridgeenglish/catalog/grammar-vocabulary-and-pronunciation/english-grammar-use-5th-edition": {
     "slug": "english-grammar-in-use-murphy",
     "title": "English Grammar in Use (Murphy)"
+  },
+  "https://pronounce.renlab.ai/": {
+    "slug": "pronounce",
+    "title": "Pronounce"
   }
 }
