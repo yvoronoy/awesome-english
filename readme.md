@@ -13,6 +13,7 @@ This list is for:
 ## Contents
 
 - [Top Picks](#top-picks)
+- [Methods & Techniques](#methods--techniques)
 - [Listening](#listening)
 - [Speaking](#speaking)
 - [Watching](#watching)
@@ -36,6 +37,16 @@ This list is for:
 - [Harry Potter Series](#books) - Popular book series with gradually increasing language complexity, suitable for learners.
 - [ChatGPT](#recommended-llms) - Versatile AI for conversational practice, writing help, and vocabulary exploration.
 <!--lint disable awesome-list-item-->
+
+## Methods & Techniques
+
+High-leverage techniques experienced learners rely on — the "how" behind the resources in this list.
+
+- [Comprehensible Input](https://yvoronoy.github.io/awesome-english/go/comprehensible-input/) - Acquire English mainly by understanding content slightly above your current level, rather than drilling rules.
+- [Shadowing](https://yvoronoy.github.io/awesome-english/go/shadowing/) - Play native audio and echo it aloud in near real-time to train pronunciation, rhythm, and listening.
+- [Sentence Mining](https://yvoronoy.github.io/awesome-english/go/sentence-mining/) - Turn sentences you meet in real content into flashcards so you learn words in context (pairs with Anki).
+- [Extensive Reading](https://yvoronoy.github.io/awesome-english/go/extensive-reading/) - Read large amounts of easy, enjoyable material for meaning to build vocabulary and fluency naturally.
+- [Refold](https://yvoronoy.github.io/awesome-english/go/refold/) - Free, step-by-step roadmap that sequences comprehensible input, immersion, and sentence mining.
 
 ## Listening
 
@@ -122,6 +133,7 @@ Online radio stations provide real-time exposure to native English speakers, hel
 - [Spotlight](https://yvoronoy.github.io/awesome-english/go/spotlight/) - Daily 15-minute radio program for learning English.
 - [ESL Lab](https://yvoronoy.github.io/awesome-english/go/esl-lab/) - Offers English listening comprehension exercises with conversations at various levels.
 - [EngVid](https://yvoronoy.github.io/awesome-english/go/engvid/) - Provides free English video lessons on grammar, vocabulary, pronunciation, and more.
+- [Pimsleur](https://yvoronoy.github.io/awesome-english/go/pimsleur/) - Audio-first courses that build speaking and listening through spaced, spoken-response drills.
 - [Numblr](https://yvoronoy.github.io/awesome-english/go/numblr/) - Focused listening practice for English numbers — hear dates, times, phone numbers, and money amounts in real-world contexts and type what you hear. Great for IELTS/TOEFL prep.
 
 ## Speaking
@@ -135,6 +147,9 @@ The list includes language exchange platforms, apps for pronunciation, forums.
 - [Elsa Speak](https://yvoronoy.github.io/awesome-english/go/elsa-speak/) - AI-driven app for improving pronunciation by offering detailed feedback on speaking.
 - [TalkEnglish](https://yvoronoy.github.io/awesome-english/go/talkenglish/) - Site with speaking exercises and conversation topics to improve fluency through practice.
 - [Rachel's English](https://yvoronoy.github.io/awesome-english/go/rachels-english/) - YouTube channel focusing on pronunciation and clear speaking in American English.
+- [BoldVoice](https://yvoronoy.github.io/awesome-english/go/boldvoice/) - Accent-coaching app with instant AI and real-coach feedback to make your spoken English clearer.
+- [Speak](https://yvoronoy.github.io/awesome-english/go/speak/) - AI conversation partner you talk to out loud for real speaking practice.
+- [Speechling](https://yvoronoy.github.io/awesome-english/go/speechling/) - Record sentences and get pronunciation feedback from real human coaches, free.
 
 ## Watching
 
@@ -264,6 +279,7 @@ Building a strong vocabulary is crucial for effective communication. These resou
 ### Word Lists and Resources 📑
 - [Ogden's Basic English](https://yvoronoy.github.io/awesome-english/go/ogdens-basic-english/) - List of 850 essential English words forming the foundation of the language; basis for Simple English Wikipedia.
 - [Book: Verbal Advantage by Charles Harrington Elster](https://yvoronoy.github.io/awesome-english/go/book-verbal-advantage-by-charles-harrington-elster/) - Advanced vocabulary building with detailed explanations and examples.
+- [Tatoeba](https://yvoronoy.github.io/awesome-english/go/tatoeba/) - Open database of millions of example sentences with translations and audio.
 
 ### Study Tools 🎯
 #### Flashcard Apps
@@ -291,6 +307,7 @@ These tools enhance your English learning experience with interactive features a
 ### Learning Enhancement Tools 🎯
 - [Play Phrase](https://yvoronoy.github.io/awesome-english/go/play-phrase/) - Search and play specific phrases from movies to learn natural usage.
 - [Language Reactor](https://yvoronoy.github.io/awesome-english/go/language-reactor/) - Browser extension adding dual subtitles and a hover dictionary to Netflix and YouTube.
+- [LingQ](https://yvoronoy.github.io/awesome-english/go/lingq/) - Read and listen to real content with instant word lookup and built-in vocabulary tracking.
 - [Lyrics Training](https://yvoronoy.github.io/awesome-english/go/lyrics-training/) - Learn English through music and song lyrics with interactive exercises.
 - [Grammarly](https://yvoronoy.github.io/awesome-english/go/grammarly/) - Writing assistant for checking grammar, spelling, and style in real-time.
 - [BeLikeNative](https://yvoronoy.github.io/awesome-english/go/belikenative/) - L1-aware grammar and style checker that helps non-native speakers write natural English. Available as a Chrome extension.

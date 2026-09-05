@@ -566,5 +566,49 @@
   "https://www.youtube.com/channel/UCwWhs_6x42TyRM4Wstoq8HA": {
     "slug": "the-daily-show",
     "title": "The Daily Show"
+  },
+  "https://en.wikipedia.org/wiki/Input_hypothesis": {
+    "slug": "comprehensible-input",
+    "title": "Comprehensible Input"
+  },
+  "https://www.youtube.com/watch?v=130bOvRpt24": {
+    "slug": "shadowing",
+    "title": "Shadowing"
+  },
+  "https://refold.la/roadmap/stage-2/a/basic-sentence-mining": {
+    "slug": "sentence-mining",
+    "title": "Sentence Mining"
+  },
+  "https://en.wikipedia.org/wiki/Extensive_reading": {
+    "slug": "extensive-reading",
+    "title": "Extensive Reading"
+  },
+  "https://refold.la": {
+    "slug": "refold",
+    "title": "Refold"
+  },
+  "https://www.pimsleur.com/": {
+    "slug": "pimsleur",
+    "title": "Pimsleur"
+  },
+  "https://boldvoice.com/": {
+    "slug": "boldvoice",
+    "title": "BoldVoice"
+  },
+  "https://www.speak.com/": {
+    "slug": "speak",
+    "title": "Speak"
+  },
+  "https://speechling.com/": {
+    "slug": "speechling",
+    "title": "Speechling"
+  },
+  "https://tatoeba.org/": {
+    "slug": "tatoeba",
+    "title": "Tatoeba"
+  },
+  "https://www.lingq.com/": {
+    "slug": "lingq",
+    "title": "LingQ"
   }
 }
