@@ -1,4 +1,4 @@
-# Awesome English 2025 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome English [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated collection of high-quality resources for learning English,
 focused on practicing the core skills — listening, speaking, reading, and writing.
@@ -103,25 +103,22 @@ Online radio stations provide real-time exposure to native English speakers, hel
 
 #### Regional Stations - East Coast 🌅
 - [WOR 710AM - New York, New York](https://yvoronoy.github.io/awesome-english/go/wor-710am-new-york-new-york/) - News/talk radio station in New York.
-- [WBBM 780AM - Chicago, Illinois](https://yvoronoy.github.io/awesome-english/go/wbbm-780am-chicago-illinois/) - News/talk radio station in Chicago.
 - [Fox News Talk](https://yvoronoy.github.io/awesome-english/go/fox-news-talk/) - News radio station based in New York.
 - [WNYC](https://yvoronoy.github.io/awesome-english/go/wnyc/) - Public radio stations located in New York City.
 - [LBC - London Broadcasting Company](https://yvoronoy.github.io/awesome-english/go/lbc-london-broadcasting-company/) - Independent news/talk radio station in London.
 
 #### Regional Stations - West Coast 🌄
-- [KGO 810AM - San Francisco](https://yvoronoy.github.io/awesome-english/go/kgo-810am-san-francisco/) - News/talk radio station in San Francisco.
 - [KRLA 870AM - Los Angeles](https://yvoronoy.github.io/awesome-english/go/krla-870am-los-angeles/) - News/talk radio station in Los Angeles.
 
 #### Regional Stations - Central 🌎
 - [WBAP 820AM - Dallas](https://yvoronoy.github.io/awesome-english/go/wbap-820am-dallas/) - News/talk radio station in Dallas.
 - [KTRH 740AM - Houston](https://yvoronoy.github.io/awesome-english/go/ktrh-740am-houston/) - News/talk radio station in Houston.
-- [KJCE 1370AM - Austin](https://yvoronoy.github.io/awesome-english/go/kjce-1370am-austin/) - News/talk radio station in Austin.
-- [KRLD 1080AM - Dallas](https://yvoronoy.github.io/awesome-english/go/krld-1080am-dallas/) - News/talk radio station in Dallas.
 - [KOA 850AM - Denver](https://yvoronoy.github.io/awesome-english/go/koa-850am-denver/) - News/talk radio station in Denver.
-- [KMOX 1120AM - St. Louis](https://yvoronoy.github.io/awesome-english/go/kmox-1120am-st-louis/) - News/talk radio station in St. Louis.
 
 ### Sites
 
+- [BBC Learning English](https://yvoronoy.github.io/awesome-english/go/bbc-learning-english/) - Free lessons, videos, and courses covering all levels from the BBC.
+- [British Council LearnEnglish](https://yvoronoy.github.io/awesome-english/go/british-council-learnenglish/) - Free grammar, vocabulary, and skills practice from the UK's leading English-teaching institution.
 - [Spotlight](https://yvoronoy.github.io/awesome-english/go/spotlight/) - Daily 15-minute radio program for learning English.
 - [ESL Lab](https://yvoronoy.github.io/awesome-english/go/esl-lab/) - Offers English listening comprehension exercises with conversations at various levels.
 - [EngVid](https://yvoronoy.github.io/awesome-english/go/engvid/) - Provides free English video lessons on grammar, vocabulary, pronunciation, and more.
@@ -145,11 +142,13 @@ The list includes language exchange platforms, apps for pronunciation, forums.
 
 Watching YouTube helps learn English by providing exposure to authentic language, visual context, diverse content, subtitles, and opportunities for interactive learning.
 
+- [English with Lucy](https://yvoronoy.github.io/awesome-english/go/english-with-lucy/) - One of the largest English-teaching channels, focused on pronunciation, vocabulary, and British English.
+- [TED-Ed](https://yvoronoy.github.io/awesome-english/go/ted-ed/) - Short, animated lessons on a huge range of topics, with transcripts for reading along.
 - [Learn English with Ronnie](https://yvoronoy.github.io/awesome-english/go/learn-english-with-ronnie/) - Provides humorous English video lessons with host Ronnie.
 - [BBC English Grammar](https://yvoronoy.github.io/awesome-english/go/bbc-english-grammar/) - Collection of short BBC videos explaining English grammar concepts.
 - [BBC English HowTo](https://yvoronoy.github.io/awesome-english/go/bbc-english-howto/) - Presents useful English phrases for immediate application in daily conversations.
 - [Anglo-Link](https://yvoronoy.github.io/awesome-english/go/anglo-link/) - Offers a variety of English grammar lessons and explanations.
-- [Daily Dictation](https://yvoronoy.github.io/awesome-english/go/daily-dictation/) - Daily dictation for students who want to improve their listening comprehension skills.
+- [Daily Dictation](https://yvoronoy.github.io/awesome-english/go/daily-dictation/) - Short daily dictation exercises to sharpen listening comprehension.
 - [Learn English with Let's Talk](https://yvoronoy.github.io/awesome-english/go/learn-english-with-lets-talk/) - Experts explain how to handle various daily situations and what phrases to use.
 - [Learn English With TV Series](https://yvoronoy.github.io/awesome-english/go/learn-english-with-tv-series/) - Method to enhance listening comprehension using TV shows, movies, and talk shows.
 - [RealLife English](https://yvoronoy.github.io/awesome-english/go/reallife-english/) - Videos discussing various learning methods and the mindset required to embark on your English learning journey.
@@ -159,8 +158,8 @@ Watching YouTube helps learn English by providing exposure to authentic language
 Watching live TV helps learn English by exposing viewers to real-time conversations, diverse accents, cultural context, and immediate vocabulary application, and you can watch TV in the background for deeper immersion into the language.
 
 - [ABC7 Eyewitness News](https://yvoronoy.github.io/awesome-english/go/abc7-eyewitness-news/) - TV station licensed to Los Angeles, California.
-- [ABC News](https://yvoronoy.github.io/awesome-english/go/abc-news/) - ABC News TV channel.
-- [Bloomberg](https://yvoronoy.github.io/awesome-english/go/bloomberg/) - Bloomberg Business TV channel in New York.
+- [ABC News](https://yvoronoy.github.io/awesome-english/go/abc-news/) - Live TV news channel from the American broadcaster.
+- [Bloomberg](https://yvoronoy.github.io/awesome-english/go/bloomberg/) - Business and markets TV channel based in New York.
 - [CBS News](https://yvoronoy.github.io/awesome-english/go/cbs-news/) - News division of the American TV and radio network CBS.
 - [KTLA 5](https://yvoronoy.github.io/awesome-english/go/ktla-5/) - TV station located in Los Angeles, California, United States.
 
@@ -169,12 +168,10 @@ Watching live TV helps learn English by exposing viewers to real-time conversati
 TV talk shows help learn English by providing exposure to conversational language, diverse accents, and cultural references, while engaging viewers with entertaining discussions that enhance listening skills and vocabulary.
 
 - [Jimmy Kimmel Live!](https://yvoronoy.github.io/awesome-english/go/jimmy-kimmel-live/) - Popular American late-night talk show featuring celebrity interviews.
-- [The Wendy Williams Show](https://yvoronoy.github.io/awesome-english/go/the-wendy-williams-show/) - American syndicated infotainment talk show hosted by Wendy Williams.
 - [The Tonight Show Starring Jimmy Fallon](https://yvoronoy.github.io/awesome-english/go/the-tonight-show-starring-jimmy-fallon/) - American late-night talk show hosted by Jimmy Fallon on NBC.
 - [Late Night with Seth Meyers](https://yvoronoy.github.io/awesome-english/go/late-night-with-seth-meyers/) - American late-night talk show hosted by Seth Meyers on NBC.
-- [The Late Late Show with James Corden](https://yvoronoy.github.io/awesome-english/go/the-late-late-show-with-james-corden/) - American late-night talk show hosted by James Corden on CBS.
 - [The Late Show with Stephen Colbert](https://yvoronoy.github.io/awesome-english/go/the-late-show-with-stephen-colbert/) - American late-night talk show by Stephen Colbert on CBS.
-- [The Daily Show with Trevor Noah](https://yvoronoy.github.io/awesome-english/go/the-daily-show-with-trevor-noah/) - American late-night talk show by Trevor Noah on Comedy Central.
+- [The Daily Show](https://yvoronoy.github.io/awesome-english/go/the-daily-show/) - American late-night satirical news show on Comedy Central, hosted by a rotating team of correspondents with Jon Stewart anchoring Mondays.
 
 ### Tech Shows
 
@@ -193,12 +190,13 @@ Tech shows help learn English by offering insights into industry-specific vocabu
 Reading is a core skill for learning English, as it builds vocabulary, enhances grammar, and improves comprehension, providing exposure to diverse writing styles and contexts that are essential for mastering the language.
 
 - [Breaking News English](https://yvoronoy.github.io/awesome-english/go/breaking-news-english/) - Listen to, read, and write about breaking news.
-- [Short Stories](https://yvoronoy.github.io/awesome-english/go/short-stories/) - Short stories for everyday reading.
+- [News in Levels](https://yvoronoy.github.io/awesome-english/go/news-in-levels/) - Current news rewritten at three difficulty levels for graded reading practice.
+- [Short Stories](https://yvoronoy.github.io/awesome-english/go/short-stories/) - Bite-sized fiction for everyday reading practice.
 - [Reading Room](https://yvoronoy.github.io/awesome-english/go/reading-room/) - Links to newspapers, magazines, books, and libraries for reading practice.
 - [Reading Comprehension Exercises](https://yvoronoy.github.io/awesome-english/go/reading-comprehension-exercises/) - Provides texts with exercises at three different difficulty levels.
-- [IMDB scripts](https://yvoronoy.github.io/awesome-english/go/imdb-scripts/) - The Internet movie script database.
+- [IMDB scripts](https://yvoronoy.github.io/awesome-english/go/imdb-scripts/) - The internet movie script database.
 - [Today I Found Out](https://yvoronoy.github.io/awesome-english/go/today-i-found-out/) - Daily interesting fact articles from various authors.
-- [Newsy](https://yvoronoy.github.io/awesome-english/go/newsy/) - Short news with transcriptions.
+- [Scripps News](https://yvoronoy.github.io/awesome-english/go/scripps-news/) - Short news with transcriptions (formerly Newsy).
 - [Engoo](https://yvoronoy.github.io/awesome-english/go/engoo/) - Daily news for English learners.
 
 ### Books
@@ -277,6 +275,7 @@ Building a strong vocabulary is crucial for effective communication. These resou
 
 #### Dictionary Resources 📚
 - [Forvo](https://yvoronoy.github.io/awesome-english/go/forvo/) - Native speaker pronunciations of words from different English-speaking regions.
+- [Cambridge Dictionary](https://yvoronoy.github.io/awesome-english/go/cambridge-dictionary/) - Learner-friendly definitions, audio pronunciations, and example sentences from Cambridge.
 - [Dictionary.com](https://yvoronoy.github.io/awesome-english/go/dictionary-com/) - Comprehensive dictionary with definitions, pronunciations, and example sentences.
 - [Thesaurus.com](https://yvoronoy.github.io/awesome-english/go/thesaurus-com/) - Find synonyms and antonyms to expand your vocabulary.
 - [Oxford Learner's Dictionaries](https://yvoronoy.github.io/awesome-english/go/oxford-learners-dictionaries/) - Learner-friendly definitions with clear examples and pronunciations.
@@ -291,6 +290,7 @@ These tools enhance your English learning experience with interactive features a
 
 ### Learning Enhancement Tools 🎯
 - [Play Phrase](https://yvoronoy.github.io/awesome-english/go/play-phrase/) - Search and play specific phrases from movies to learn natural usage.
+- [Language Reactor](https://yvoronoy.github.io/awesome-english/go/language-reactor/) - Browser extension adding dual subtitles and a hover dictionary to Netflix and YouTube.
 - [Lyrics Training](https://yvoronoy.github.io/awesome-english/go/lyrics-training/) - Learn English through music and song lyrics with interactive exercises.
 - [Grammarly](https://yvoronoy.github.io/awesome-english/go/grammarly/) - Writing assistant for checking grammar, spelling, and style in real-time.
 - [BeLikeNative](https://yvoronoy.github.io/awesome-english/go/belikenative/) - L1-aware grammar and style checker that helps non-native speakers write natural English. Available as a Chrome extension.
@@ -307,7 +307,7 @@ Regular practice and assessment help track your progress and identify areas for 
 ### Practice Platforms 🎯
 - [English Test Store](https://yvoronoy.github.io/awesome-english/go/english-test-store/) - Comprehensive collection of English proficiency tests.
 - [Duolingo](https://yvoronoy.github.io/awesome-english/go/duolingo/) - Gamified language learning platform with daily exercises and progress tracking.
-- [LingoRank](https://yvoronoy.github.io/awesome-english/go/lingorank/) - Improve listening comprehension through TED talks with interactive exercises.
+- [TED](https://yvoronoy.github.io/awesome-english/go/ted/) - A vast library of talks with interactive transcripts, ideal for authentic listening practice.
 - [The Daily Lesson](https://yvoronoy.github.io/awesome-english/go/the-daily-lesson/) - 365 daily 5-minute English lessons across 4 tracks (learn / grow / teach / trivia) with an AI teacher (Kelly). Runs a live vocabulary-retention pilot with Cohen's d measurement at [/pilot](https://yvoronoy.github.io/awesome-english/go/pilot/). Free 7-day trial.
 
 ### Test Preparation Resources 📚

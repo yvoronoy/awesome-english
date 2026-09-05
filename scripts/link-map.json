@@ -107,10 +107,6 @@
     "slug": "wor-710am-new-york-new-york",
     "title": "WOR 710AM - New York, New York"
   },
-  "https://wbbm780.radio.com": {
-    "slug": "wbbm-780am-chicago-illinois",
-    "title": "WBBM 780AM - Chicago, Illinois"
-  },
   "https://tunein.com/radio/FOX-News-Talk-s20431/": {
     "slug": "fox-news-talk",
     "title": "Fox News Talk"
@@ -123,37 +119,17 @@
     "slug": "lbc-london-broadcasting-company",
     "title": "LBC - London Broadcasting Company"
   },
-  "https://www.kgoradio.com": {
-    "slug": "kgo-810am-san-francisco",
-    "title": "KGO 810AM - San Francisco"
-  },
   "https://am870theanswer.com": {
     "slug": "krla-870am-los-angeles",
     "title": "KRLA 870AM - Los Angeles"
-  },
-  "https://www.wbap.com/listenlive/": {
-    "slug": "wbap-820am-dallas",
-    "title": "WBAP 820AM - Dallas"
   },
   "https://ktrh.iheart.com": {
     "slug": "ktrh-740am-houston",
     "title": "KTRH 740AM - Houston"
   },
-  "https://talk1370.radio.com": {
-    "slug": "kjce-1370am-austin",
-    "title": "KJCE 1370AM - Austin"
-  },
-  "https://krld.radio.com": {
-    "slug": "krld-1080am-dallas",
-    "title": "KRLD 1080AM - Dallas"
-  },
   "https://koanewsradio.iheart.com": {
     "slug": "koa-850am-denver",
     "title": "KOA 850AM - Denver"
-  },
-  "https://kmox.radio.com": {
-    "slug": "kmox-1120am-st-louis",
-    "title": "KMOX 1120AM - St. Louis"
   },
   "http://spotlightenglish.com/": {
     "slug": "spotlight",
@@ -255,10 +231,6 @@
     "slug": "jimmy-kimmel-live",
     "title": "Jimmy Kimmel Live!"
   },
-  "https://www.youtube.com/user/WendyWilliamsShow": {
-    "slug": "the-wendy-williams-show",
-    "title": "The Wendy Williams Show"
-  },
   "https://www.youtube.com/user/latenight": {
     "slug": "the-tonight-show-starring-jimmy-fallon",
     "title": "The Tonight Show Starring Jimmy Fallon"
@@ -267,17 +239,9 @@
     "slug": "late-night-with-seth-meyers",
     "title": "Late Night with Seth Meyers"
   },
-  "https://www.youtube.com/user/TheLateLateShow": {
-    "slug": "the-late-late-show-with-james-corden",
-    "title": "The Late Late Show with James Corden"
-  },
   "https://www.youtube.com/channel/UCMtFAi84ehTSYSE9XoHefig": {
     "slug": "the-late-show-with-stephen-colbert",
     "title": "The Late Show with Stephen Colbert"
-  },
-  "https://www.youtube.com/channel/UCwWhs_6x42TyRM4Wstoq8HA": {
-    "slug": "the-daily-show-with-trevor-noah",
-    "title": "The Daily Show with Trevor Noah"
   },
   "https://www.youtube.com/user/marquesbrownlee": {
     "slug": "marques-brownlee-mkbhd",
@@ -326,10 +290,6 @@
   "http://www.todayifoundout.com/": {
     "slug": "today-i-found-out",
     "title": "Today I Found Out"
-  },
-  "http://www.newsy.com/": {
-    "slug": "newsy",
-    "title": "Newsy"
   },
   "https://engoo.com/app/daily-news": {
     "slug": "engoo",
@@ -463,10 +423,6 @@
     "slug": "visuwords",
     "title": "Visuwords"
   },
-  "http://testyourvocab.com/": {
-    "slug": "test-your-vocab",
-    "title": "Test Your Vocab"
-  },
   "http://englishteststore.net/": {
     "slug": "english-test-store",
     "title": "English Test Store"
@@ -474,10 +430,6 @@
   "https://www.duolingo.com": {
     "slug": "duolingo",
     "title": "Duolingo"
-  },
-  "http://lingorank.com": {
-    "slug": "lingorank",
-    "title": "LingoRank"
   },
   "https://thedailylesson.com/": {
     "slug": "the-daily-lesson",
@@ -566,5 +518,53 @@
   "https://pomisoft.dev/sink-in": {
     "slug": "sink-in",
     "title": "Sink In"
+  },
+  "https://www.wbap.com/": {
+    "slug": "wbap-820am-dallas",
+    "title": "WBAP 820AM - Dallas"
+  },
+  "https://www.bbc.co.uk/learningenglish": {
+    "slug": "bbc-learning-english",
+    "title": "BBC Learning English"
+  },
+  "https://learnenglish.britishcouncil.org/": {
+    "slug": "british-council-learnenglish",
+    "title": "British Council LearnEnglish"
+  },
+  "https://www.youtube.com/@EnglishwithLucy": {
+    "slug": "english-with-lucy",
+    "title": "English with Lucy"
+  },
+  "https://ed.ted.com/": {
+    "slug": "ted-ed",
+    "title": "TED-Ed"
+  },
+  "https://www.newsinlevels.com/": {
+    "slug": "news-in-levels",
+    "title": "News in Levels"
+  },
+  "https://www.scrippsnews.com/": {
+    "slug": "scripps-news",
+    "title": "Scripps News"
+  },
+  "https://dictionary.cambridge.org/": {
+    "slug": "cambridge-dictionary",
+    "title": "Cambridge Dictionary"
+  },
+  "https://www.languagereactor.com/": {
+    "slug": "language-reactor",
+    "title": "Language Reactor"
+  },
+  "https://preply.com/en/learn/english/test-your-vocab": {
+    "slug": "test-your-vocab",
+    "title": "Test Your Vocab"
+  },
+  "https://www.ted.com/": {
+    "slug": "ted",
+    "title": "TED"
+  },
+  "https://www.youtube.com/channel/UCwWhs_6x42TyRM4Wstoq8HA": {
+    "slug": "the-daily-show",
+    "title": "The Daily Show"
   }
 }

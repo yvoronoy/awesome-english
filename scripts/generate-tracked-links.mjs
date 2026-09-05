@@ -11,6 +11,8 @@
 // Safe to re-run: already-tracked links and heading/badge links are left
 // alone, and slugs are stable across runs via scripts/link-map.json (keyed
 // by the original URL, so a later title edit won't change the slug/URL).
+// Map entries and go/ pages for URLs removed from readme.md are pruned
+// automatically, so deleting a README line is enough to retire its link.
 
 import { readFileSync, writeFileSync, mkdirSync, existsSync, rmSync } from 'node:fs';
 import { createHash } from 'node:crypto';
@@ -94,6 +96,23 @@ const newLines = lines.map((line) => {
 });
 
 readme = newLines.join('\n');
+
+// Prune map entries whose /go/<slug>/ is no longer referenced in the README
+// (e.g. a resource was removed or repointed to a different URL), so removed
+// links don't leave orphan redirect pages behind.
+const referencedSlugs = new Set(
+  [...readme.matchAll(new RegExp(`${TRACK_BASE.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}([a-z0-9-]+)/`, 'g'))].map(
+    (m) => m[1]
+  )
+);
+let pruned = 0;
+for (const [url, { slug }] of Object.entries(map)) {
+  if (!referencedSlugs.has(slug)) {
+    delete map[url];
+    pruned++;
+  }
+}
+
 writeFileSync(README_PATH, readme);
 writeFileSync(MAP_PATH, JSON.stringify(map, null, 2) + '\n');
 
@@ -160,5 +179,6 @@ for (const [url, { slug, title }] of Object.entries(map)) {
 }
 
 console.log(`Rewrote ${rewritten} link(s) in readme.md`);
+console.log(`Pruned ${pruned} orphaned link(s) from link-map.json`);
 console.log(`Total tracked links: ${Object.keys(map).length}`);
 console.log(`Generated ${Object.keys(map).length} redirect page(s) under go/`);

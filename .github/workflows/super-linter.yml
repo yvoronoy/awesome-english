@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           # Full git history is needed to get a proper list of changed files within `super-linter`
           fetch-depth: 0
@@ -25,12 +25,15 @@ jobs:
         uses: github/super-linter/slim@v4
         env:
           VALIDATE_ALL_CODEBASE: false
-          DEFAULT_BRANCH: master
+          DEFAULT_BRANCH: main
+          # go/ holds machine-generated redirect pages (see scripts/generate-tracked-links.mjs);
+          # they're valid HTML but trip opinionated rules like htmlhint's head-script-disabled.
+          FILTER_REGEX_EXCLUDE: (^|/)go/.*
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   Awesome_Lint:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
       - run: npx awesome-lint
