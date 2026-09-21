@@ -34,7 +34,7 @@ and follow that section's existing order.
 
 ## Submitting
 
-Fork the repo, add your line, and open a pull request.
+Fork the repository, add your line, and open a pull request.
 
 ## Updating your PR
 
