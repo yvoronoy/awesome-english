@@ -278,6 +278,7 @@ Building a strong vocabulary is crucial for effective communication. These resou
 
 ### Word Lists and Resources 📑
 - [Ogden's Basic English](https://yvoronoy.github.io/awesome-english/go/ogdens-basic-english/) - List of 850 essential English words forming the foundation of the language; basis for Simple English Wikipedia.
+- [1,000 Common English Words](https://heyfuego.com/words/english) - List of 1,000 common English words in themed sets, with audio, example sentences and a printable PDF.
 - [Book: Verbal Advantage by Charles Harrington Elster](https://yvoronoy.github.io/awesome-english/go/book-verbal-advantage-by-charles-harrington-elster/) - Advanced vocabulary building with detailed explanations and examples.
 - [Tatoeba](https://yvoronoy.github.io/awesome-english/go/tatoeba/) - Open database of millions of example sentences with translations and audio.
 
