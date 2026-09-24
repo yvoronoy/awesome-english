@@ -324,6 +324,7 @@ Regular practice and assessment help track your progress and identify areas for 
 ### Practice Platforms 🎯
 - [English Test Store](https://yvoronoy.github.io/awesome-english/go/english-test-store/) - Comprehensive collection of English proficiency tests.
 - [Duolingo](https://yvoronoy.github.io/awesome-english/go/duolingo/) - Gamified language learning platform with daily exercises and progress tracking.
+- [UniverseHall](https://universehall.com/en) - English lessons, level checks, and practice games with Turkish and English interfaces.
 - [TED](https://yvoronoy.github.io/awesome-english/go/ted/) - A vast library of talks with interactive transcripts, ideal for authentic listening practice.
 - [The Daily Lesson](https://yvoronoy.github.io/awesome-english/go/the-daily-lesson/) - 365 daily 5-minute English lessons across 4 tracks (learn / grow / teach / trivia) with an AI teacher (Kelly). Runs a live vocabulary-retention pilot with Cohen's d measurement at [/pilot](https://yvoronoy.github.io/awesome-english/go/pilot/). Free 7-day trial.
 
