@@ -213,6 +213,7 @@ Reading is a core skill for learning English, as it builds vocabulary, enhances 
 - [Today I Found Out](https://yvoronoy.github.io/awesome-english/go/today-i-found-out/) - Daily interesting fact articles from various authors.
 - [Scripps News](https://yvoronoy.github.io/awesome-english/go/scripps-news/) - Short news with transcriptions (formerly Newsy).
 - [Engoo](https://yvoronoy.github.io/awesome-english/go/engoo/) - Daily news for English learners.
+- [Mr. Jay's Language Learning Tips](https://mrjkorea.github.io/wait-for-languages/) - Free weekly email with one practical English-learning tip, written by an English teacher in Korea.
 
 ### Books
 
