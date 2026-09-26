@@ -326,6 +326,7 @@ Regular practice and assessment help track your progress and identify areas for 
 - [Duolingo](https://yvoronoy.github.io/awesome-english/go/duolingo/) - Gamified language learning platform with daily exercises and progress tracking.
 - [TED](https://yvoronoy.github.io/awesome-english/go/ted/) - A vast library of talks with interactive transcripts, ideal for authentic listening practice.
 - [The Daily Lesson](https://yvoronoy.github.io/awesome-english/go/the-daily-lesson/) - 365 daily 5-minute English lessons across 4 tracks (learn / grow / teach / trivia) with an AI teacher (Kelly). Runs a live vocabulary-retention pilot with Cohen's d measurement at [/pilot](https://yvoronoy.github.io/awesome-english/go/pilot/). Free 7-day trial.
+- [I Learn English Here](https://ilearnenglishhere.academy) - Free interactive English lessons, quizzes and games for beginner to intermediate (A1-B1) learners, made by a classroom teacher. No sign-up.
 
 ### Test Preparation Resources 📚
 #### General English Tests
