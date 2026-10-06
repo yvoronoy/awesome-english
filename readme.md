@@ -307,6 +307,7 @@ These tools enhance your English learning experience with interactive features a
 ### Learning Enhancement Tools 🎯
 - [Play Phrase](https://yvoronoy.github.io/awesome-english/go/play-phrase/) - Search and play specific phrases from movies to learn natural usage.
 - [Language Reactor](https://yvoronoy.github.io/awesome-english/go/language-reactor/) - Browser extension adding dual subtitles and a hover dictionary to Netflix and YouTube.
+- [YuzuLingo](https://yuzulingo.com) - Browser extension providing client-side video OCR for real-time hover dictionary lookups on hardsubbed web videos.
 - [LingQ](https://yvoronoy.github.io/awesome-english/go/lingq/) - Read and listen to real content with instant word lookup and built-in vocabulary tracking.
 - [Lyrics Training](https://yvoronoy.github.io/awesome-english/go/lyrics-training/) - Learn English through music and song lyrics with interactive exercises.
 - [Grammarly](https://yvoronoy.github.io/awesome-english/go/grammarly/) - Writing assistant for checking grammar, spelling, and style in real-time.
