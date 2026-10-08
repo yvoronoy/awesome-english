@@ -150,6 +150,7 @@ The list includes language exchange platforms, apps for pronunciation, forums.
 - [BoldVoice](https://yvoronoy.github.io/awesome-english/go/boldvoice/) - Accent-coaching app with instant AI and real-coach feedback to make your spoken English clearer.
 - [Speak](https://yvoronoy.github.io/awesome-english/go/speak/) - AI conversation partner you talk to out loud for real speaking practice.
 - [Speechling](https://yvoronoy.github.io/awesome-english/go/speechling/) - Record sentences and get pronunciation feedback from real human coaches, free.
+- [SayItVid](https://sayitvid.com) - Video pronunciation dictionary with native video clips in context, IPA symbols, and syllable stress indicators.
 
 ## Watching
 
