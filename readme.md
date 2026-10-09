@@ -288,6 +288,7 @@ Building a strong vocabulary is crucial for effective communication. These resou
 - [Quizlet](https://yvoronoy.github.io/awesome-english/go/quizlet/) - Create and study flashcard sets with various learning modes.
 - [KaChiKa](https://yvoronoy.github.io/awesome-english/go/kachika/) - Snap a photo of any object to extract English vocabulary in real-life context, with FSRS-based flashcards.
 - [Sink In](https://yvoronoy.github.io/awesome-english/go/sink-in/) - Phrasal verbs as a system. The app has animated illustrations and flashcards
+- [WordHub](https://wordhub.top) - English vocabulary learning platform with etymology-based explanations, spaced repetition, and in-context reading. Web, browser extension, iOS and macOS apps.
 
 #### Dictionary Resources 📚
 - [Forvo](https://yvoronoy.github.io/awesome-english/go/forvo/) - Native speaker pronunciations of words from different English-speaking regions.
