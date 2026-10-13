@@ -221,6 +221,7 @@ These books vary in complexity and genre, allowing learners to choose according 
 - [Harry Potter Series](https://yvoronoy.github.io/awesome-english/go/harry-potter-series/) - Popular book series with gradually increasing language complexity, suitable for learners.
 - [Pride and Prejudice](https://yvoronoy.github.io/awesome-english/go/pride-and-prejudice/) - Classic novel offering rich insights into English literature and culture; challenging vocabulary makes it suitable for advanced learners.
 - [Animal Farm](https://yvoronoy.github.io/awesome-english/go/animal-farm/) - Short allegorical novella using simple language to convey complex themes about power and society.
+- [LingvoBerry](https://lingvoberry.com/read/en) - English stories grouped by reading level, with free previews and optional paid app features.
 
 ## Writing
 
