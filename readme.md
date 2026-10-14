@@ -135,6 +135,7 @@ Online radio stations provide real-time exposure to native English speakers, hel
 - [EngVid](https://yvoronoy.github.io/awesome-english/go/engvid/) - Provides free English video lessons on grammar, vocabulary, pronunciation, and more.
 - [Pimsleur](https://yvoronoy.github.io/awesome-english/go/pimsleur/) - Audio-first courses that build speaking and listening through spaced, spoken-response drills.
 - [Numblr](https://yvoronoy.github.io/awesome-english/go/numblr/) - Focused listening practice for English numbers — hear dates, times, phone numbers, and money amounts in real-world contexts and type what you hear. Great for IELTS/TOEFL prep.
+- [YouTongue](https://youtongue.me) - Hear any English word or phrase said by real people in short YouTube clips (US, UK and Australian accents), plus a free daily dictation from real speech.
 
 ## Speaking
 
