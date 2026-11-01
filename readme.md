@@ -280,6 +280,7 @@ Building a strong vocabulary is crucial for effective communication. These resou
 - [Ogden's Basic English](https://yvoronoy.github.io/awesome-english/go/ogdens-basic-english/) - List of 850 essential English words forming the foundation of the language; basis for Simple English Wikipedia.
 - [Book: Verbal Advantage by Charles Harrington Elster](https://yvoronoy.github.io/awesome-english/go/book-verbal-advantage-by-charles-harrington-elster/) - Advanced vocabulary building with detailed explanations and examples.
 - [Tatoeba](https://yvoronoy.github.io/awesome-english/go/tatoeba/) - Open database of millions of example sentences with translations and audio.
+- [VocaFlare Word Lists](https://vocaflare.com/en/english/words) - Free English word lists by CEFR level (A1 to C2) with meanings, downloadable as PDF.
 
 ### Study Tools 🎯
 #### Flashcard Apps
