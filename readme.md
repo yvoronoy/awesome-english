@@ -221,6 +221,7 @@ These books vary in complexity and genre, allowing learners to choose according 
 - [Harry Potter Series](https://yvoronoy.github.io/awesome-english/go/harry-potter-series/) - Popular book series with gradually increasing language complexity, suitable for learners.
 - [Pride and Prejudice](https://yvoronoy.github.io/awesome-english/go/pride-and-prejudice/) - Classic novel offering rich insights into English literature and culture; challenging vocabulary makes it suitable for advanced learners.
 - [Animal Farm](https://yvoronoy.github.io/awesome-english/go/animal-farm/) - Short allegorical novella using simple language to convey complex themes about power and society.
+- [NewGen Books](https://books.dev) - Free library of classics in the original and in AI-adapted B1-C1 editions, each with a measured CEFR level, tap-a-word translation and narration.
 
 ## Writing
 
