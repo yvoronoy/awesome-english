@@ -330,6 +330,7 @@ Regular practice and assessment help track your progress and identify areas for 
 ### Test Preparation Resources 📚
 #### General English Tests
 - [Cambridge English](https://yvoronoy.github.io/awesome-english/go/cambridge-english/) - Official practice tests for various Cambridge English qualifications.
+- [Fluentoo](https://fluentoo.fr/test-toeic-gratuit) - Free TOEIC practice test with an estimated score, no account needed (in French).
 - [IELTS Practice](https://yvoronoy.github.io/awesome-english/go/ielts-practice/) - Free IELTS practice materials.
 - [TOEFL Resources](https://yvoronoy.github.io/awesome-english/go/toefl-resources/) - Official TOEFL iBT preparation resources.
 
