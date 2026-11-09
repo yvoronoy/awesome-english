@@ -206,6 +206,7 @@ Reading is a core skill for learning English, as it builds vocabulary, enhances 
 
 - [Breaking News English](https://yvoronoy.github.io/awesome-english/go/breaking-news-english/) - Listen to, read, and write about breaking news.
 - [News in Levels](https://yvoronoy.github.io/awesome-english/go/news-in-levels/) - Current news rewritten at three difficulty levels for graded reading practice.
+- [SeoJae Story](https://www.seojaestory.app) - Free classic stories retold in graded English (A1–B2), shown line by line beside a Korean translation, with audio.
 - [Short Stories](https://yvoronoy.github.io/awesome-english/go/short-stories/) - Bite-sized fiction for everyday reading practice.
 - [Reading Room](https://yvoronoy.github.io/awesome-english/go/reading-room/) - Links to newspapers, magazines, books, and libraries for reading practice.
 - [Reading Comprehension Exercises](https://yvoronoy.github.io/awesome-english/go/reading-comprehension-exercises/) - Provides texts with exercises at three different difficulty levels.
