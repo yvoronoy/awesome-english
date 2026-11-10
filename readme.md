@@ -167,6 +167,7 @@ Watching YouTube helps learn English by providing exposure to authentic language
 - [Learn English with Let's Talk](https://yvoronoy.github.io/awesome-english/go/learn-english-with-lets-talk/) - Experts explain how to handle various daily situations and what phrases to use.
 - [Learn English With TV Series](https://yvoronoy.github.io/awesome-english/go/learn-english-with-tv-series/) - Method to enhance listening comprehension using TV shows, movies, and talk shows.
 - [RealLife English](https://yvoronoy.github.io/awesome-english/go/reallife-english/) - Videos discussing various learning methods and the mindset required to embark on your English learning journey.
+- [mmmEnglish](https://www.youtube.com/@mmmEnglish_Emma) - Free lessons from teacher Emma on pronunciation, vocabulary, and natural spoken English.
 
 ### Live TV Channels
 
