@@ -330,6 +330,7 @@ Regular practice and assessment help track your progress and identify areas for 
 ### Test Preparation Resources 📚
 #### General English Tests
 - [Cambridge English](https://yvoronoy.github.io/awesome-english/go/cambridge-english/) - Official practice tests for various Cambridge English qualifications.
+- [Cathoven IELTS](https://www.cathoven.com/) - AI-powered IELTS practice with band-score feedback on Writing and Speaking. Paid: subscription plans or pay only for the days you use.
 - [IELTS Practice](https://yvoronoy.github.io/awesome-english/go/ielts-practice/) - Free IELTS practice materials.
 - [TOEFL Resources](https://yvoronoy.github.io/awesome-english/go/toefl-resources/) - Official TOEFL iBT preparation resources.
 
