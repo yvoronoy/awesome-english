@@ -235,6 +235,7 @@ Writing is a fundamental skill in English learning that helps reinforce vocabula
 
 #### AI Writing Assistants 🤖
 - [Hemingway Editor](https://yvoronoy.github.io/awesome-english/go/hemingway-editor/) - Helps simplify and clarify your writing by identifying complex sentences and common errors.
+- [Band Score Checker](https://bandscorechecker.com/) - AI estimate of IELTS Writing band scores (Task 1 and Task 2) with comments on each criterion. The first check is free with no sign-up; paid plans add more detail. Practice only, not an official score.
 
 ### Writing Tips 💡
 - Practice writing for at least 15 minutes every day
