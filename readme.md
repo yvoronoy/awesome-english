@@ -331,6 +331,7 @@ Regular practice and assessment help track your progress and identify areas for 
 #### General English Tests
 - [Cambridge English](https://yvoronoy.github.io/awesome-english/go/cambridge-english/) - Official practice tests for various Cambridge English qualifications.
 - [IELTS Practice](https://yvoronoy.github.io/awesome-english/go/ielts-practice/) - Free IELTS practice materials.
+- [Kahoyo](https://kahoyo.com/?ref=awesome-english) - IELTS Speaking mock exam with an AI examiner that asks the questions out loud; Part 1 is free without an account.
 - [TOEFL Resources](https://yvoronoy.github.io/awesome-english/go/toefl-resources/) - Official TOEFL iBT preparation resources.
 
 #### Skill-Specific Practice
