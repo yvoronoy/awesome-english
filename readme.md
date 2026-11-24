@@ -313,6 +313,7 @@ These tools enhance your English learning experience with interactive features a
 - [BeLikeNative](https://yvoronoy.github.io/awesome-english/go/belikenative/) - L1-aware grammar and style checker that helps non-native speakers write natural English. Available as a Chrome extension.
 - [YouGlish](https://yvoronoy.github.io/awesome-english/go/youglish/) - Learn word pronunciation from real-world videos.
 - [Visuwords](https://yvoronoy.github.io/awesome-english/go/visuwords/) - Visual dictionary showing word relationships and connections.
+- [NearWord](https://nearword.app) - Point at any English word on screen, even in game dialogue or a scanned PDF, and see the definition right next to it. For Mac and Windows.
 
 ### Assessment Tools 📊
 - [Test Your Vocab](https://yvoronoy.github.io/awesome-english/go/test-your-vocab/) - Estimate your English vocabulary size.
