@@ -235,6 +235,7 @@ Writing is a fundamental skill in English learning that helps reinforce vocabula
 
 #### AI Writing Assistants 🤖
 - [Hemingway Editor](https://yvoronoy.github.io/awesome-english/go/hemingway-editor/) - Helps simplify and clarify your writing by identifying complex sentences and common errors.
+- [SupWriter](https://supwriter.com) - Fixes grammar, rewords sentences in five styles (including academic) and helps non-native writers make AI-assisted drafts sound like their own voice; free tier.
 
 ### Writing Tips 💡
 - Practice writing for at least 15 minutes every day
