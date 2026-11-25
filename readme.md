@@ -288,6 +288,7 @@ Building a strong vocabulary is crucial for effective communication. These resou
 - [Quizlet](https://yvoronoy.github.io/awesome-english/go/quizlet/) - Create and study flashcard sets with various learning modes.
 - [KaChiKa](https://yvoronoy.github.io/awesome-english/go/kachika/) - Snap a photo of any object to extract English vocabulary in real-life context, with FSRS-based flashcards.
 - [Sink In](https://yvoronoy.github.io/awesome-english/go/sink-in/) - Phrasal verbs as a system. The app has animated illustrations and flashcards
+- [Yasilove](https://yasilove.me/) - Free IELTS vocabulary trainer (5,999 words, Chinese interface) with UK/US phonetics, example sentences, spaced repetition and quizzes.
 
 #### Dictionary Resources 📚
 - [Forvo](https://yvoronoy.github.io/awesome-english/go/forvo/) - Native speaker pronunciations of words from different English-speaking regions.
