@@ -235,6 +235,7 @@ Writing is a fundamental skill in English learning that helps reinforce vocabula
 
 #### AI Writing Assistants 🤖
 - [Hemingway Editor](https://yvoronoy.github.io/awesome-english/go/hemingway-editor/) - Helps simplify and clarify your writing by identifying complex sentences and common errors.
+- [Refine](https://refine.sh) - Type a word in your native language and the fluency check suggests the English word. A Mac app with grammar checks, autocomplete, and explanations across your apps, running on a local model. Basic grammar checks are free.
 
 ### Writing Tips 💡
 - Practice writing for at least 15 minutes every day
