@@ -230,6 +230,7 @@ Writing is a fundamental skill in English learning that helps reinforce vocabula
 
 #### Practice Platforms
 - [750 Words](https://yvoronoy.github.io/awesome-english/go/750-words/) - Encourages daily private writing through gamification and statistics tracking.
+- [AshuTeacher](https://ashuteacher.vercel.app) - Free AI-powered learning PWA & Android app with an interactive voice blackboard tutor in 24+ languages, exam paper solver, adaptive quizzes, and a Project, Thesis & Research Studio.
 - [Write & Improve by Cambridge](https://yvoronoy.github.io/awesome-english/go/write-and-improve-by-cambridge/) - Offers daily writing tasks with automated feedback at various proficiency levels.
 - [ThoughtCo's ESL Writing Exercises](https://yvoronoy.github.io/awesome-english/go/thoughtcos-esl-writing-exercises/) - Provides various writing prompts and structured exercises.
 
